@@ -1,0 +1,381 @@
+{
+    "_id": "a552459627ad486ea64462a62f4cb71f",
+    "_pm_abstract": [
+        {
+            "Label": "PURPOSE",
+            "text": "Interventional hepatic arterial infusion chemotherapy of infusional fluorouracil, leucovorin, and oxaliplatin (HAIC-FO) displayed an encouraging safety profile and antitumor activity in a previous phase II trial and a propensity-score-matching study involving patients with locally advanced hepatocellular carcinoma (HCC)."
+        },
+        {
+            "Label": "METHODS",
+            "text": "In this open-label, phase III trial, patients with advanced HCC, previously untreated with systemic therapy, were randomly assigned in a 1:1 ratio to receive HAIC-FO or sorafenib. The primary end point was overall survival (OS) in the intention-to-treat population. An exploratory model for predicting the efficacy of HAIC-FO on the basis of genomic sequencing was developed."
+        },
+        {
+            "Label": "RESULTS",
+            "text": "Between May 2017 and May 2020, 262 patients were randomly assigned. The median tumor size was 11.2 cm (interquartile range, 8.5-13.7 cm). Macrovascular invasion was present in 65.6%, and the percentage of patients with > 50% tumor volume involvement of the liver and/or Vp-4 portal vein tumor thrombosis was 49.2%. At data cutoff (October 31, 2020), median OS was 13.9 months for HAIC-FO and 8.2 for sorafenib (hazard ratio [HR] 0.408; 95% CI, 0.301 to 0.552; P < .001). Tumor downstaging occurred in 16 (12.3% of 130) patients receiving HAIC-FO, including 15 receiving curative surgery or ablation, and finally achieving a median OS of 20.8 months, with a 1-year OS rate of 93.8%. In high-risk subpopulations, OS was significantly longer with HAIC-FO than with sorafenib (10.8 months v 5.7 months; HR 0.343; 95% CI, 0.219 to 0.538; P < .001). A newly developed 15-mutant-gene prediction model identified 83% of patients with response to HAIC-FO. HAIC-FO responders had longer OS than HAIC-FO nonresponders (19.3 months v 10.6 months; HR 0.323; 95% CI, 0.186 to 0.560; P = .002)."
+        },
+        {
+            "Label": "CONCLUSION",
+            "text": "HAIC-FO achieved better survival outcomes than sorafenib in advanced HCC, even in association with a high intrahepatic disease burden."
+        }
+    ],
+    "_pm_abstract_raw": "Interventional hepatic arterial infusion chemotherapy of infusional fluorouracil, leucovorin, and oxaliplatin (HAIC-FO) displayed an encouraging safety profile and antitumor activity in a previous phase II trial and a propensity-score-matching study involving patients with locally advanced hepatocellular carcinoma (HCC). In this open-label, phase III trial, patients with advanced HCC, previously untreated with systemic therapy, were randomly assigned in a 1:1 ratio to receive HAIC-FO or sorafenib. The primary end point was overall survival (OS) in the intention-to-treat population. An exploratory model for predicting the efficacy of HAIC-FO on the basis of genomic sequencing was developed. Between May 2017 and May 2020, 262 patients were randomly assigned. The median tumor size was 11.2 cm (interquartile range, 8.5-13.7 cm). Macrovascular invasion was present in 65.6%, and the percentage of patients with > 50% tumor volume involvement of the liver and/or Vp-4 portal vein tumor thrombosis was 49.2%. At data cutoff (October 31, 2020), median OS was 13.9 months for HAIC-FO and 8.2 for sorafenib (hazard ratio [HR] 0.408; 95% CI, 0.301 to 0.552; P < .001). Tumor downstaging occurred in 16 (12.3% of 130) patients receiving HAIC-FO, including 15 receiving curative surgery or ablation, and finally achieving a median OS of 20.8 months, with a 1-year OS rate of 93.8%. In high-risk subpopulations, OS was significantly longer with HAIC-FO than with sorafenib (10.8 months v 5.7 months; HR 0.343; 95% CI, 0.219 to 0.538; P < .001). A newly developed 15-mutant-gene prediction model identified 83% of patients with response to HAIC-FO. HAIC-FO responders had longer OS than HAIC-FO nonresponders (19.3 months v 10.6 months; HR 0.323; 95% CI, 0.186 to 0.560; P = .002). HAIC-FO achieved better survival outcomes than sorafenib in advanced HCC, even in association with a high intrahepatic disease burden.",
+    "_pm_id": "34905388",
+    "_pm_title": "Arterial Chemotherapy of Oxaliplatin Plus Fluorouracil Versus Sorafenib in Advanced Hepatocellular Carcinoma: A Biomolecular Exploratory, Randomized, Phase III Trial (FOHAIC-1).",
+    "_umls_result": [
+        {
+            "_semantic_type": "Therapeutic or Preventive Procedure",
+            "all_matches": [
+                {
+                    "_term": "chemotherapy",
+                    "concepts": [
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'LCH_NW')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LPDN', 'LNC')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'ICPC2ICD10ENG')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI_caDSR')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'MDR')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'SP', 'CCSR_ICD10PCS')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'MEDCIN')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'DN', 'NCI_CTRP')",
+                        "('C0392920', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'ET', 'MEDLINEPLUS')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'PDQ')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'ET', 'PSY')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'CN', 'LNC')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_PCDC')",
+                        "('C3665472', 'CHEMOTHERAPY', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_CDISC')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LLT', 'MDR')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'SNOMEDCT_US')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LPN', 'LNC')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'CSP')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'MD', 'CCS')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'ICNP')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'ICPC2P')",
+                        "('C0013216', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'ET', 'MSH')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_GDC')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PTN', 'ICPC2P')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LA', 'LNC')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PN', 'MTH')",
+                        "('C0392920', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'RT', 'NANDA-I')"
+                    ]
+                },
+                {
+                    "_term": "hepatic arterial infusion",
+                    "concepts": [
+                        "('C1134564', 'hepatic arterial infusion', 'Therapeutic or Preventive Procedure', 'SY', 'PDQ')",
+                        "('C1134564', 'hepatic arterial infusion', 'Therapeutic or Preventive Procedure', 'PT', 'CHV')",
+                        "('C1134564', 'hepatic arterial infusion', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C1134564', 'Hepatic Arterial Infusion', 'Therapeutic or Preventive Procedure', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "hepatic arterial infusion chemotherapy",
+                    "concepts": [
+                        "('C4304118', 'Hepatic arterial infusion chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "arterial infusion chemotherapy",
+                    "concepts": [
+                        "('C2721671', 'Arterial infusion chemotherapy', 'Therapeutic or Preventive Procedure', 'LLT', 'MDR')"
+                    ]
+                },
+                {
+                    "_term": "systemic",
+                    "concepts": [
+                        "('C5400982', 'Systemic', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_PCDC')"
+                    ]
+                },
+                {
+                    "_term": "systemic therapy",
+                    "concepts": [
+                        "('C1515119', 'Systemic Therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C1515119', 'systemic therapy', 'Therapeutic or Preventive Procedure', 'PT', 'CHV')",
+                        "('C1515119', 'systemic therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C1515119', 'Systemic Therapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI_caDSR')",
+                        "('C1515119', 'Systemic Therapy', 'Therapeutic or Preventive Procedure', 'DN', 'NCI_CTRP')"
+                    ]
+                },
+                {
+                    "_term": "curative",
+                    "concepts": [
+                        "('C1276305', 'Curative', 'Therapeutic or Preventive Procedure', 'SY', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "curative surgery",
+                    "concepts": [
+                        "('C1511562', 'Curative Surgery', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "ablation",
+                    "concepts": [
+                        "('C0547070', 'ablation', 'Therapeutic or Preventive Procedure', 'PT', 'PDQ')",
+                        "('C0547070', 'Ablation', 'Therapeutic or Preventive Procedure', 'PN', 'MTH')",
+                        "('C1261381', 'ablation', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C0547070', 'Ablation', 'Therapeutic or Preventive Procedure', 'LPN', 'LNC')",
+                        "('C0547070', 'ABLATION', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_CDISC')",
+                        "('C0547070', 'Ablation', 'Therapeutic or Preventive Procedure', 'SY', 'SNOMEDCT_US')",
+                        "('C0547070', 'Ablation', 'Therapeutic or Preventive Procedure', 'SY', 'NCI')",
+                        "('C0547070', 'Ablation', 'Therapeutic or Preventive Procedure', 'ET', 'PSY')",
+                        "('C0547070', 'ablation', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0547070', 'ablation', 'Therapeutic or Preventive Procedure', 'PT', 'CHV')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Neoplastic Process",
+            "all_matches": [
+                {
+                    "_term": "advanced hepatocellular carcinoma",
+                    "concepts": [
+                        "('C5238472', 'Advanced Hepatocellular Carcinoma', 'Neoplastic Process', 'PT', 'NCI')",
+                        "('C5238472', 'Advanced Hepatocellular Carcinoma', 'Neoplastic Process', 'DN', 'NCI_CTRP')"
+                    ]
+                },
+                {
+                    "_term": "hepatocellular carcinoma",
+                    "concepts": [
+                        "('C2239176', 'Hepatocellular Carcinoma', 'Neoplastic Process', 'PT', 'NCI')",
+                        "('C2239176', 'Hepatocellular Carcinoma', 'Neoplastic Process', 'ET', 'MSH')",
+                        "('C2239176', 'Hepatocellular Carcinoma', 'Neoplastic Process', 'ET', 'MEDLINEPLUS')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'PT', 'NCI_CTEP-SDC')",
+                        "('C2239176', 'Hepatocellular Carcinoma', 'Neoplastic Process', 'PT', 'NCI_CELLOSAURUS')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'ET', 'ICD10CM')",
+                        "('C2239176', 'Hepatocellular Carcinoma', 'Neoplastic Process', 'PT', 'NCI_CTRP')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'PT', 'SNOMEDCT_US')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C2239176', 'hepatocellular carcinoma', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'PTCS', 'OMIM')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'ET', 'MTHICD9')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'PT', 'HPO')",
+                        "('C2239176', 'hepatocellular carcinoma', 'Neoplastic Process', 'SY', 'CHV')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'SY', 'MEDLINEPLUS')",
+                        "('C2239176', 'HEPATOCELLULAR CARCINOMA', 'Neoplastic Process', 'PT', 'OMIM')",
+                        "('C2239176', 'Hepatocellular Carcinoma', 'Neoplastic Process', 'SY', 'NCI_caDSR')",
+                        "('C2239176', 'hepatocellular carcinoma', 'Neoplastic Process', 'PT', 'CSP')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'PT', 'MDR')"
+                    ]
+                },
+                {
+                    "_term": "carcinoma",
+                    "concepts": [
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'SY', 'NCI_caDSR')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'PT', 'HPO')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'PT', 'NCI')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'MH', 'MSH')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'PT', 'SNOMEDCT_US')",
+                        "('C0007097', 'carcinoma', 'Neoplastic Process', 'PT', 'MEDCIN')",
+                        "('C0007097', 'carcinoma', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'SY', 'MEDLINEPLUS')",
+                        "('C0007097', 'carcinoma', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'ET', 'MEDLINEPLUS')",
+                        "('C0007097', 'carcinoma', 'Neoplastic Process', 'PT', 'CSP')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'PT', 'NCI_CTRP')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'PN', 'MTH')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'LA', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "locally advanced",
+                    "concepts": [
+                        "('C0677984', 'Locally advanced', 'Neoplastic Process', 'PT', 'NCI_CTDC')"
+                    ]
+                },
+                {
+                    "_term": "locally advanced hepatocellular carcinoma",
+                    "concepts": [
+                        "('C5239576', 'Locally Advanced Hepatocellular Carcinoma', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C5239576', 'Locally Advanced Hepatocellular Carcinoma', 'Neoplastic Process', 'PT', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "tumor",
+                    "concepts": [
+                        "('C0027651', 'tumor', 'Neoplastic Process', 'ET', 'CSP')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'SY', 'HPO')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'ET', 'MSH')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'ET', 'MEDLINEPLUS')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'LPDN', 'LNC')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'LS', 'LNC')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'LA', 'LNC')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'SY', 'MEDLINEPLUS')",
+                        "('C0027651', 'tumor', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'RT', 'NANDA-I')",
+                        "('C0027651', 'tumor', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'LPN', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "tumor thrombosis",
+                    "concepts": [
+                        "('C2242635', 'Tumor thrombosis', 'Neoplastic Process', 'MTH_PT', 'MDR')",
+                        "('C2242635', 'Tumor thrombosis', 'Neoplastic Process', 'LLT', 'MDR')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Finding",
+            "all_matches": [
+                {
+                    "_term": "randomized",
+                    "concepts": [
+                        "('C3815594', 'RANDOMIZED', 'Finding', 'PT', 'NCI_CDISC')"
+                    ]
+                },
+                {
+                    "_term": "untreated",
+                    "concepts": [
+                        "('C0332155', 'untreated', 'Finding', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "tumor",
+                    "concepts": [
+                        "('C3273930', 'Tumor', 'Finding', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "tumor size",
+                    "concepts": [
+                        "('C5441575', 'Tumor size', 'Finding', 'SY', 'SNOMEDCT_US')",
+                        "('C0475440', 'tumor size', 'Finding', 'PT', 'CHV')",
+                        "('C0475440', 'Tumor size', 'Finding', 'PN', 'MTH')",
+                        "('C0475440', 'Tumor Size', 'Finding', 'PT', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "downstaging",
+                    "concepts": [
+                        "('C5418569', 'Downstaging', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5418569', 'Downstaging', 'Finding', 'PT', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "achieved",
+                    "concepts": [
+                        "('C5453128', 'Achieved', 'Finding', 'LA', 'LNC')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Patient or Disabled Group",
+            "all_matches": [
+                {
+                    "_term": "patients",
+                    "concepts": [
+                        "('C0030705', 'patients', 'Patient or Disabled Group', 'SY', 'CHV')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'PSY')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'LCH_NW')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PN', 'MTH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'MH', 'MSH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'SY', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Pathologic Function",
+            "all_matches": [
+                {
+                    "_term": "thrombosis",
+                    "concepts": [
+                        "('C0040053', 'Thrombosis', 'Pathologic Function', 'MH', 'MSH')",
+                        "('C0040053', 'Thrombosis', 'Pathologic Function', 'ET', 'MTHICD9')",
+                        "('C0040053', 'Thrombosis', 'Pathologic Function', 'PT', 'SNOMEDCT_US')",
+                        "('C0040053', 'Thrombosis', 'Pathologic Function', 'PTCS', 'OMIM')",
+                        "('C0040053', 'thrombosis', 'Pathologic Function', 'PT', 'CHV')",
+                        "('C0040053', 'thrombosis', 'Pathologic Function', 'PT', 'ICPC2ICD10ENG')",
+                        "('C0040053', 'Thrombosis', 'Pathologic Function', 'PN', 'MTH')",
+                        "('C0040053', 'Thrombosis', 'Pathologic Function', 'PT', 'NCI')",
+                        "('C0040053', 'Thrombosis', 'Pathologic Function', 'PT', 'LCH_NW')",
+                        "('C2586211', 'thrombosis', 'Pathologic Function', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0302148', 'Thrombosis', 'Pathologic Function', 'SY', 'NCI_CDISC')",
+                        "('C0040053', 'thrombosis', 'Pathologic Function', 'PT', 'CSP')",
+                        "('C0040053', 'Thrombosis', 'Pathologic Function', 'PT', 'MDR')",
+                        "('C0040053', 'Thrombosis', 'Pathologic Function', 'SY', 'NCI_caDSR')",
+                        "('C0040053', 'Thrombosis', 'Pathologic Function', 'LLT', 'MDR')",
+                        "('C0040053', 'Thrombosis', 'Pathologic Function', 'LPN', 'LNC')",
+                        "('C0040053', 'Thrombosis', 'Pathologic Function', 'LPDN', 'LNC')",
+                        "('C0040053', 'Thrombosis', 'Pathologic Function', 'PT', 'NCI_NICHD')"
+                    ]
+                }
+            ]
+        }
+    ],
+    "bio_labels": "",
+    "bio_labels_en": "",
+    "biomarker": null,
+    "clinical_stage": null,
+    "disease_labels": [
+        "局部晚期",
+        "不可切除"
+    ],
+    "disease_labels_en": [
+        " Locally advanced",
+        "Unresectable"
+    ],
+    "indications": [
+        {
+            "_id": "138",
+            "ct_disease": [
+                "Carcinoma, Hepatocellular",
+                "Primary Liver Cancer",
+                "Advanced Adult Hepatocellular Carcinoma"
+            ],
+            "department": [
+                "肿瘤科"
+            ],
+            "indication_type": [
+                "肿瘤领域",
+                "罕见疾病领域"
+            ],
+            "is_patent": "是",
+            "name": "肝细胞癌",
+            "name_en": "hepatocellular carcinoma (HCC)",
+            "name_short": "HCC",
+            "name_synonyms": [
+                "hepatocellular cancer",
+                "primary carcinoma of liver",
+                "liver cell carcinoma",
+                "hepatocellular carcinoma"
+            ],
+            "parent_indication": [
+                "137"
+            ],
+            "state": "正常"
+        }
+    ],
+    "m_stage": null,
+    "n_stage": null,
+    "pathology": null,
+    "patient_labels": [
+        "≥18 years",
+        "ECOG PS 0-2",
+        "既往未治疗"
+    ],
+    "patient_labels_en": [
+        "≥18 years",
+        "ECOG PS 0-2",
+        "no prior systemic options perfromed"
+    ],
+    "t_stage": null,
+    "therapy_labels": [
+        "一线治疗"
+    ],
+    "therapy_labels_en": [
+        "First line"
+    ],
+    "title_abbr": "FOHAIC-1"
+}

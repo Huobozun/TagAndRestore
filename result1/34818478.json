@@ -1,0 +1,652 @@
+{
+    "_id": "f58f264423d944f6a15527502a7eb9a8",
+    "_pm_abstract": [
+        {
+            "Label": "BACKGROUND",
+            "text": "Patients with von Hippel-Lindau (VHL) disease have a high incidence of renal cell carcinoma owing to VHL gene inactivation and constitutive activation of the transcription factor hypoxia-inducible factor 2α (HIF-2α)."
+        },
+        {
+            "Label": "METHODS",
+            "text": "In this phase 2, open-label, single-group trial, we investigated the efficacy and safety of the HIF-2α inhibitor belzutifan (MK-6482, previously called PT2977), administered orally at a dose of 120 mg daily, in patients with renal cell carcinoma associated with VHL disease. The primary end point was objective response (complete or partial response) as measured according to the Response Evaluation Criteria in Solid Tumors, version 1.1, by an independent central radiology review committee. We also assessed responses to belzutifan in patients with non-renal cell carcinoma neoplasms and the safety of belzutifan."
+        },
+        {
+            "Label": "RESULTS",
+            "text": "After a median follow-up of 21.8 months (range, 20.2 to 30.1), the percentage of patients with renal cell carcinoma who had an objective response was 49% (95% confidence interval, 36 to 62). Responses were also observed in patients with pancreatic lesions (47 of 61 patients [77%]) and central nervous system hemangioblastomas (15 of 50 patients [30%]). Among the 16 eyes that could be evaluated in 12 patients with retinal hemangioblastomas at baseline, all (100%) were graded as showing improvement. The most common adverse events were anemia (in 90% of the patients) and fatigue (in 66%). Seven patients discontinued treatment: four patients voluntarily discontinued, one discontinued owing to a treatment-related adverse event (grade 1 dizziness), one discontinued because of disease progression as assessed by the investigator, and one patient died (of acute toxic effects of fentanyl)."
+        },
+        {
+            "Label": "CONCLUSIONS",
+            "text": "Belzutifan was associated with predominantly grade 1 and 2 adverse events and showed activity in patients with renal cell carcinomas and non-renal cell carcinoma neoplasms associated with VHL disease. (Funded by Merck Sharp and Dohme and others; MK-6482-004 ClinicalTrials.gov number, NCT03401788.)."
+        }
+    ],
+    "_pm_abstract_raw": "Patients with von Hippel-Lindau (VHL) disease have a high incidence of renal cell carcinoma owing to VHL gene inactivation and constitutive activation of the transcription factor hypoxia-inducible factor 2α (HIF-2α). In this phase 2, open-label, single-group trial, we investigated the efficacy and safety of the HIF-2α inhibitor belzutifan (MK-6482, previously called PT2977), administered orally at a dose of 120 mg daily, in patients with renal cell carcinoma associated with VHL disease. The primary end point was objective response (complete or partial response) as measured according to the Response Evaluation Criteria in Solid Tumors, version 1.1, by an independent central radiology review committee. We also assessed responses to belzutifan in patients with non-renal cell carcinoma neoplasms and the safety of belzutifan. After a median follow-up of 21.8 months (range, 20.2 to 30.1), the percentage of patients with renal cell carcinoma who had an objective response was 49% (95% confidence interval, 36 to 62). Responses were also observed in patients with pancreatic lesions (47 of 61 patients [77%]) and central nervous system hemangioblastomas (15 of 50 patients [30%]). Among the 16 eyes that could be evaluated in 12 patients with retinal hemangioblastomas at baseline, all (100%) were graded as showing improvement. The most common adverse events were anemia (in 90% of the patients) and fatigue (in 66%). Seven patients discontinued treatment: four patients voluntarily discontinued, one discontinued owing to a treatment-related adverse event (grade 1 dizziness), one discontinued because of disease progression as assessed by the investigator, and one patient died (of acute toxic effects of fentanyl). Belzutifan was associated with predominantly grade 1 and 2 adverse events and showed activity in patients with renal cell carcinomas and non-renal cell carcinoma neoplasms associated with VHL disease. (Funded by Merck Sharp and Dohme and others; MK-6482-004 ClinicalTrials.gov number, NCT03401788.).",
+    "_pm_id": "34818478",
+    "_pm_title": "Belzutifan for Renal Cell Carcinoma in von Hippel-Lindau Disease.",
+    "_umls_result": [
+        {
+            "_semantic_type": "Neoplastic Process",
+            "all_matches": [
+                {
+                    "_term": "renal cell carcinoma",
+                    "concepts": [
+                        "('C0007134', 'renal cell carcinoma', 'Neoplastic Process', 'PT', 'MEDCIN')",
+                        "('C0007134', 'renal cell carcinoma', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0007134', 'Renal Cell Carcinoma', 'Neoplastic Process', 'PT', 'NCI')",
+                        "('C0007134', 'Renal cell carcinoma', 'Neoplastic Process', 'PT', 'HPO')",
+                        "('C0007134', 'Renal cell carcinoma', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0007134', 'renal cell carcinoma', 'Neoplastic Process', 'SY', 'PDQ')",
+                        "('C0007134', 'Renal Cell Carcinoma', 'Neoplastic Process', 'PT', 'NCI_NICHD')",
+                        "('C0007134', 'Renal cell carcinoma', 'Neoplastic Process', 'PTCS', 'OMIM')",
+                        "('C0007134', 'Renal Cell Carcinoma', 'Neoplastic Process', 'PT', 'NCI_CELLOSAURUS')",
+                        "('C0007134', 'Renal cell carcinoma', 'Neoplastic Process', 'PT', 'LCH_NW')",
+                        "('C0007134', 'renal cell carcinoma', 'Neoplastic Process', 'PT', 'CSP')",
+                        "('C0007134', 'Renal cell carcinoma', 'Neoplastic Process', 'PT', 'ICD10AM')",
+                        "('C0007134', 'Renal Cell Carcinoma', 'Neoplastic Process', 'PN', 'MTH')",
+                        "('C0007134', 'Renal Cell Carcinoma', 'Neoplastic Process', 'ET', 'MSH')",
+                        "('C0007134', 'Renal cell carcinoma', 'Neoplastic Process', 'PT', 'MDR')",
+                        "('C0007134', 'Renal Cell Carcinoma', 'Neoplastic Process', 'SY', 'NCI_CTRP')",
+                        "('C0007134', 'renal cell carcinoma', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0007134', 'Renal Cell Carcinoma', 'Neoplastic Process', 'SY', 'NCI_caDSR')",
+                        "('C0007134', 'Renal cell carcinoma', 'Neoplastic Process', 'PT', 'SNOMEDCT_US')",
+                        "('C0279702', 'renal cell carcinoma', 'Neoplastic Process', 'PSC', 'PDQ')"
+                    ]
+                },
+                {
+                    "_term": "carcinoma",
+                    "concepts": [
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'SY', 'NCI_caDSR')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'PT', 'HPO')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'PT', 'NCI')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'MH', 'MSH')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'PT', 'SNOMEDCT_US')",
+                        "('C0007097', 'carcinoma', 'Neoplastic Process', 'PT', 'MEDCIN')",
+                        "('C0007097', 'carcinoma', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'SY', 'MEDLINEPLUS')",
+                        "('C0007097', 'carcinoma', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'ET', 'MEDLINEPLUS')",
+                        "('C0007097', 'carcinoma', 'Neoplastic Process', 'PT', 'CSP')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'PT', 'NCI_CTRP')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'PN', 'MTH')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'LA', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "solid tumors",
+                    "concepts": [
+                        "('C0280100', 'solid tumors', 'Neoplastic Process', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "tumors",
+                    "concepts": [
+                        "('C0027651', 'Tumors', 'Neoplastic Process', 'ID', 'NOC')",
+                        "('C0027651', 'Tumors', 'Neoplastic Process', 'ET', 'PSY')",
+                        "('C0027651', 'tumors', 'Neoplastic Process', 'SY', 'CHV')",
+                        "('C0027651', 'Tumors', 'Neoplastic Process', 'ET', 'MSH')",
+                        "('C0027651', 'Tumors', 'Neoplastic Process', 'PT', 'LCH_NW')"
+                    ]
+                },
+                {
+                    "_term": "neoplasms",
+                    "concepts": [
+                        "('C0027651', 'Neoplasms', 'Neoplastic Process', 'SY', 'MEDLINEPLUS')",
+                        "('C0027651', 'Neoplasms', 'Neoplastic Process', 'ET', 'MEDLINEPLUS')",
+                        "('C0027651', 'NEOPLASMS', 'Neoplastic Process', 'HT', 'ICD9CM')",
+                        "('C0027651', 'Neoplasms', 'Neoplastic Process', 'MD', 'CCS')",
+                        "('C0027651', 'Neoplasms', 'Neoplastic Process', 'HT', 'ICD10')",
+                        "('C0027651', 'Neoplasms', 'Neoplastic Process', 'PT', 'MTH')",
+                        "('C0027651', 'Neoplasms', 'Neoplastic Process', 'PN', 'MTH')",
+                        "('C0027651', 'neoplasms', 'Neoplastic Process', 'SY', 'CHV')",
+                        "('C0027651', 'Neoplasms', 'Neoplastic Process', 'PT', 'PSY')",
+                        "('C0027651', 'Neoplasms', 'Neoplastic Process', 'HT', 'ICD10AM')",
+                        "('C0027651', 'Neoplasms', 'Neoplastic Process', 'MH', 'MSH')"
+                    ]
+                },
+                {
+                    "_term": "hemangioblastomas",
+                    "concepts": [
+                        "('C0206734', 'hemangioblastomas', 'Neoplastic Process', 'SY', 'CHV')",
+                        "('C0206734', 'Hemangioblastomas', 'Neoplastic Process', 'PM', 'MSH')"
+                    ]
+                },
+                {
+                    "_term": "grade 1",
+                    "concepts": [
+                        "('C1956130', 'Grade 1', 'Neoplastic Process', 'SY', 'NCI_caDSR')"
+                    ]
+                },
+                {
+                    "_term": "progression",
+                    "concepts": [
+                        "('C0178874', 'Progression', 'Neoplastic Process', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "renal cell carcinomas",
+                    "concepts": [
+                        "('C0007134', 'Renal Cell Carcinomas', 'Neoplastic Process', 'PM', 'MSH')"
+                    ]
+                },
+                {
+                    "_term": "carcinomas",
+                    "concepts": [
+                        "('C0007097', 'Carcinomas', 'Neoplastic Process', 'ET', 'PSY')",
+                        "('C0007097', 'Carcinomas', 'Neoplastic Process', 'PM', 'MSH')",
+                        "('C0007097', 'carcinomas', 'Neoplastic Process', 'SY', 'CHV')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Disease or Syndrome",
+            "all_matches": [
+                {
+                    "_term": "hippel",
+                    "concepts": [
+                        "('C0019562', 'Hippel', 'Disease or Syndrome', 'PT', 'ICPC2ICD10ENG')"
+                    ]
+                },
+                {
+                    "_term": "hippel-lindau disease",
+                    "concepts": [
+                        "('C0019562', 'hippel-lindau disease', 'Disease or Syndrome', 'SY', 'CHV')",
+                        "('C0019562', 'Hippel-Lindau Disease', 'Disease or Syndrome', 'ET', 'MSH')"
+                    ]
+                },
+                {
+                    "_term": "lindau disease",
+                    "concepts": [
+                        "('C0019562', 'lindau disease', 'Disease or Syndrome', 'SY', 'CHV')",
+                        "('C0019562', 'Lindau Disease', 'Disease or Syndrome', 'ET', 'MSH')"
+                    ]
+                },
+                {
+                    "_term": "anemia",
+                    "concepts": [
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'ID', 'NOC')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'LA', 'LNC')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'LPDN', 'LNC')",
+                        "('C0002871', 'anemia', 'Disease or Syndrome', 'PT', 'CSP')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'PT', 'LCH_NW')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'MTH_PT', 'MDR')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'PT', 'NCI_CTCAE')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'RT', 'NANDA-I')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'SY', 'NCI_caDSR')",
+                        "('C0002871', 'ANEMIA', 'Disease or Syndrome', 'SY', 'MTH')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'LLT', 'MDR')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'MH', 'MSH')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'DN', 'NCI_CTRP')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'PT', 'SNOMEDCT_US')",
+                        "('C0002871', 'anemia', 'Disease or Syndrome', 'PT', 'ICPC2ICD10ENG')",
+                        "('C0002871', 'anemia', 'Disease or Syndrome', 'PT', 'CHV')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'PT', 'MTH')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'PT', 'NCI')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'PT', 'NCI_FDA')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'CN', 'LNC')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'PT', 'MEDLINEPLUS')",
+                        "('C0002871', 'anemia', 'Disease or Syndrome', 'SI', 'OMS')",
+                        "('C0002871', 'anemia', 'Disease or Syndrome', 'PT', 'MEDCIN')",
+                        "('C0002871', 'anemia', 'Disease or Syndrome', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'PT', 'NCI_NICHD')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'MD', 'CCS')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'PT', 'NCI_CELLOSAURUS')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'PTCS', 'OMIM')",
+                        "('C0002871', 'anemia', 'Disease or Syndrome', 'PT', 'PDQ')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'LPN', 'LNC')",
+                        "('C0002871', 'anemia', 'Disease or Syndrome', 'MTH_PTN', 'ICPC2P')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'PT', 'HPO')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'PT', 'PSY')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'PT', 'NCI_GDC')",
+                        "('C0002871', 'Anemia', 'Disease or Syndrome', 'PN', 'MTH')"
+                    ]
+                },
+                {
+                    "_term": "disease progression",
+                    "concepts": [
+                        "('C1335499', 'Disease Progression', 'Disease or Syndrome', 'SY', 'NCI_CDISC')"
+                    ]
+                },
+                {
+                    "_term": "acute",
+                    "concepts": [
+                        "('C0856825', 'Acute', 'Disease or Syndrome', 'PT', 'NCI_PCDC')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Patient or Disabled Group",
+            "all_matches": [
+                {
+                    "_term": "patients",
+                    "concepts": [
+                        "('C0030705', 'patients', 'Patient or Disabled Group', 'SY', 'CHV')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'PSY')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'LCH_NW')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PN', 'MTH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'MH', 'MSH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'SY', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Pathologic Function",
+            "all_matches": [
+                {
+                    "_term": "hypoxia",
+                    "concepts": [
+                        "('C0242184', 'hypoxia', 'Pathologic Function', 'PT', 'MEDCIN')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'PT', 'NCI_NICHD')",
+                        "('C0242184', 'hypoxia', 'Pathologic Function', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'PT', 'ICPC2P')",
+                        "('C0242184', 'hypoxia', 'Pathologic Function', 'SY', 'CHV')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'LLT', 'MDR')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'PTCS', 'OMIM')",
+                        "('C0242184', 'hypoxia', 'Pathologic Function', 'PT', 'CSP')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'ID', 'NOC')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'PN', 'MTH')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'PT', 'NCI_CTCAE')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'LA', 'LNC')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'PT', 'MDR')",
+                        "('C0242184', 'hypoxia', 'Pathologic Function', 'PTN', 'ICPC2P')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'RT', 'NANDA-I')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'ET', 'PSY')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'PT', 'SNOMEDCT_US')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'PT', 'MTH')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'PT', 'NCI')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'PT', 'NCI_FDA')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'MH', 'MSH')",
+                        "('C0242184', 'Hypoxia', 'Pathologic Function', 'ET', 'HPO')"
+                    ]
+                },
+                {
+                    "_term": "adverse events",
+                    "concepts": [
+                        "('C0877248', 'adverse events', 'Pathologic Function', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "adverse event",
+                    "concepts": [
+                        "('C0877248', 'Adverse event', 'Pathologic Function', 'LLT', 'MDR')",
+                        "('C0877248', 'Adverse event', 'Pathologic Function', 'SY', 'SNOMEDCT_VET')",
+                        "('C0877248', 'adverse event', 'Pathologic Function', 'SY', 'NCI_ICDC')",
+                        "('C0877248', 'Adverse Event', 'Pathologic Function', 'PT', 'NCI_PCDC')",
+                        "('C0877248', 'Adverse event', 'Pathologic Function', 'LPN', 'LNC')",
+                        "('C0877248', 'Adverse event', 'Pathologic Function', 'LA', 'LNC')",
+                        "('C0877248', 'Adverse Event', 'Pathologic Function', 'PT', 'NCI_GDC')",
+                        "('C0877248', 'Adverse Event', 'Pathologic Function', 'PT', 'NCI')",
+                        "('C0877248', 'ADVERSE EVENT', 'Pathologic Function', 'PT', 'NCI_FDA')",
+                        "('C0877248', 'Adverse event', 'Pathologic Function', 'PN', 'MTH')",
+                        "('C0877248', 'Adverse event', 'Pathologic Function', 'PT', 'MDR')",
+                        "('C0877248', 'Adverse event', 'Pathologic Function', 'CN', 'LNC')",
+                        "('C0877248', 'adverse event', 'Pathologic Function', 'PT', 'CHV')",
+                        "('C0877248', 'Adverse Event', 'Pathologic Function', 'SY', 'NCI_caDSR')",
+                        "('C0877248', 'ADVERSE EVENT', 'Pathologic Function', 'PT', 'NCI_CDISC')",
+                        "('C0877248', 'adverse event', 'Pathologic Function', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0877248', 'Adverse event', 'Pathologic Function', 'LPDN', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "disease progression",
+                    "concepts": [
+                        "('C0242656', 'Disease progression', 'Pathologic Function', 'LLT', 'MDR')",
+                        "('C0242656', 'Disease progression', 'Pathologic Function', 'LA', 'LNC')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'PT', 'NCI_PCDC')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'PT', 'NCI')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'PT', 'NCI_GDC')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'PN', 'MTH')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'SY', 'NCI_caDSR')",
+                        "('C0242656', 'disease progression', 'Pathologic Function', 'ET', 'CSP')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'MH', 'MSH')",
+                        "('C1947901', 'disease progression', 'Pathologic Function', 'SY', 'NCI_NCI-GLOSS')",
+                        "('C0242656', 'Disease progression', 'Pathologic Function', 'PT', 'MDR')",
+                        "('C0242656', 'disease progression', 'Pathologic Function', 'PT', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "progression",
+                    "concepts": [
+                        "('C0242656', 'progression', 'Pathologic Function', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0242656', 'Progression', 'Pathologic Function', 'SY', 'NCI')",
+                        "('C1947901', 'progression', 'Pathologic Function', 'SY', 'NCI_NCI-GLOSS')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Finding",
+            "all_matches": [
+                {
+                    "_term": "hypoxia",
+                    "concepts": [
+                        "('C1963140', 'Hypoxia', 'Finding', 'PT', 'NCI_GDC')",
+                        "('C1963140', 'Hypoxia', 'Finding', 'PT', 'NCI_CTCAE_3')",
+                        "('C1963140', 'Hypoxia', 'Finding', 'PT', 'NCI_CTCAE_5')"
+                    ]
+                },
+                {
+                    "_term": "pt2",
+                    "concepts": [
+                        "('C0332392', 'pT2', 'Finding', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "partial response",
+                    "concepts": [
+                        "('C1521726', 'partial response', 'Finding', 'PN', 'MTH')",
+                        "('C1521726', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5202622', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C1521726', 'Partial Response', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C1521726', 'Partial Response', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C5202621', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5401418', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C1521726', 'partial response', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C5202892', 'Partial Response', 'Finding', 'SY', 'NCI')",
+                        "('C1521726', 'Partial response', 'Finding', 'LA', 'LNC')",
+                        "('C5202623', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C1521726', 'Partial Response', 'Finding', 'PT', 'NCI_GDC')",
+                        "('C1521726', 'Partial Response', 'Finding', 'SY', 'NCI')",
+                        "('C1521726', 'Partial Response', 'Finding', 'PT', 'NCI_ICDC')",
+                        "('C4723835', 'Partial Response', 'Finding', 'SY', 'NCI')",
+                        "('C5202620', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5202624', 'Partial Response', 'Finding', 'SY', 'NCI')",
+                        "('C1521726', 'Partial response', 'Finding', 'PT', 'NCI_CTDC')",
+                        "('C5202891', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')"
+                    ]
+                },
+                {
+                    "_term": "radiology",
+                    "concepts": [
+                        "('C1405978', 'radiology', 'Finding', 'PT', 'ICPC2ICD10ENG')"
+                    ]
+                },
+                {
+                    "_term": "follow-up",
+                    "concepts": [
+                        "('C0589120', 'Follow-up', 'Finding', 'SY', 'SNOMEDCT_US')",
+                        "('C0589120', 'Follow-up', 'Finding', 'LA', 'LNC')",
+                        "('C0589120', 'follow-up', 'Finding', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "lesions",
+                    "concepts": [
+                        "('C0221198', 'Lesions', 'Finding', 'PT', 'PSY')",
+                        "('C0221198', 'lesions', 'Finding', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "nervous system",
+                    "concepts": [
+                        "('C0422837', 'NERVOUS SYSTEM', 'Finding', 'PT', 'NCI_CDISC')"
+                    ]
+                },
+                {
+                    "_term": "anemia",
+                    "concepts": [
+                        "('C4554633', 'Anemia', 'Finding', 'PT', 'NCI_CTCAE_5')",
+                        "('C4554633', 'Anemia', 'Finding', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "fatigue",
+                    "concepts": [
+                        "('C4554645', 'Fatigue', 'Finding', 'PT', 'NCI_CTCAE_5')",
+                        "('C4554645', 'Fatigue', 'Finding', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "discontinued",
+                    "concepts": [
+                        "('C1444662', 'DISCONTINUED', 'Finding', 'PT', 'NCI_CDISC')",
+                        "('C1444662', 'Discontinued', 'Finding', 'PT', 'SNOMEDCT_US')",
+                        "('C1444662', 'Discontinued', 'Finding', 'AD', 'NCI')",
+                        "('C1444662', 'Discontinued', 'Finding', 'PN', 'MTH')"
+                    ]
+                },
+                {
+                    "_term": "related",
+                    "concepts": [
+                        "('C0445223', 'Related', 'Finding', 'LA', 'LNC')",
+                        "('C0445223', 'Related', 'Finding', 'PT', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "grade 1",
+                    "concepts": [
+                        "('C1513302', 'Grade 1', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C0687695', 'Grade 1', 'Finding', 'PT', 'SNOMEDCT_US')",
+                        "('C0475269', 'GRADE 1', 'Finding', 'PT', 'NCI_CDISC')",
+                        "('C3889292', 'GRADE 1', 'Finding', 'PT', 'NCI_CDISC')",
+                        "('C0475269', 'Grade 1', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C1513302', 'Grade 1', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C0475269', 'Grade 1', 'Finding', 'PT', 'NCI')",
+                        "('C1513302', 'Grade 1', 'Finding', 'PT', 'NCI_GDC')",
+                        "('C0687695', 'grade 1', 'Finding', 'PT', 'CHV')",
+                        "('C0475269', 'Grade 1', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C0687695', 'Grade 1', 'Finding', 'LA', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "grade 1 dizziness",
+                    "concepts": [
+                        "('C1561312', 'Grade 1 Dizziness', 'Finding', 'PT', 'NCI_CTCAE_3')",
+                        "('C1561312', 'Grade 1 Dizziness', 'Finding', 'PT', 'NCI_CTCAE_5')"
+                    ]
+                },
+                {
+                    "_term": "dizziness",
+                    "concepts": [
+                        "('C4553830', 'Dizziness', 'Finding', 'PT', 'NCI_CTCAE_5')",
+                        "('C1963093', 'Dizziness', 'Finding', 'PT', 'NCI_CTCAE_3')",
+                        "('C4553830', 'Dizziness', 'Finding', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "disease progression",
+                    "concepts": [
+                        "('C5239280', 'Disease Progression', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C4552808', 'Disease progression', 'Finding', 'PT', 'NCI_CTCAE_5')"
+                    ]
+                },
+                {
+                    "_term": "patient died",
+                    "concepts": [
+                        "('C1306577', 'patient died', 'Finding', 'PT', 'MEDCIN')",
+                        "('C1306577', 'Patient died', 'Finding', 'LA', 'LNC')",
+                        "('C1306577', 'patient died', 'Finding', 'PT', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "died",
+                    "concepts": [
+                        "('C1546956', 'Died', 'Finding', 'SY', 'SNOMEDCT_US')",
+                        "('C1306577', 'Died', 'Finding', 'LA', 'LNC')",
+                        "('C1546956', 'Died', 'Finding', 'PT', 'HL7V2.5')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Clinical Attribute",
+            "all_matches": [
+                {
+                    "_term": "dose",
+                    "concepts": [
+                        "('C1114758', 'Dose', 'Clinical Attribute', '#OSN', 'LNC')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Sign or Symptom",
+            "all_matches": [
+                {
+                    "_term": "fatigue",
+                    "concepts": [
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'SY', 'NCI_caDSR')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'LPDN', 'LNC')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'ET', 'PDQ')",
+                        "('C0015672', 'fatigue', 'Sign or Symptom', 'PT', 'MEDCIN')",
+                        "('C0015672', 'fatigue', 'Sign or Symptom', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0015672', 'fatigue', 'Sign or Symptom', 'PT', 'PDQ')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PT', 'SNOMEDCT_US')",
+                        "('C0015672', 'FATIGUE', 'Sign or Symptom', 'PT', 'NCI_CDISC')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PT', 'NCI')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PT', 'NCI_FDA')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'DN', 'NCI_CTRP')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'MH', 'MSH')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PT', 'CCC')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PT', 'MEDLINEPLUS')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PT', 'NCI_NICHD')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PT', 'ICPC2P')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'LPN', 'LNC')",
+                        "('C0015672', 'fatigue', 'Sign or Symptom', 'PT', 'CSP')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PT', 'ICNP')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PT', 'HPO')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'LLT', 'MDR')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PT', 'PSY')",
+                        "('C0015672', 'fatigue', 'Sign or Symptom', 'PT', 'ICPC2ICD10ENG')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'CN', 'LNC')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PT', 'CPM')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PTCS', 'OMIM')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PT', 'NANDA-I')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'ID', 'NOC')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PN', 'MTH')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PT', 'LCH_NW')",
+                        "('C0015672', 'fatigue', 'Sign or Symptom', 'PTN', 'ICPC2P')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'SY', 'HPO')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PT', 'NCI_CTCAE')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'LA', 'LNC')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'PT', 'MDR')",
+                        "('C0015672', 'fatigue', 'Sign or Symptom', 'PT', 'CHV')",
+                        "('C0015672', 'Fatigue', 'Sign or Symptom', 'RT', 'NANDA-I')"
+                    ]
+                },
+                {
+                    "_term": "dizziness",
+                    "concepts": [
+                        "('C0012833', 'dizziness', 'Sign or Symptom', 'PT', 'ICPC2ICD10ENG')",
+                        "('C0042571', 'dizziness', 'Sign or Symptom', 'PT', 'CHV')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'PT', 'SNOMEDCT_US')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'PT', 'NCI')",
+                        "('C0012833', 'dizziness', 'Sign or Symptom', 'PT', 'MEDCIN')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'PT', 'NCI_FDA')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'MH', 'MSH')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'PT', 'NCI_NICHD')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'PT', 'ICPC2P')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'ET', 'HPO')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'ET', 'PSY')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'PT', 'ICNP')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'LLT', 'MDR')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'PTCS', 'OMIM')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'PT', 'ICF-CY')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'ID', 'NOC')",
+                        "('C0012833', 'dizziness', 'Sign or Symptom', 'PTN', 'ICPC2P')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'PN', 'MTH')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'PT', 'ICF')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'PT', 'LCH_NW')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'PT', 'NCI_CTCAE')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'LA', 'LNC')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'PT', 'MDR')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'SY', 'NCI_caDSR')",
+                        "('C0012833', 'Dizziness', 'Sign or Symptom', 'PT', 'NCI_ACC-AHA')",
+                        "('C0012833', 'dizziness', 'Sign or Symptom', 'PT', 'CHV')"
+                    ]
+                }
+            ]
+        }
+    ],
+    "bio_labels": [
+        "VHL病"
+    ],
+    "bio_labels_en": [
+        "von Hippel Lindau disease"
+    ],
+    "biomarker": null,
+    "clinical_stage": null,
+    "disease_labels": "",
+    "disease_labels_en": "",
+    "indications": [
+        {
+            "_id": "944",
+            "ct_disease": [
+                "Neuroendocrine Tumors",
+                "Carcinoma, Neuroendocrine"
+            ],
+            "department": [
+                "肿瘤科"
+            ],
+            "indication_type": [
+                "肿瘤领域",
+                "罕见疾病领域"
+            ],
+            "is_patent": "是",
+            "name": "神经内分泌肿瘤",
+            "name_en": "neuroendocrine tumor (NET)",
+            "name_short": "NET",
+            "name_synonyms": [
+                "neuroendocrine neoplasm (NEN)",
+                "neuroendocrine carcinoma",
+                "神经内分泌瘤",
+                "neuroendocrine tumor",
+                "neuroendocrine neoplasm"
+            ],
+            "parent_indication": [
+                "5289"
+            ],
+            "state": "正常"
+        },
+        {
+            "_id": "157",
+            "ct_disease": [
+                "Carcinoma, Renal Cell",
+                "Renal Cell Carcinoma",
+                "Chromophil Renal Cell Carcinoma",
+                "Chromophobe Renal Cell Carcinoma"
+            ],
+            "department": [
+                "肿瘤科"
+            ],
+            "indication_type": [
+                "肿瘤领域",
+                "罕见疾病领域"
+            ],
+            "is_patent": "是",
+            "name": "肾细胞癌",
+            "name_en": "renal cell carcinoma (RCC)",
+            "name_short": "RCC",
+            "name_synonyms": [
+                "renal-cell carcinoma",
+                "renal cell cancer",
+                "renal cell carcinoma"
+            ],
+            "parent_indication": [
+                "156"
+            ],
+            "state": "正常"
+        }
+    ],
+    "m_stage": null,
+    "n_stage": null,
+    "pathology": null,
+    "patient_labels": [
+        "≥ 18 years",
+        "ECOG PS 0–1",
+        "肿瘤大小不超过3 cm",
+        "无转移性疾病"
+    ],
+    "patient_labels_en": [
+        "≥ 18 years",
+        "ECOG PS 0–1",
+        "the tumor size was less than 3 cm",
+        "no distant metastatic"
+    ],
+    "t_stage": null,
+    "therapy_labels": "",
+    "therapy_labels_en": [],
+    "title_abbr": "NCT03401788"
+}

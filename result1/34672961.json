@@ -1,0 +1,576 @@
+{
+    "_id": "029b45e4f2744ab1973e8103f7f1114c",
+    "_pm_abstract": [
+        {
+            "Label": "BACKGROUND",
+            "text": "Enasidenib is an oral inhibitor of mutant isocitrate dehydrogenase-2 (IDH2) proteins. We evaluated the safety and activity of enasidenib plus azacitidine versus azacitidine alone in patients with newly diagnosed, mutant-IDH2 acute myeloid leukaemia ineligible for intensive chemotherapy."
+        },
+        {
+            "Label": "METHODS",
+            "text": "This open-label, phase 1b/2 trial was done at 43 clinical sites in 12 countries (the USA, Germany, Canada, the UK, France, Spain, Australia, Italy, the Netherlands, Portugal, Switzerland, and South Korea). Eligible patients were aged 18 years or older and had newly diagnosed, mutant-IDH2 acute myeloid leukaemia, and an Eastern Cooperative Oncology Group performance status of 0-2. In the phase 1b dose-finding portion, patients received oral enasidenib 100 mg/day or 200 mg/day in continuous 28-day cycles, plus subcutaneous azacitidine 75 mg/m2 per day for 7 days of each cycle. In phase 2, patients were randomly assigned (2:1) via an interactive web response system to enasidenib plus azacitidine or azacitidine-only, stratified by acute myeloid leukaemia subtype (de novo or secondary). The primary endpoint in the phase 2 portion was the overall response rate in the intention-to-treat population at a prespecified interim analysis (Aug 20, 2019) when all patients had at least 1 year of follow-up. Safety was assessed in all patients who received at least one dose of study drug. The trial is registered with ClinicalTrials.gov, NCT02677922, and is ongoing."
+        },
+        {
+            "Label": "FINDINGS",
+            "text": "Between June 3, 2016, and Aug 2, 2018, 322 patients were screened and 107 patients with mutant-IDH2 acute myeloid leukaemia were enrolled. At data cutoff for the interim analysis, 24 patients (including two from the phase 1 portion) were still receiving their assigned treatment. Six patients were enrolled in the phase 1b dose-finding portion of the trial and received enasidenib 100 mg (n=3) or 200 mg (n=3) in combination with azacitidine. No dose-limiting toxicities occurred and the enasidenib 100 mg dose was selected for phase 2. In phase 2, 101 patients were randomly assigned to enasidenib plus azacitidine (n=68) or azacitidine only (n=33). Median age was 75 years (IQR 71-78). 50 (74%; 95% CI 61-84) patients in the enasidenib plus azacitidine combination group and 12 (36%; 20-55) patients in the azacitidine monotherapy group achieved an overall response (odds ratio 4·9 [95% CI 2·0-11·9]; p=0·0003). Common treatment-related grade 3 or 4 adverse events with enasidenib plus azacitidine were thrombocytopenia (25 [37%] of 68 vs six [19%] of 32 in the azacitidine-only group), neutropenia (25 [37%] vs eight [25%]), anaemia (13 [19%] vs seven [22%]), and febrile neutropenia (11 [16%] vs five [16%]). Serious treatment-related adverse events were reported in 29 (43%) patients in the combination group and 14 (44%) patients in the azacitidine-only group; serious treatment-related adverse events occurring in more than 5% of patients in either group were febrile neutropenia (nine [13%] in the combination group vs five [16%] in the azacitidine-only group), differentiation syndrome (seven [10%] vs none), and pneumonia (three [4%] vs two [6%]). No treatment-related deaths were reported."
+        },
+        {
+            "Label": "INTERPRETATION",
+            "text": "Combination enasidenib plus azacitidine was well tolerated and significantly improved overall response rates compared with azacitidine monotherapy, suggesting that this regimen can improve outcomes for patients with newly diagnosed, mutant-IDH2 acute myeloid leukaemia."
+        },
+        {
+            "Label": "FUNDING",
+            "text": "Bristol Myers Squibb."
+        }
+    ],
+    "_pm_abstract_raw": "Enasidenib is an oral inhibitor of mutant isocitrate dehydrogenase-2 (IDH2) proteins. We evaluated the safety and activity of enasidenib plus azacitidine versus azacitidine alone in patients with newly diagnosed, mutant-IDH2 acute myeloid leukaemia ineligible for intensive chemotherapy. This open-label, phase 1b/2 trial was done at 43 clinical sites in 12 countries (the USA, Germany, Canada, the UK, France, Spain, Australia, Italy, the Netherlands, Portugal, Switzerland, and South Korea). Eligible patients were aged 18 years or older and had newly diagnosed, mutant-IDH2 acute myeloid leukaemia, and an Eastern Cooperative Oncology Group performance status of 0-2. In the phase 1b dose-finding portion, patients received oral enasidenib 100 mg/day or 200 mg/day in continuous 28-day cycles, plus subcutaneous azacitidine 75 mg/m2 per day for 7 days of each cycle. In phase 2, patients were randomly assigned (2:1) via an interactive web response system to enasidenib plus azacitidine or azacitidine-only, stratified by acute myeloid leukaemia subtype (de novo or secondary). The primary endpoint in the phase 2 portion was the overall response rate in the intention-to-treat population at a prespecified interim analysis (Aug 20, 2019) when all patients had at least 1 year of follow-up. Safety was assessed in all patients who received at least one dose of study drug. The trial is registered with ClinicalTrials.gov, NCT02677922, and is ongoing. Between June 3, 2016, and Aug 2, 2018, 322 patients were screened and 107 patients with mutant-IDH2 acute myeloid leukaemia were enrolled. At data cutoff for the interim analysis, 24 patients (including two from the phase 1 portion) were still receiving their assigned treatment. Six patients were enrolled in the phase 1b dose-finding portion of the trial and received enasidenib 100 mg (n=3) or 200 mg (n=3) in combination with azacitidine. No dose-limiting toxicities occurred and the enasidenib 100 mg dose was selected for phase 2. In phase 2, 101 patients were randomly assigned to enasidenib plus azacitidine (n=68) or azacitidine only (n=33). Median age was 75 years (IQR 71-78). 50 (74%; 95% CI 61-84) patients in the enasidenib plus azacitidine combination group and 12 (36%; 20-55) patients in the azacitidine monotherapy group achieved an overall response (odds ratio 4·9 [95% CI 2·0-11·9]; p=0·0003). Common treatment-related grade 3 or 4 adverse events with enasidenib plus azacitidine were thrombocytopenia (25 [37%] of 68 vs six [19%] of 32 in the azacitidine-only group), neutropenia (25 [37%] vs eight [25%]), anaemia (13 [19%] vs seven [22%]), and febrile neutropenia (11 [16%] vs five [16%]). Serious treatment-related adverse events were reported in 29 (43%) patients in the combination group and 14 (44%) patients in the azacitidine-only group; serious treatment-related adverse events occurring in more than 5% of patients in either group were febrile neutropenia (nine [13%] in the combination group vs five [16%] in the azacitidine-only group), differentiation syndrome (seven [10%] vs none), and pneumonia (three [4%] vs two [6%]). No treatment-related deaths were reported. Combination enasidenib plus azacitidine was well tolerated and significantly improved overall response rates compared with azacitidine monotherapy, suggesting that this regimen can improve outcomes for patients with newly diagnosed, mutant-IDH2 acute myeloid leukaemia. Bristol Myers Squibb.",
+    "_pm_id": "34672961",
+    "_pm_title": "Enasidenib plus azacitidine versus azacitidine alone in patients with newly diagnosed, mutant-IDH2 acute myeloid leukaemia (AG221-AML-005): a single-arm, phase 1b and randomised, phase 2 trial.",
+    "_umls_result": [
+        {
+            "_semantic_type": "Patient or Disabled Group",
+            "all_matches": [
+                {
+                    "_term": "patients",
+                    "concepts": [
+                        "('C0030705', 'patients', 'Patient or Disabled Group', 'SY', 'CHV')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'PSY')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'LCH_NW')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PN', 'MTH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'MH', 'MSH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'SY', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Disease or Syndrome",
+            "all_matches": [
+                {
+                    "_term": "acute",
+                    "concepts": [
+                        "('C0856825', 'Acute', 'Disease or Syndrome', 'PT', 'NCI_PCDC')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C3889290', 'GRADE 3', 'Disease or Syndrome', 'PT', 'NCI_CDISC')"
+                    ]
+                },
+                {
+                    "_term": "thrombocytopenia",
+                    "concepts": [
+                        "('C0040034', 'thrombocytopenia', 'Disease or Syndrome', 'PT', 'CSP')",
+                        "('C0040034', 'Thrombocytopenia', 'Disease or Syndrome', 'LLT', 'MDR')",
+                        "('C0040034', 'Thrombocytopenia', 'Disease or Syndrome', 'SY', 'SNOMEDCT_US')",
+                        "('C0040034', 'Thrombocytopenia', 'Disease or Syndrome', 'MD', 'CCS')",
+                        "('C0040034', 'Thrombocytopenia', 'Disease or Syndrome', 'PT', 'HPO')",
+                        "('C0040034', 'Thrombocytopenia', 'Disease or Syndrome', 'ID', 'NOC')",
+                        "('C0040034', 'Thrombocytopenia', 'Disease or Syndrome', 'PN', 'MTH')",
+                        "('C0040034', 'Thrombocytopenia', 'Disease or Syndrome', 'PT', 'LCH_NW')",
+                        "('C0040034', 'thrombocytopenia', 'Disease or Syndrome', 'PT', 'ICPC2ICD10ENG')",
+                        "('C0040034', 'Thrombocytopenia', 'Disease or Syndrome', 'PT', 'MDR')",
+                        "('C0040034', 'thrombocytopenia', 'Disease or Syndrome', 'PT', 'MEDCIN')",
+                        "('C0040034', 'thrombocytopenia', 'Disease or Syndrome', 'PT', 'PDQ')",
+                        "('C0040034', 'thrombocytopenia', 'Disease or Syndrome', 'SY', 'CHV')",
+                        "('C0040034', 'thrombocytopenia', 'Disease or Syndrome', 'MTH_PTN', 'ICPC2P')",
+                        "('C0040034', 'Thrombocytopenia', 'Disease or Syndrome', 'MH', 'MSH')",
+                        "('C0040034', 'Thrombocytopenia', 'Disease or Syndrome', 'ET', 'MEDLINEPLUS')",
+                        "('C0040034', 'thrombocytopenia', 'Disease or Syndrome', 'PT', 'MTH')"
+                    ]
+                },
+                {
+                    "_term": "neutropenia",
+                    "concepts": [
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PT', 'MEDCIN')",
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PT', 'PDQ')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'MH', 'MSH')",
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PT', 'CSP')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'LLT', 'MDR')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'PT', 'ICPC2P')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'PTCS', 'OMIM')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'ID', 'NOC')",
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PTN', 'ICPC2P')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'HT', 'ICD9CM')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'HT', 'ICD10CM')",
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PT', 'CHV')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'PN', 'MTH')",
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PT', 'ICPC2ICD10ENG')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'PT', 'MDR')"
+                    ]
+                },
+                {
+                    "_term": "anaemia",
+                    "concepts": [
+                        "('C0002871', 'anaemia', 'Disease or Syndrome', 'SY', 'CHV')",
+                        "('C0002871', 'Anaemia', 'Disease or Syndrome', 'LLT', 'MDR')",
+                        "('C0002871', 'Anaemia', 'Disease or Syndrome', 'PT', 'MDR')",
+                        "('C0002871', 'anaemia', 'Disease or Syndrome', 'PTN', 'ICPC2P')",
+                        "('C0002871', 'Anaemia', 'Disease or Syndrome', 'PT', 'ICPC2P')",
+                        "('C0002871', 'Anaemia', 'Disease or Syndrome', 'PTGB', 'SNOMEDCT_US')",
+                        "('C0002871', 'Anaemia', 'Disease or Syndrome', 'SY', 'HPO')"
+                    ]
+                },
+                {
+                    "_term": "febrile neutropenia",
+                    "concepts": [
+                        "('C0746883', 'Febrile neutropenia', 'Disease or Syndrome', 'PT', 'NCI_CTCAE')",
+                        "('C0746883', 'febrile neutropenia', 'Disease or Syndrome', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0746883', 'febrile neutropenia', 'Disease or Syndrome', 'PT', 'CHV')",
+                        "('C0746883', 'Febrile neutropenia', 'Disease or Syndrome', 'PT', 'MDR')",
+                        "('C0746883', 'Febrile neutropenia', 'Disease or Syndrome', 'PT', 'SNOMEDCT_US')",
+                        "('C0746883', 'Febrile Neutropenia', 'Disease or Syndrome', 'PT', 'NCI')",
+                        "('C0746883', 'Febrile Neutropenia', 'Disease or Syndrome', 'PN', 'MTH')",
+                        "('C0746883', 'Febrile Neutropenia', 'Disease or Syndrome', 'MH', 'MSH')",
+                        "('C0746883', 'Febrile neutropenia', 'Disease or Syndrome', 'LLT', 'MDR')"
+                    ]
+                },
+                {
+                    "_term": "differentiation syndrome",
+                    "concepts": [
+                        "('C0860564', 'Differentiation Syndrome', 'Disease or Syndrome', 'SY', 'NCI_NICHD')",
+                        "('C0860564', 'Differentiation syndrome', 'Disease or Syndrome', 'LLT', 'MDR')",
+                        "('C0860564', 'Differentiation syndrome', 'Disease or Syndrome', 'PT', 'MDR')"
+                    ]
+                },
+                {
+                    "_term": "syndrome",
+                    "concepts": [
+                        "('C0039082', 'Syndrome', 'Disease or Syndrome', 'PT', 'NCI_NICHD')",
+                        "('C0039082', 'syndrome', 'Disease or Syndrome', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0039082', 'syndrome', 'Disease or Syndrome', 'PT', 'CHV')",
+                        "('C0039082', 'syndrome', 'Disease or Syndrome', 'PT', 'CSP')",
+                        "('C0039082', 'Syndrome', 'Disease or Syndrome', 'PT', 'NCI')",
+                        "('C0039082', 'Syndrome', 'Disease or Syndrome', 'SY', 'SNOMEDCT_US')",
+                        "('C0039082', 'Syndrome', 'Disease or Syndrome', 'MH', 'MSH')",
+                        "('C5238705', 'Syndrome', 'Disease or Syndrome', 'PT', 'NCI_ACC-AHA')",
+                        "('C0039082', 'Syndrome', 'Disease or Syndrome', 'PN', 'MTH')"
+                    ]
+                },
+                {
+                    "_term": "pneumonia",
+                    "concepts": [
+                        "('C0032285', 'pneumonia', 'Disease or Syndrome', 'PTN', 'ICPC2P')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'PT', 'SNOMEDCT_US')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'PT', 'NCI')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'PT', 'NCI_FDA')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'PT', 'ICPC2EENG')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'MH', 'MSH')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'PT', 'MEDLINEPLUS')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'PT', 'NCI_NICHD')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'PT', 'ICPC2P')",
+                        "('C0032285', 'pneumonia', 'Disease or Syndrome', 'PT', 'ICPC2ICD10ENG')",
+                        "('C0032285', 'pneumonia', 'Disease or Syndrome', 'PT', 'CHV')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'LPN', 'LNC')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'LLT', 'MDR')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'PT', 'PSY')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'CN', 'LNC')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'PT', 'HPO')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'PTCS', 'OMIM')",
+                        "('C0032285', 'pneumonia', 'Disease or Syndrome', 'PT', 'MEDCIN')",
+                        "('C0032285', 'pneumonia', 'Disease or Syndrome', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'ID', 'NOC')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'LA', 'LNC')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'PT', 'LCH_NW')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'SY', 'HPO')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'PT', 'MDR')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'PN', 'MTH')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'SY', 'NCI_caDSR')",
+                        "('C0032285', 'pneumonia', 'Disease or Syndrome', 'PT', 'CSP')",
+                        "('C0032285', 'Pneumonia', 'Disease or Syndrome', 'LPDN', 'LNC')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Neoplastic Process",
+            "all_matches": [
+                {
+                    "_term": "acute myeloid leukaemia",
+                    "concepts": [
+                        "('C0023467', 'Acute myeloid leukaemia', 'Neoplastic Process', 'HT', 'ICD10AM')",
+                        "('C0023467', 'Acute myeloid leukaemia', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0023467', 'Acute myeloid leukaemia', 'Neoplastic Process', 'SYGB', 'SNOMEDCT_US')",
+                        "('C0023467', 'Acute myeloid leukaemia', 'Neoplastic Process', 'PT', 'ICD10')",
+                        "('C0023467', 'Acute myeloid leukaemia', 'Neoplastic Process', 'PTGB', 'SNOMEDCT_US')",
+                        "('C0023467', 'acute myeloid leukaemia', 'Neoplastic Process', 'SY', 'CHV')",
+                        "('C0023467', 'Acute myeloid leukaemia', 'Neoplastic Process', 'PT', 'ICD10AM')",
+                        "('C0023467', 'acute myeloid leukaemia', 'Neoplastic Process', 'PTN', 'ICPC2P')",
+                        "('C0023467', 'Acute myeloid leukaemia', 'Neoplastic Process', 'SY', 'HPO')",
+                        "('C0023467', 'Acute myeloid leukaemia', 'Neoplastic Process', 'PT', 'MDR')"
+                    ]
+                },
+                {
+                    "_term": "myeloid leukaemia",
+                    "concepts": [
+                        "('C0023470', 'Myeloid leukaemia', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0023470', 'Myeloid leukaemia', 'Neoplastic Process', 'SY', 'HPO')",
+                        "('C0023470', 'Myeloid leukaemia', 'Neoplastic Process', 'HT', 'ICD10AM')",
+                        "('C0023470', 'Myeloid leukaemia', 'Neoplastic Process', 'PT', 'MDR')",
+                        "('C0023470', 'myeloid leukaemia', 'Neoplastic Process', 'SY', 'CHV')",
+                        "('C0023470', 'Myeloid leukaemia', 'Neoplastic Process', 'PTGB', 'SNOMEDCT_US')",
+                        "('C0023470', 'Myeloid leukaemia', 'Neoplastic Process', 'HT', 'ICD10')"
+                    ]
+                },
+                {
+                    "_term": "leukaemia",
+                    "concepts": [
+                        "('C0023418', 'Leukaemia', 'Neoplastic Process', 'SY', 'HPO')",
+                        "('C0023418', 'leukaemia', 'Neoplastic Process', 'PTN', 'ICPC2P')",
+                        "('C0023418', 'leukaemia', 'Neoplastic Process', 'SY', 'CHV')",
+                        "('C0023418', 'Leukaemia', 'Neoplastic Process', 'PT', 'MDR')",
+                        "('C0023418', 'Leukaemia', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0023418', 'Leukaemia', 'Neoplastic Process', 'PT', 'ICPC2P')",
+                        "('C0023418', 'Leukaemia', 'Neoplastic Process', 'PTGB', 'SNOMEDCT_US')",
+                        "('C0023418', 'Leukaemia', 'Neoplastic Process', 'PT', 'ICPC2EENG')"
+                    ]
+                },
+                {
+                    "_term": "oncology",
+                    "concepts": [
+                        "('C0027651', 'Oncology', 'Neoplastic Process', 'ET', 'HPO')"
+                    ]
+                },
+                {
+                    "_term": "secondary",
+                    "concepts": [
+                        "('C0027627', 'secondary', 'Neoplastic Process', 'PT', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C0079745', 'Grade 3', 'Neoplastic Process', 'SY', 'NCI_caDSR')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Finding",
+            "all_matches": [
+                {
+                    "_term": "oral",
+                    "concepts": [
+                        "('C4521986', 'Oral', 'Finding', 'PT', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "performance status",
+                    "concepts": [
+                        "('C1518965', 'Performance Status', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C1518965', 'Performance status', 'Finding', 'CN', 'LNC')",
+                        "('C1518965', 'Performance status', 'Finding', 'LPDN', 'LNC')",
+                        "('C1518965', 'performance status', 'Finding', 'PT', 'CHV')",
+                        "('C1518965', 'performance status', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C1518965', 'Performance Status', 'Finding', 'PT', 'NCI')",
+                        "('C1518965', 'Performance status', 'Finding', 'LPN', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "continuous",
+                    "concepts": [
+                        "('C0232266', 'Continuous', 'Finding', 'PT', 'NCI_ACC-AHA')",
+                        "('C5238666', 'Continuous', 'Finding', 'PT', 'NCI_ACC-AHA')"
+                    ]
+                },
+                {
+                    "_term": "overall response",
+                    "concepts": [
+                        "('C3272903', 'Overall Response', 'Finding', 'PT', 'NCI_CDISC')",
+                        "('C3272903', 'Overall Response', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C3272903', 'Overall Response', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C3272903', 'Overall Response', 'Finding', 'PT', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "follow-up",
+                    "concepts": [
+                        "('C0589120', 'Follow-up', 'Finding', 'SY', 'SNOMEDCT_US')",
+                        "('C0589120', 'Follow-up', 'Finding', 'LA', 'LNC')",
+                        "('C0589120', 'follow-up', 'Finding', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "enrolled",
+                    "concepts": [
+                        "('C4684790', 'Enrolled', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C4684790', 'enrolled', 'Finding', 'PT', 'NCI_CDISC-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "achieved",
+                    "concepts": [
+                        "('C5453128', 'Achieved', 'Finding', 'LA', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "related",
+                    "concepts": [
+                        "('C0445223', 'Related', 'Finding', 'LA', 'LNC')",
+                        "('C0445223', 'Related', 'Finding', 'PT', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C0450094', 'Grade 3', 'Finding', 'PT', 'SNOMEDCT_US')",
+                        "('C0450094', 'Grade 3', 'Finding', 'LA', 'LNC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "thrombocytopenia",
+                    "concepts": [
+                        "('C0392386', 'Thrombocytopenia', 'Finding', 'PTCS', 'OMIM')",
+                        "('C0392386', 'thrombocytopenia', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0392386', 'Thrombocytopenia', 'Finding', 'PT', 'NCI')",
+                        "('C0392386', 'Thrombocytopenia', 'Finding', 'PT', 'NCI_FDA')",
+                        "('C0392386', 'Thrombocytopenia', 'Finding', 'DN', 'NCI_CTRP')",
+                        "('C0392386', 'Thrombocytopenia', 'Finding', 'PT', 'NCI_NICHD')"
+                    ]
+                },
+                {
+                    "_term": "neutropenia",
+                    "concepts": [
+                        "('C0853697', 'neutropenia', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'DN', 'NCI_CTRP')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'PT', 'SNOMEDCT_US')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'PT', 'NCI')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'PT', 'NCI_NICHD')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'PT', 'NCI_CELLOSAURUS')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'PT', 'HPO')"
+                    ]
+                },
+                {
+                    "_term": "febrile neutropenia",
+                    "concepts": [
+                        "('C4553819', 'Febrile neutropenia', 'Finding', 'PT', 'NCI_CTCAE_5')",
+                        "('C4553819', 'Febrile Neutropenia', 'Finding', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "no treatment",
+                    "concepts": [
+                        "('C0746919', 'No Treatment', 'Finding', 'SY', 'NCI')",
+                        "('C0746919', 'no treatment', 'Finding', 'PT', 'CHV')",
+                        "('C0746919', 'NO TREATMENT', 'Finding', 'PN', 'MTH')",
+                        "('C3275118', 'NO TREATMENT', 'Finding', 'PT', 'NCI_CDISC')",
+                        "('C0746919', 'No Treatment', 'Finding', 'LA', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "deaths",
+                    "concepts": [
+                        "('C4738113', 'Deaths', 'Finding', 'LPN', 'LNC')",
+                        "('C4738113', 'Deaths', 'Finding', 'CN', 'LNC')",
+                        "('C4738113', 'Deaths', 'Finding', 'LPDN', 'LNC')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Therapeutic or Preventive Procedure",
+            "all_matches": [
+                {
+                    "_term": "chemotherapy",
+                    "concepts": [
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'LCH_NW')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LPDN', 'LNC')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'ICPC2ICD10ENG')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI_caDSR')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'MDR')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'SP', 'CCSR_ICD10PCS')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'MEDCIN')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'DN', 'NCI_CTRP')",
+                        "('C0392920', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'ET', 'MEDLINEPLUS')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'PDQ')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'ET', 'PSY')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'CN', 'LNC')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_PCDC')",
+                        "('C3665472', 'CHEMOTHERAPY', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_CDISC')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LLT', 'MDR')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'SNOMEDCT_US')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LPN', 'LNC')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'CSP')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'MD', 'CCS')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'ICNP')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'ICPC2P')",
+                        "('C0013216', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'ET', 'MSH')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_GDC')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PTN', 'ICPC2P')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LA', 'LNC')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PN', 'MTH')",
+                        "('C0392920', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'RT', 'NANDA-I')"
+                    ]
+                },
+                {
+                    "_term": "monotherapy",
+                    "concepts": [
+                        "('C4763675', 'Monotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "regimen",
+                    "concepts": [
+                        "('C0040808', 'Regimen', 'Therapeutic or Preventive Procedure', 'SY', 'NCI')",
+                        "('C0040808', 'regimen', 'Therapeutic or Preventive Procedure', 'PT', 'CHV')",
+                        "('C0040808', 'regimen', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Population Group",
+            "all_matches": [
+                {
+                    "_term": "aged",
+                    "concepts": [
+                        "('C0001792', 'aged', 'Population Group', 'PTN', 'ICPC2P')",
+                        "('C0001792', 'Aged', 'Population Group', 'MH', 'MSH')",
+                        "('C1999167', 'aged', 'Population Group', 'SY', 'CHV')",
+                        "('C0001792', 'Aged', 'Population Group', 'PT', 'ICPC2P')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Professional or Occupational Group",
+            "all_matches": [
+                {
+                    "_term": "oncology group",
+                    "concepts": [
+                        "('C1518578', 'Oncology Group', 'Professional or Occupational Group', 'PT', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Group Attribute",
+            "all_matches": [
+                {
+                    "_term": "group performance",
+                    "concepts": [
+                        "('C0870623', 'Group Performance', 'Group Attribute', 'PT', 'PSY')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Clinical Attribute",
+            "all_matches": [
+                {
+                    "_term": "dose",
+                    "concepts": [
+                        "('C1114758', 'Dose', 'Clinical Attribute', '#OSN', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "differentiation",
+                    "concepts": [
+                        "('C1511938', 'differentiation', 'Clinical Attribute', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C1511938', 'Differentiation', 'Clinical Attribute', 'SY', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Pathologic Function",
+            "all_matches": [
+                {
+                    "_term": "adverse events",
+                    "concepts": [
+                        "('C0877248', 'adverse events', 'Pathologic Function', 'SY', 'CHV')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Sign or Symptom",
+            "all_matches": [
+                {
+                    "_term": "febrile",
+                    "concepts": [
+                        "('C0015967', 'febrile', 'Sign or Symptom', 'ET', 'CSP')",
+                        "('C0015967', 'Febrile', 'Sign or Symptom', 'SY', 'SNOMEDCT_US')",
+                        "('C0015967', 'febrile', 'Sign or Symptom', 'SY', 'CHV')"
+                    ]
+                }
+            ]
+        }
+    ],
+    "bio_labels": [
+        "IDH2突变"
+    ],
+    "bio_labels_en": [
+        "IDH2 mutation"
+    ],
+    "biomarker": null,
+    "clinical_stage": null,
+    "disease_labels": "",
+    "disease_labels_en": "",
+    "indications": [
+        {
+            "_id": "175",
+            "ct_disease": [
+                "Leukemia, Myeloid, Acute",
+                "Acute Myeloid Leukemia",
+                "Acute Non Lymphoblastic Leukemia",
+                "Acute Myeloblastic Leukemia Without Maturation",
+                "Acute Myeloblastic Leukemia With Maturation",
+                "Secondary Acute Myeloid Leukemia (Secondary AML, sAML)",
+                "Newly Diagnosed FLT3 Mutated AML",
+                "Relapsed/Refractory Acute Myeloid Leukemia With FLT3 Activating Mutations"
+            ],
+            "department": [
+                "血液科"
+            ],
+            "indication_type": [
+                "肿瘤领域",
+                "血液领域",
+                "罕见疾病领域"
+            ],
+            "name": "急性髓系白血病",
+            "name_en": "acute myeloid leukaemia (AML)",
+            "name_short": "AML",
+            "name_synonyms": [
+                "acute myelogenous leukemia",
+                "acute myeloid leukemia",
+                "急性粒细胞白血病"
+            ],
+            "parent_indication": [
+                "1170",
+                "5734"
+            ],
+            "state": "正常"
+        }
+    ],
+    "m_stage": null,
+    "n_stage": null,
+    "pathology": null,
+    "patient_labels": [
+        "ECOG PS 0-2",
+        "既往未治疗",
+        "≥18岁",
+        "不适合强化化疗"
+    ],
+    "patient_labels_en": [
+        "≥18 years old",
+        "ECOG PS 0-2",
+        "Previously untreated",
+        "Not candidates to receive intensive chemotherapy"
+    ],
+    "t_stage": null,
+    "therapy_labels": [
+        "诱导治疗"
+    ],
+    "therapy_labels_en": [
+        "Induction therapy"
+    ],
+    "title_abbr": "AG221-AML-005"
+}

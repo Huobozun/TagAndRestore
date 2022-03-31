@@ -1,0 +1,566 @@
+{
+    "_id": "743ba9e862f040d8b5e23ea0c9116caf",
+    "_pm_abstract": [
+        {
+            "Label": "BACKGROUND",
+            "text": "There is a high unmet need for treatment regimens that increase the chance of long-term remission and possibly cure for women with newly diagnosed advanced ovarian cancer. In the primary analysis of SOLO1/GOG 3004, the poly(ADP-ribose) polymerase (PARP) inhibitor olaparib significantly improved progression-free survival versus placebo in patients with a BRCA mutation; median progression-free survival was not reached. Here, we report an updated, post-hoc analysis of progression-free survival from SOLO1, after 5 years of follow-up."
+        },
+        {
+            "Label": "METHODS",
+            "text": "SOLO1 was a randomised, double-blind, placebo-controlled, phase 3 trial, done across 118 centres in 15 countries, that enrolled patients aged 18 years or older with an Eastern Cooperative Oncology Group performance status of 0-1 and with BRCA-mutated, newly diagnosed, advanced, high-grade serous or endometrioid ovarian cancer with a complete or partial clinical response after platinum-based chemotherapy. Patients were randomly assigned (2:1) via a web-based or interactive voice-response system to receive olaparib (300 mg twice daily) or placebo tablets orally as maintenance monotherapy for up to 2 years; randomisation was by blocks and was stratified according to clinical response after platinum-based chemotherapy. Patients, treatment providers, and data assessors were masked to group assignment. The primary endpoint was investigator-assessed progression-free survival. Efficacy is reported in the intention-to-treat population and safety in patients who received at least one dose of treatment. The data cutoff for this updated, post-hoc analysis was March 5, 2020. This trial is registered with ClinicalTrials.gov (NCT01844986) and is ongoing but closed to new participants."
+        },
+        {
+            "Label": "FINDINGS",
+            "text": "Between Sept 3, 2013, and March 6, 2015, 260 patients were randomly assigned to olaparib and 131 to placebo. The median treatment duration was 24·6 months (IQR 11·2-24·9) in the olaparib group and 13·9 months (8·0-24·8) in the placebo group; median follow-up was 4·8 years (2·8-5·3) in the olaparib group and 5·0 years (2·6-5·3) in the placebo group. In this post-hoc analysis, median progression-free survival was 56·0 months (95% CI 41·9-not reached) with olaparib versus 13·8 months (11·1-18·2) with placebo (hazard ratio 0·33 [95% CI 0·25-0·43]). The most common grade 3-4 adverse events were anaemia (57 [22%] of 260 patients receiving olaparib vs two [2%] of 130 receiving placebo) and neutropenia (22 [8%] vs six [5%]), and serious adverse events occurred in 55 (21%) of 260 patients in the olaparib group and 17 (13%) of 130 in the placebo group. No treatment-related adverse events that occurred during study treatment or up to 30 days after discontinuation were reported as leading to death. No additional cases of myelodysplastic syndrome or acute myeloid leukaemia were reported since the primary data cutoff, including after the 30-day safety follow-up period."
+        },
+        {
+            "Label": "INTERPRETATION",
+            "text": "For patients with newly diagnosed advanced ovarian cancer and a BRCA mutation, after, to our knowledge, the longest follow-up for any randomised controlled trial of a PARP inhibitor in this setting, the benefit derived from 2 years' maintenance therapy with olaparib was sustained beyond the end of treatment, extending median progression-free survival past 4·5 years. These results support the use of maintenance olaparib as a standard of care in this setting."
+        },
+        {
+            "Label": "FUNDING",
+            "text": "AstraZeneca; Merck Sharpe & Dohme, a subsidiary of Merck & Co, Kenilworth, NJ, USA."
+        }
+    ],
+    "_pm_abstract_raw": "There is a high unmet need for treatment regimens that increase the chance of long-term remission and possibly cure for women with newly diagnosed advanced ovarian cancer. In the primary analysis of SOLO1/GOG 3004, the poly(ADP-ribose) polymerase (PARP) inhibitor olaparib significantly improved progression-free survival versus placebo in patients with a BRCA mutation; median progression-free survival was not reached. Here, we report an updated, post-hoc analysis of progression-free survival from SOLO1, after 5 years of follow-up. SOLO1 was a randomised, double-blind, placebo-controlled, phase 3 trial, done across 118 centres in 15 countries, that enrolled patients aged 18 years or older with an Eastern Cooperative Oncology Group performance status of 0-1 and with BRCA-mutated, newly diagnosed, advanced, high-grade serous or endometrioid ovarian cancer with a complete or partial clinical response after platinum-based chemotherapy. Patients were randomly assigned (2:1) via a web-based or interactive voice-response system to receive olaparib (300 mg twice daily) or placebo tablets orally as maintenance monotherapy for up to 2 years; randomisation was by blocks and was stratified according to clinical response after platinum-based chemotherapy. Patients, treatment providers, and data assessors were masked to group assignment. The primary endpoint was investigator-assessed progression-free survival. Efficacy is reported in the intention-to-treat population and safety in patients who received at least one dose of treatment. The data cutoff for this updated, post-hoc analysis was March 5, 2020. This trial is registered with ClinicalTrials.gov (NCT01844986) and is ongoing but closed to new participants. Between Sept 3, 2013, and March 6, 2015, 260 patients were randomly assigned to olaparib and 131 to placebo. The median treatment duration was 24·6 months (IQR 11·2-24·9) in the olaparib group and 13·9 months (8·0-24·8) in the placebo group; median follow-up was 4·8 years (2·8-5·3) in the olaparib group and 5·0 years (2·6-5·3) in the placebo group. In this post-hoc analysis, median progression-free survival was 56·0 months (95% CI 41·9-not reached) with olaparib versus 13·8 months (11·1-18·2) with placebo (hazard ratio 0·33 [95% CI 0·25-0·43]). The most common grade 3-4 adverse events were anaemia (57 [22%] of 260 patients receiving olaparib vs two [2%] of 130 receiving placebo) and neutropenia (22 [8%] vs six [5%]), and serious adverse events occurred in 55 (21%) of 260 patients in the olaparib group and 17 (13%) of 130 in the placebo group. No treatment-related adverse events that occurred during study treatment or up to 30 days after discontinuation were reported as leading to death. No additional cases of myelodysplastic syndrome or acute myeloid leukaemia were reported since the primary data cutoff, including after the 30-day safety follow-up period. For patients with newly diagnosed advanced ovarian cancer and a BRCA mutation, after, to our knowledge, the longest follow-up for any randomised controlled trial of a PARP inhibitor in this setting, the benefit derived from 2 years' maintenance therapy with olaparib was sustained beyond the end of treatment, extending median progression-free survival past 4·5 years. These results support the use of maintenance olaparib as a standard of care in this setting. AstraZeneca; Merck Sharpe & Dohme, a subsidiary of Merck & Co, Kenilworth, NJ, USA.",
+    "_pm_id": "34715071",
+    "_pm_title": "Maintenance olaparib for patients with newly diagnosed advanced ovarian cancer and a BRCA mutation (SOLO1/GOG 3004): 5-year follow-up of a randomised, double-blind, placebo-controlled, phase 3 trial.",
+    "_umls_result": [
+        {
+            "_semantic_type": "Patient or Disabled Group",
+            "all_matches": [
+                {
+                    "_term": "patients",
+                    "concepts": [
+                        "('C0030705', 'patients', 'Patient or Disabled Group', 'SY', 'CHV')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'PSY')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'LCH_NW')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PN', 'MTH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'MH', 'MSH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'SY', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Neoplastic Process",
+            "all_matches": [
+                {
+                    "_term": "ovarian cancer",
+                    "concepts": [
+                        "('C1140680', 'Ovarian cancer', 'Neoplastic Process', 'LA', 'LNC')",
+                        "('C1140680', 'Ovarian cancer', 'Neoplastic Process', 'PT', 'MDR')",
+                        "('C1140680', 'Ovarian Cancer', 'Neoplastic Process', 'ET', 'MSH')",
+                        "('C1140680', 'ovarian cancer', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C4721610', 'Ovarian Cancer', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C1140680', 'Ovarian Cancer', 'Neoplastic Process', 'PT', 'MEDLINEPLUS')",
+                        "('C1140680', 'Ovarian cancer', 'Neoplastic Process', 'ET', 'HPO')",
+                        "('C1140680', 'Ovarian cancer', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C1140680', 'Ovarian Cancer', 'Neoplastic Process', 'PT', 'NCI_CTRP')",
+                        "('C1140680', 'ovarian cancer', 'Neoplastic Process', 'PT', 'MEDCIN')",
+                        "('C1140680', 'ovarian cancer', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C1140680', 'ovarian cancer', 'Neoplastic Process', 'ET', 'CSP')",
+                        "('C1140680', 'Ovarian Cancer', 'Neoplastic Process', 'PT', 'NCI_GDC')",
+                        "('C1140680', 'Ovarian cancer', 'Neoplastic Process', 'PTCS', 'OMIM')",
+                        "('C1140680', 'Ovarian Cancer', 'Neoplastic Process', 'SY', 'NCI')",
+                        "('C0919267', 'ovarian cancer', 'Neoplastic Process', 'SY', 'PDQ')",
+                        "('C1140680', 'OVARIAN CANCER', 'Neoplastic Process', 'PT', 'OMIM')",
+                        "('C1140680', 'ovarian cancer', 'Neoplastic Process', 'SY', 'MEDCIN')",
+                        "('C1140680', 'Ovarian cancer', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "remission",
+                    "concepts": [
+                        "('C0687702', 'remission', 'Neoplastic Process', 'PT', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "progression",
+                    "concepts": [
+                        "('C0178874', 'Progression', 'Neoplastic Process', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "oncology",
+                    "concepts": [
+                        "('C0027651', 'Oncology', 'Neoplastic Process', 'ET', 'HPO')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C0079745', 'Grade 3', 'Neoplastic Process', 'SY', 'NCI_caDSR')"
+                    ]
+                },
+                {
+                    "_term": "myelodysplastic syndrome",
+                    "concepts": [
+                        "('C3463824', 'MYELODYSPLASTIC SYNDROME', 'Neoplastic Process', 'PN', 'MTH')",
+                        "('C3463824', 'Myelodysplastic syndrome', 'Neoplastic Process', 'SY', 'HPO')",
+                        "('C3463824', 'Myelodysplastic syndrome', 'Neoplastic Process', 'PT', 'MDR')",
+                        "('C3463824', 'Myelodysplastic syndrome', 'Neoplastic Process', 'PT', 'NCI_CTCAE')",
+                        "('C3463824', 'myelodysplastic syndrome', 'Neoplastic Process', 'PT', 'MEDCIN')",
+                        "('C3463824', 'Myelodysplastic Syndrome', 'Neoplastic Process', 'SY', 'NCI_caDSR')",
+                        "('C3463824', 'MYELODYSPLASTIC SYNDROME', 'Neoplastic Process', 'PT', 'OMIM')",
+                        "('C3463824', 'myelodysplastic syndrome', 'Neoplastic Process', 'SY', 'CHV')",
+                        "('C3463824', 'Myelodysplastic Syndrome', 'Neoplastic Process', 'PM', 'MSH')",
+                        "('C3463824', 'Myelodysplastic Syndrome', 'Neoplastic Process', 'PT', 'NCI')",
+                        "('C3463824', 'Myelodysplastic syndrome', 'Neoplastic Process', 'PT', 'SNOMEDCT_US')",
+                        "('C3900098', 'Myelodysplastic Syndrome', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C3463824', 'Myelodysplastic Syndrome', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C3463824', 'Myelodysplastic Syndrome', 'Neoplastic Process', 'PT', 'NCI_NICHD')",
+                        "('C3463824', 'Myelodysplastic Syndrome', 'Neoplastic Process', 'SY', 'PDQ')",
+                        "('C3463824', 'Myelodysplastic Syndrome', 'Neoplastic Process', 'PT', 'NCI_CELLOSAURUS')",
+                        "('C3463824', 'Myelodysplastic Syndrome', 'Neoplastic Process', 'PT', 'ICPC2P')",
+                        "('C3463824', 'myelodysplastic syndrome', 'Neoplastic Process', 'PTN', 'ICPC2P')",
+                        "('C3463824', 'Myelodysplastic Syndrome', 'Neoplastic Process', 'PT', 'NCI_CTRP')",
+                        "('C3463824', 'Myelodysplastic syndrome', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C2347761', 'Myelodysplastic Syndrome', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C3463824', 'Myelodysplastic syndrome', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')",
+                        "('C3463824', 'Myelodysplastic syndrome', 'Neoplastic Process', 'PTCS', 'OMIM')",
+                        "('C3463824', 'Myelodysplastic syndrome', 'Neoplastic Process', 'LA', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "acute myeloid leukaemia",
+                    "concepts": [
+                        "('C0023467', 'Acute myeloid leukaemia', 'Neoplastic Process', 'HT', 'ICD10AM')",
+                        "('C0023467', 'Acute myeloid leukaemia', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0023467', 'Acute myeloid leukaemia', 'Neoplastic Process', 'SYGB', 'SNOMEDCT_US')",
+                        "('C0023467', 'Acute myeloid leukaemia', 'Neoplastic Process', 'PT', 'ICD10')",
+                        "('C0023467', 'Acute myeloid leukaemia', 'Neoplastic Process', 'PTGB', 'SNOMEDCT_US')",
+                        "('C0023467', 'acute myeloid leukaemia', 'Neoplastic Process', 'SY', 'CHV')",
+                        "('C0023467', 'Acute myeloid leukaemia', 'Neoplastic Process', 'PT', 'ICD10AM')",
+                        "('C0023467', 'acute myeloid leukaemia', 'Neoplastic Process', 'PTN', 'ICPC2P')",
+                        "('C0023467', 'Acute myeloid leukaemia', 'Neoplastic Process', 'SY', 'HPO')",
+                        "('C0023467', 'Acute myeloid leukaemia', 'Neoplastic Process', 'PT', 'MDR')"
+                    ]
+                },
+                {
+                    "_term": "myeloid leukaemia",
+                    "concepts": [
+                        "('C0023470', 'Myeloid leukaemia', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0023470', 'Myeloid leukaemia', 'Neoplastic Process', 'SY', 'HPO')",
+                        "('C0023470', 'Myeloid leukaemia', 'Neoplastic Process', 'HT', 'ICD10AM')",
+                        "('C0023470', 'Myeloid leukaemia', 'Neoplastic Process', 'PT', 'MDR')",
+                        "('C0023470', 'myeloid leukaemia', 'Neoplastic Process', 'SY', 'CHV')",
+                        "('C0023470', 'Myeloid leukaemia', 'Neoplastic Process', 'PTGB', 'SNOMEDCT_US')",
+                        "('C0023470', 'Myeloid leukaemia', 'Neoplastic Process', 'HT', 'ICD10')"
+                    ]
+                },
+                {
+                    "_term": "leukaemia",
+                    "concepts": [
+                        "('C0023418', 'Leukaemia', 'Neoplastic Process', 'SY', 'HPO')",
+                        "('C0023418', 'leukaemia', 'Neoplastic Process', 'PTN', 'ICPC2P')",
+                        "('C0023418', 'leukaemia', 'Neoplastic Process', 'SY', 'CHV')",
+                        "('C0023418', 'Leukaemia', 'Neoplastic Process', 'PT', 'MDR')",
+                        "('C0023418', 'Leukaemia', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0023418', 'Leukaemia', 'Neoplastic Process', 'PT', 'ICPC2P')",
+                        "('C0023418', 'Leukaemia', 'Neoplastic Process', 'PTGB', 'SNOMEDCT_US')",
+                        "('C0023418', 'Leukaemia', 'Neoplastic Process', 'PT', 'ICPC2EENG')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Finding",
+            "all_matches": [
+                {
+                    "_term": "follow-up",
+                    "concepts": [
+                        "('C0589120', 'Follow-up', 'Finding', 'SY', 'SNOMEDCT_US')",
+                        "('C0589120', 'Follow-up', 'Finding', 'LA', 'LNC')",
+                        "('C0589120', 'follow-up', 'Finding', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "controlled",
+                    "concepts": [
+                        "('C2911690', 'Controlled', 'Finding', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "remission",
+                    "concepts": [
+                        "('C0544452', 'remission', 'Finding', 'PT', 'CHV')",
+                        "('C0544452', 'remission', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0544452', 'Remission', 'Finding', 'PT', 'NCI')",
+                        "('C0544452', 'Remission', 'Finding', 'LA', 'LNC')",
+                        "('C0544452', 'Remission', 'Finding', 'SY', 'SNOMEDCT_US')",
+                        "('C0544452', 'Remission', 'Finding', 'SY', 'MTH')"
+                    ]
+                },
+                {
+                    "_term": "enrolled",
+                    "concepts": [
+                        "('C4684790', 'Enrolled', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C4684790', 'enrolled', 'Finding', 'PT', 'NCI_CDISC-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "performance status",
+                    "concepts": [
+                        "('C1518965', 'Performance Status', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C1518965', 'Performance status', 'Finding', 'CN', 'LNC')",
+                        "('C1518965', 'Performance status', 'Finding', 'LPDN', 'LNC')",
+                        "('C1518965', 'performance status', 'Finding', 'PT', 'CHV')",
+                        "('C1518965', 'performance status', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C1518965', 'Performance Status', 'Finding', 'PT', 'NCI')",
+                        "('C1518965', 'Performance status', 'Finding', 'LPN', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "clinical response",
+                    "concepts": [
+                        "('C4055223', 'Clinical Response', 'Finding', 'PT', 'NCI_CDISC')",
+                        "('C4055223', 'Clinical Response', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C4055223', 'Clinical Response', 'Finding', 'PT', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C0450094', 'Grade 3', 'Finding', 'PT', 'SNOMEDCT_US')",
+                        "('C0450094', 'Grade 3', 'Finding', 'LA', 'LNC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "neutropenia",
+                    "concepts": [
+                        "('C0853697', 'neutropenia', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'DN', 'NCI_CTRP')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'PT', 'SNOMEDCT_US')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'PT', 'NCI')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'PT', 'NCI_NICHD')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'PT', 'NCI_CELLOSAURUS')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'PT', 'HPO')"
+                    ]
+                },
+                {
+                    "_term": "no treatment",
+                    "concepts": [
+                        "('C0746919', 'No Treatment', 'Finding', 'SY', 'NCI')",
+                        "('C0746919', 'no treatment', 'Finding', 'PT', 'CHV')",
+                        "('C0746919', 'NO TREATMENT', 'Finding', 'PN', 'MTH')",
+                        "('C3275118', 'NO TREATMENT', 'Finding', 'PT', 'NCI_CDISC')",
+                        "('C0746919', 'No Treatment', 'Finding', 'LA', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "related",
+                    "concepts": [
+                        "('C0445223', 'Related', 'Finding', 'LA', 'LNC')",
+                        "('C0445223', 'Related', 'Finding', 'PT', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "discontinuation",
+                    "concepts": [
+                        "('C1444662', 'Discontinuation', 'Finding', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "myelodysplastic syndrome",
+                    "concepts": [
+                        "('C4552879', 'Myelodysplastic Syndrome', 'Finding', 'PT', 'NCI_GDC')",
+                        "('C4552879', 'Myelodysplastic syndrome', 'Finding', 'PT', 'NCI_CTCAE_5')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Therapeutic or Preventive Procedure",
+            "all_matches": [
+                {
+                    "_term": "placebo",
+                    "concepts": [
+                        "('C0032042', 'Placebo', 'Therapeutic or Preventive Procedure', 'PT', 'PSY')",
+                        "('C0032042', 'Placebo', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'PT', 'CSP')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C0032042', 'Placebo', 'Therapeutic or Preventive Procedure', 'DN', 'NCI_CTRP')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_CDISC-GLOSS')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'PT', 'PDQ')"
+                    ]
+                },
+                {
+                    "_term": "regimens",
+                    "concepts": [
+                        "('C0040808', 'regimens', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "chemotherapy",
+                    "concepts": [
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'LCH_NW')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LPDN', 'LNC')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'ICPC2ICD10ENG')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI_caDSR')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'MDR')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'SP', 'CCSR_ICD10PCS')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'MEDCIN')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'DN', 'NCI_CTRP')",
+                        "('C0392920', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'ET', 'MEDLINEPLUS')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'PDQ')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'ET', 'PSY')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'CN', 'LNC')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_PCDC')",
+                        "('C3665472', 'CHEMOTHERAPY', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_CDISC')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LLT', 'MDR')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'SNOMEDCT_US')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LPN', 'LNC')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'CSP')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'MD', 'CCS')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'ICNP')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'ICPC2P')",
+                        "('C0013216', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'ET', 'MSH')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_GDC')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PTN', 'ICPC2P')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LA', 'LNC')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PN', 'MTH')",
+                        "('C0392920', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'RT', 'NANDA-I')"
+                    ]
+                },
+                {
+                    "_term": "monotherapy",
+                    "concepts": [
+                        "('C4763675', 'Monotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "maintenance therapy",
+                    "concepts": [
+                        "('C0677908', 'Maintenance Therapy', 'Therapeutic or Preventive Procedure', 'PT', 'PSY')",
+                        "('C0677908', 'Maintenance Therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_GDC')",
+                        "('C0677908', 'Maintenance Therapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI_caDSR')",
+                        "('C0677908', 'Maintenance Therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C0677908', 'maintenance therapy', 'Therapeutic or Preventive Procedure', 'PT', 'CHV')",
+                        "('C0677908', 'Maintenance therapy', 'Therapeutic or Preventive Procedure', 'PT', 'SNOMEDCT_US')",
+                        "('C0677908', 'maintenance therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0677908', 'Maintenance therapy', 'Therapeutic or Preventive Procedure', 'PN', 'MTH')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Population Group",
+            "all_matches": [
+                {
+                    "_term": "women",
+                    "concepts": [
+                        "('C0043210', 'Women', 'Population Group', 'PT', 'LCH_NW')",
+                        "('C0043210', 'Women', 'Population Group', 'HT', 'MEDLINEPLUS')",
+                        "('C0043210', 'women', 'Population Group', 'SY', 'CHV')",
+                        "('C0043210', 'Women', 'Population Group', 'MH', 'MSH')",
+                        "('C0043210', 'Women', 'Population Group', 'ET', 'PSY')"
+                    ]
+                },
+                {
+                    "_term": "aged",
+                    "concepts": [
+                        "('C0001792', 'aged', 'Population Group', 'PTN', 'ICPC2P')",
+                        "('C0001792', 'Aged', 'Population Group', 'MH', 'MSH')",
+                        "('C1999167', 'aged', 'Population Group', 'SY', 'CHV')",
+                        "('C0001792', 'Aged', 'Population Group', 'PT', 'ICPC2P')"
+                    ]
+                },
+                {
+                    "_term": "platinum",
+                    "concepts": [
+                        "('C1553253', 'Platinum', 'Population Group', 'PT', 'NCI_CDC')",
+                        "('C1553253', 'Platinum', 'Population Group', 'PT', 'CDCREC')",
+                        "('C1553253', 'Platinum', 'Population Group', 'PT', 'HL7V3.0')"
+                    ]
+                },
+                {
+                    "_term": "participants",
+                    "concepts": [
+                        "('C0679646', 'participants', 'Population Group', 'SY', 'CHV')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Pathologic Function",
+            "all_matches": [
+                {
+                    "_term": "progression",
+                    "concepts": [
+                        "('C0242656', 'progression', 'Pathologic Function', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0242656', 'Progression', 'Pathologic Function', 'SY', 'NCI')",
+                        "('C1947901', 'progression', 'Pathologic Function', 'SY', 'NCI_NCI-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "blocks",
+                    "concepts": [
+                        "('C0028778', 'blocks', 'Pathologic Function', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "adverse events",
+                    "concepts": [
+                        "('C0877248', 'adverse events', 'Pathologic Function', 'SY', 'CHV')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Professional or Occupational Group",
+            "all_matches": [
+                {
+                    "_term": "oncology group",
+                    "concepts": [
+                        "('C1518578', 'Oncology Group', 'Professional or Occupational Group', 'PT', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Group Attribute",
+            "all_matches": [
+                {
+                    "_term": "group performance",
+                    "concepts": [
+                        "('C0870623', 'Group Performance', 'Group Attribute', 'PT', 'PSY')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Laboratory or Test Result",
+            "all_matches": [
+                {
+                    "_term": "mutated",
+                    "concepts": [
+                        "('C5444830', 'Mutated', 'Laboratory or Test Result', 'SY', 'NCI')",
+                        "('C5444829', 'Mutated', 'Laboratory or Test Result', 'SY', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Clinical Attribute",
+            "all_matches": [
+                {
+                    "_term": "dose",
+                    "concepts": [
+                        "('C1114758', 'Dose', 'Clinical Attribute', '#OSN', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "treatment duration",
+                    "concepts": [
+                        "('C3259042', 'Treatment duration', 'Clinical Attribute', 'OSN', 'LNC')",
+                        "('C3259042', 'Treatment duration', 'Clinical Attribute', 'LC', 'LNC')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Disease or Syndrome",
+            "all_matches": [
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C3889290', 'GRADE 3', 'Disease or Syndrome', 'PT', 'NCI_CDISC')"
+                    ]
+                },
+                {
+                    "_term": "anaemia",
+                    "concepts": [
+                        "('C0002871', 'anaemia', 'Disease or Syndrome', 'SY', 'CHV')",
+                        "('C0002871', 'Anaemia', 'Disease or Syndrome', 'LLT', 'MDR')",
+                        "('C0002871', 'Anaemia', 'Disease or Syndrome', 'PT', 'MDR')",
+                        "('C0002871', 'anaemia', 'Disease or Syndrome', 'PTN', 'ICPC2P')",
+                        "('C0002871', 'Anaemia', 'Disease or Syndrome', 'PT', 'ICPC2P')",
+                        "('C0002871', 'Anaemia', 'Disease or Syndrome', 'PTGB', 'SNOMEDCT_US')",
+                        "('C0002871', 'Anaemia', 'Disease or Syndrome', 'SY', 'HPO')"
+                    ]
+                },
+                {
+                    "_term": "neutropenia",
+                    "concepts": [
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PT', 'MEDCIN')",
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PT', 'PDQ')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'MH', 'MSH')",
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PT', 'CSP')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'LLT', 'MDR')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'PT', 'ICPC2P')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'PTCS', 'OMIM')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'ID', 'NOC')",
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PTN', 'ICPC2P')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'HT', 'ICD9CM')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'HT', 'ICD10CM')",
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PT', 'CHV')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'PN', 'MTH')",
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PT', 'ICPC2ICD10ENG')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'PT', 'MDR')"
+                    ]
+                },
+                {
+                    "_term": "syndrome",
+                    "concepts": [
+                        "('C0039082', 'Syndrome', 'Disease or Syndrome', 'PT', 'NCI_NICHD')",
+                        "('C0039082', 'syndrome', 'Disease or Syndrome', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0039082', 'syndrome', 'Disease or Syndrome', 'PT', 'CHV')",
+                        "('C0039082', 'syndrome', 'Disease or Syndrome', 'PT', 'CSP')",
+                        "('C0039082', 'Syndrome', 'Disease or Syndrome', 'PT', 'NCI')",
+                        "('C0039082', 'Syndrome', 'Disease or Syndrome', 'SY', 'SNOMEDCT_US')",
+                        "('C0039082', 'Syndrome', 'Disease or Syndrome', 'MH', 'MSH')",
+                        "('C5238705', 'Syndrome', 'Disease or Syndrome', 'PT', 'NCI_ACC-AHA')",
+                        "('C0039082', 'Syndrome', 'Disease or Syndrome', 'PN', 'MTH')"
+                    ]
+                },
+                {
+                    "_term": "acute",
+                    "concepts": [
+                        "('C0856825', 'Acute', 'Disease or Syndrome', 'PT', 'NCI_PCDC')"
+                    ]
+                }
+            ]
+        }
+    ],
+    "indications": [
+        {
+            "_id": "153",
+            "ct_disease": [
+                "Ovarian Cancer",
+                "Ovarian Neoplasms",
+                "Ovarian Clear Cell Carcinoma",
+                "Carcinoma, Ovarian Epithelial",
+                "Ovarian Epithelial Cancer"
+            ],
+            "department": [
+                "肿瘤科"
+            ],
+            "indication_type": [
+                "肿瘤领域",
+                "罕见疾病领域"
+            ],
+            "is_patent": "是",
+            "name": "卵巢癌",
+            "name_en": "ovarian cancer (OVC)",
+            "name_short": "OVC",
+            "name_synonyms": [
+                "ovarian carcinoma",
+                "卵巢上皮癌",
+                "ovarian cancer"
+            ],
+            "parent_indication": [
+                "5288"
+            ],
+            "state": "正常"
+        }
+    ]
+}

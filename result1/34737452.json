@@ -1,0 +1,354 @@
+{
+    "_id": "2cdf16bf78b9426d99b0d356e3413d27",
+    "_pm_abstract": [
+        {
+            "text": "Blockade of the cyclin-dependent kinase 4 and 6 pathway has been shown to be effective in the treatment of hormone receptor-positive advanced breast cancer (ABC). We report the interim results of DAWNA-1 ( NCT03927456 ), a double-blind, randomized, phase 3 trial of dalpiciclib (a new cyclin-dependent kinase 4 and 6 inhibitor) plus fulvestrant in hormone receptor-positive, HER2-negative ABC with disease progression after endocrine therapy. A total of 361 patients were randomized 2:1 to receive dalpiciclib plus fulvestrant or placebo plus fulvestrant. The study met the primary end point, showing significantly prolonged investigator-assessed progression-free survival with dalpiciclib plus fulvestrant versus placebo plus fulvestrant (median = 15.7, 95% confidence interval (CI) = 11.1-not reached versus 7.2, 95% CI = 5.6-9.2 months; hazard ratio = 0.42, 95% CI = 0.31-0.58; one-sided P < 0.0001 (boundary was P ≤ 0.008)). The most common grade 3 or 4 adverse events with dalpiciclib plus fulvestrant were neutropenia (84.2%) and leukopenia (62.1%). The incidence of serious adverse events was 5.8% with dalpiciclib plus fulvestrant versus 6.7% with placebo plus fulvestrant. Our findings support dalpiciclib plus fulvestrant as a new treatment option for pretreated hormone receptor-positive, HER2-negative ABC."
+        }
+    ],
+    "_pm_abstract_raw": "Blockade of the cyclin-dependent kinase 4 and 6 pathway has been shown to be effective in the treatment of hormone receptor-positive advanced breast cancer (ABC). We report the interim results of DAWNA-1 ( NCT03927456 ), a double-blind, randomized, phase 3 trial of dalpiciclib (a new cyclin-dependent kinase 4 and 6 inhibitor) plus fulvestrant in hormone receptor-positive, HER2-negative ABC with disease progression after endocrine therapy. A total of 361 patients were randomized 2:1 to receive dalpiciclib plus fulvestrant or placebo plus fulvestrant. The study met the primary end point, showing significantly prolonged investigator-assessed progression-free survival with dalpiciclib plus fulvestrant versus placebo plus fulvestrant (median = 15.7, 95% confidence interval (CI) = 11.1-not reached versus 7.2, 95% CI = 5.6-9.2 months; hazard ratio = 0.42, 95% CI = 0.31-0.58; one-sided P < 0.0001 (boundary was P ≤ 0.008)). The most common grade 3 or 4 adverse events with dalpiciclib plus fulvestrant were neutropenia (84.2%) and leukopenia (62.1%). The incidence of serious adverse events was 5.8% with dalpiciclib plus fulvestrant versus 6.7% with placebo plus fulvestrant. Our findings support dalpiciclib plus fulvestrant as a new treatment option for pretreated hormone receptor-positive, HER2-negative ABC.",
+    "_pm_id": "34737452",
+    "_pm_title": "Dalpiciclib or placebo plus fulvestrant in hormone receptor-positive and HER2-negative advanced breast cancer: a randomized, phase 3 trial.",
+    "_umls_result": [
+        {
+            "_semantic_type": "Therapeutic or Preventive Procedure",
+            "all_matches": [
+                {
+                    "_term": "placebo",
+                    "concepts": [
+                        "('C0032042', 'Placebo', 'Therapeutic or Preventive Procedure', 'PT', 'PSY')",
+                        "('C0032042', 'Placebo', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'PT', 'CSP')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C0032042', 'Placebo', 'Therapeutic or Preventive Procedure', 'DN', 'NCI_CTRP')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_CDISC-GLOSS')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'PT', 'PDQ')"
+                    ]
+                },
+                {
+                    "_term": "abc",
+                    "concepts": [
+                        "('C4552790', 'ABC', 'Therapeutic or Preventive Procedure', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "endocrine therapy",
+                    "concepts": [
+                        "('C0279025', 'endocrine therapy', 'Therapeutic or Preventive Procedure', 'PT', 'PDQ')",
+                        "('C0279025', 'Endocrine therapy', 'Therapeutic or Preventive Procedure', 'SY', 'SNOMEDCT_US')",
+                        "('C0279025', 'endocrine therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0279025', 'Endocrine Therapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI_caDSR')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Neoplastic Process",
+            "all_matches": [
+                {
+                    "_term": "advanced breast cancer",
+                    "concepts": [
+                        "('C3495917', 'Advanced breast cancer', 'Neoplastic Process', 'LLT', 'MDR')"
+                    ]
+                },
+                {
+                    "_term": "breast cancer",
+                    "concepts": [
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C0678222', 'breast cancer', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'PT', 'NCI_FDA')",
+                        "('C0006142', 'breast cancer', 'Neoplastic Process', 'SY', 'MEDCIN')",
+                        "('C0006142', 'Breast cancer', 'Neoplastic Process', 'LA', 'LNC')",
+                        "('C0006142', 'breast cancer', 'Neoplastic Process', 'ET', 'CSP')",
+                        "('C0006142', 'Breast Cancer', 'Neoplastic Process', 'PT', 'MEDLINEPLUS')",
+                        "('C0006142', 'breast cancer', 'Neoplastic Process', 'PSC', 'PDQ')",
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'PT', 'NCI_NICHD')",
+                        "('C0006142', 'Breast Cancer', 'Neoplastic Process', 'PEP', 'MSH')",
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'PT', 'NCI_CTRP')",
+                        "('C3897071', 'Breast Cancer', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C0678222', 'Breast cancer', 'Neoplastic Process', 'SY', 'HPO')",
+                        "('C0006142', 'Breast cancer', 'Neoplastic Process', 'PT', 'MDR')",
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'PT', 'NCI_GDC')",
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'SY', 'NCI')",
+                        "('C0006142', 'breast cancer', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0006142', 'BREAST CANCER', 'Neoplastic Process', 'PT', 'OMIM')",
+                        "('C0678222', 'breast cancer', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0006142', 'Breast cancer', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0006142', 'breast cancer', 'Neoplastic Process', 'PT', 'MEDCIN')",
+                        "('C0006142', 'Breast cancer', 'Neoplastic Process', 'PTCS', 'OMIM')",
+                        "('C0006142', 'Breast cancer', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "progression",
+                    "concepts": [
+                        "('C0178874', 'Progression', 'Neoplastic Process', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C0079745', 'Grade 3', 'Neoplastic Process', 'SY', 'NCI_caDSR')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Finding",
+            "all_matches": [
+                {
+                    "_term": "randomized",
+                    "concepts": [
+                        "('C3815594', 'RANDOMIZED', 'Finding', 'PT', 'NCI_CDISC')"
+                    ]
+                },
+                {
+                    "_term": "disease progression",
+                    "concepts": [
+                        "('C5239280', 'Disease Progression', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C4552808', 'Disease progression', 'Finding', 'PT', 'NCI_CTCAE_5')"
+                    ]
+                },
+                {
+                    "_term": "endocrine",
+                    "concepts": [
+                        "('C1559198', 'ENDOCRINE', 'Finding', 'PT', 'NCI_CTCAE_3')",
+                        "('C0559306', 'Endocrine', 'Finding', 'PT', 'NCI_ACC-AHA')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C0450094', 'Grade 3', 'Finding', 'PT', 'SNOMEDCT_US')",
+                        "('C0450094', 'Grade 3', 'Finding', 'LA', 'LNC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "neutropenia",
+                    "concepts": [
+                        "('C0853697', 'neutropenia', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'DN', 'NCI_CTRP')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'PT', 'SNOMEDCT_US')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'PT', 'NCI')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'PT', 'NCI_NICHD')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'PT', 'NCI_CELLOSAURUS')",
+                        "('C0853697', 'Neutropenia', 'Finding', 'PT', 'HPO')"
+                    ]
+                },
+                {
+                    "_term": "leukopenia",
+                    "concepts": [
+                        "('C0750394', 'Leukopenia', 'Finding', 'PT', 'NCI')",
+                        "('C0750394', 'Leukopenia', 'Finding', 'PT', 'NCI_NICHD')",
+                        "('C0750394', 'leukopenia', 'Finding', 'PT', 'NCI_NCI-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "treatment option",
+                    "concepts": [
+                        "('C0683525', 'treatment option', 'Finding', 'PT', 'CHV')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Pathologic Function",
+            "all_matches": [
+                {
+                    "_term": "disease progression",
+                    "concepts": [
+                        "('C0242656', 'Disease progression', 'Pathologic Function', 'LLT', 'MDR')",
+                        "('C0242656', 'Disease progression', 'Pathologic Function', 'LA', 'LNC')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'PT', 'NCI_PCDC')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'PT', 'NCI')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'PT', 'NCI_GDC')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'PN', 'MTH')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'SY', 'NCI_caDSR')",
+                        "('C0242656', 'disease progression', 'Pathologic Function', 'ET', 'CSP')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'MH', 'MSH')",
+                        "('C1947901', 'disease progression', 'Pathologic Function', 'SY', 'NCI_NCI-GLOSS')",
+                        "('C0242656', 'Disease progression', 'Pathologic Function', 'PT', 'MDR')",
+                        "('C0242656', 'disease progression', 'Pathologic Function', 'PT', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "progression",
+                    "concepts": [
+                        "('C0242656', 'progression', 'Pathologic Function', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0242656', 'Progression', 'Pathologic Function', 'SY', 'NCI')",
+                        "('C1947901', 'progression', 'Pathologic Function', 'SY', 'NCI_NCI-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "adverse events",
+                    "concepts": [
+                        "('C0877248', 'adverse events', 'Pathologic Function', 'SY', 'CHV')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Disease or Syndrome",
+            "all_matches": [
+                {
+                    "_term": "disease progression",
+                    "concepts": [
+                        "('C1335499', 'Disease Progression', 'Disease or Syndrome', 'SY', 'NCI_CDISC')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C3889290', 'GRADE 3', 'Disease or Syndrome', 'PT', 'NCI_CDISC')"
+                    ]
+                },
+                {
+                    "_term": "neutropenia",
+                    "concepts": [
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PT', 'MEDCIN')",
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PT', 'PDQ')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'MH', 'MSH')",
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PT', 'CSP')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'LLT', 'MDR')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'PT', 'ICPC2P')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'PTCS', 'OMIM')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'ID', 'NOC')",
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PTN', 'ICPC2P')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'HT', 'ICD9CM')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'HT', 'ICD10CM')",
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PT', 'CHV')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'PN', 'MTH')",
+                        "('C0027947', 'neutropenia', 'Disease or Syndrome', 'PT', 'ICPC2ICD10ENG')",
+                        "('C0027947', 'Neutropenia', 'Disease or Syndrome', 'PT', 'MDR')"
+                    ]
+                },
+                {
+                    "_term": "leukopenia",
+                    "concepts": [
+                        "('C0023530', 'Leukopenia', 'Disease or Syndrome', 'PT', 'MDR')",
+                        "('C0023530', 'leukopenia', 'Disease or Syndrome', 'PT', 'CHV')",
+                        "('C0023530', 'Leukopenia', 'Disease or Syndrome', 'RT', 'NANDA-I')",
+                        "('C0023530', 'leukopenia', 'Disease or Syndrome', 'PT', 'ICPC2ICD10ENG')",
+                        "('C0023530', 'Leukopenia', 'Disease or Syndrome', 'MH', 'MSH')",
+                        "('C0023530', 'leukopenia', 'Disease or Syndrome', 'PT', 'MEDCIN')",
+                        "('C0023530', 'Leukopenia', 'Disease or Syndrome', 'ET', 'ICD10CM')",
+                        "('C0023530', 'Leukopenia', 'Disease or Syndrome', 'PT', 'SNOMEDCT_US')",
+                        "('C0023530', 'Leukopenia', 'Disease or Syndrome', 'LLT', 'MDR')",
+                        "('C0023530', 'leukopenia', 'Disease or Syndrome', 'PT', 'MTH')",
+                        "('C0023530', 'Leukopenia', 'Disease or Syndrome', 'PT', 'ICPC2P')",
+                        "('C0023530', 'Leukopenia', 'Disease or Syndrome', 'PTCS', 'OMIM')",
+                        "('C0023530', 'Leukopenia', 'Disease or Syndrome', 'PT', 'HPO')",
+                        "('C0023530', 'leukopenia', 'Disease or Syndrome', 'PT', 'CSP')",
+                        "('C0023530', 'leukopenia', 'Disease or Syndrome', 'PTN', 'ICPC2P')",
+                        "('C0023530', 'Leukopenia', 'Disease or Syndrome', 'PN', 'MTH')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Patient or Disabled Group",
+            "all_matches": [
+                {
+                    "_term": "patients",
+                    "concepts": [
+                        "('C0030705', 'patients', 'Patient or Disabled Group', 'SY', 'CHV')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'PSY')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'LCH_NW')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PN', 'MTH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'MH', 'MSH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'SY', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Clinical Attribute",
+            "all_matches": [
+                {
+                    "_term": "findings",
+                    "concepts": [
+                        "('C2926606', 'Findings', 'Clinical Attribute', 'OSN', 'LNC')"
+                    ]
+                }
+            ]
+        }
+    ],
+    "bio_labels": [
+        "激素受体阳性",
+        "HER2阴性"
+    ],
+    "bio_labels_en": [
+        "hormone receptor-positive",
+        "HER2-negative"
+    ],
+    "biomarker": [
+        "ab98606ef7a54762b5aa49b2512d8e0f"
+    ],
+    "clinical_stage": null,
+    "disease_labels": [
+        "局部晚期",
+        "转移性"
+    ],
+    "disease_labels_en": [
+        "Locally advanced",
+        " Metastatic"
+    ],
+    "indications": [
+        {
+            "_id": "141",
+            "ct_disease": [
+                "Breast Neoplasms",
+                "Breast Neoplasms, Male",
+                "Breast Cancer, Male",
+                "Breast Carcinoma In Situ",
+                "Carcinoma, Ductal, Breast",
+                "Breast Cancer Female"
+            ],
+            "department": [
+                "肿瘤科"
+            ],
+            "indication_type": [
+                "肿瘤领域"
+            ],
+            "name": "乳腺癌",
+            "name_en": "breast cancer",
+            "name_short": "",
+            "name_synonyms": [
+                "breast tumor",
+                "neoplasia of the breast",
+                "neoplasm of breast",
+                "tumours of the breast",
+                "neoplasm of the breast",
+                "breast neoplasm"
+            ],
+            "parent_indication": [
+                "133"
+            ],
+            "state": "正常"
+        }
+    ],
+    "m_stage": null,
+    "n_stage": null,
+    "pathology": null,
+    "patient_labels": [
+        "18-75岁",
+        "ECOG PS 0-1",
+        "排除既往接受过CDK4/6抑制剂，依维莫司或氟维斯特的患者"
+    ],
+    "patient_labels_en": [
+        "18-75 years",
+        "ECOG PS 0-1",
+        "excluded patients who received prior treatment with any CDK4/6 inhibitor, everolimus or fulvestant"
+    ],
+    "t_stage": null,
+    "therapy_labels": [
+        "二线及以上治疗"
+    ],
+    "therapy_labels_en": [
+        "Second and later lines therapy"
+    ],
+    "title_abbr": "SHR6390-III-301"
+}

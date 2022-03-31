@@ -1,0 +1,475 @@
+{
+    "_id": "f074dfbf523c44fea2834633ba3a2222",
+    "_pm_abstract": [
+        {
+            "Label": "BACKGROUND",
+            "text": "No phase 3 trial has yet shown improved survival for patients with pleural or peritoneal malignant mesothelioma who have progressed following platinum-based chemotherapy. The aim of this study was to assess the efficacy and safety of nivolumab, an anti-PD-1 antibody, in these patients."
+        },
+        {
+            "Label": "METHODS",
+            "text": "This was a multicentre, placebo-controlled, double-blind, parallel group, randomised, phase 3 trial done in 24 hospitals in the UK. Adult patients (aged ≥18 years) with an Eastern Cooperative Oncology Group performance status of 0 or 1, with histologically confirmed pleural or peritoneal mesothelioma, who had received previous first-line platinum-based chemotherapy and had radiological evidence of disease progression, were randomly assigned (2:1) to receive nivolumab at a flat dose of 240 mg every 2 weeks over 30 min intravenously or placebo until disease progression or a maximum of 12 months. The randomisation sequence was generated within an interactive web response system (Alea); patients were stratified according to epithelioid versus non-epithelioid histology and were assigned in random block sizes of 3 and 6. Participants and treating clinicians were masked to group allocation. The co-primary endpoints were investigator-assessed progression-free survival and overall survival, analysed according to the treatment policy estimand (an equivalent of the intention-to-treat principle). All patients who were randomly assigned were included in the safety population, reported according to group allocation. This trial is registered with Clinicaltrials.gov, NCT03063450."
+        },
+        {
+            "Label": "FINDINGS",
+            "text": "Between May 10, 2017, and March 30, 2020, 332 patients were recruited, of whom 221 (67%) were randomly assigned to the nivolumab group and 111 (33%) were assigned to the placebo group). Median follow-up was 11·6 months (IQR 7·2-16·8). Median progression-free survival was 3·0 months (95% CI 2·8-4·1) in the nivolumab group versus 1·8 months (1·4-2·6) in the placebo group (adjusted hazard ratio [HR] 0·67 [95% CI 0·53-0·85; p=0·0012). Median overall survival was 10·2 months (95% CI 8·5-12·1) in the nivolumab group versus 6·9 months (5·0-8·0) in the placebo group (adjusted HR 0·69 [95% CI 0·52-0·91]; p=0·0090). The most frequently reported grade 3 or worse treatment-related adverse events were diarrhoea (six [3%] of 221 in the nivolumab group vs two [2%] of 111 in the placebo group) and infusion-related reaction (six [3%] vs none). Serious adverse events occurred in 90 (41%) patients in the nivolumab group and 49 (44%) patients in the placebo group. There were no treatment-related deaths in either group."
+        },
+        {
+            "Label": "INTERPRETATION",
+            "text": "Nivolumab represents a treatment that might be beneficial to patients with malignant mesothelioma who have progressed on first-line therapy."
+        },
+        {
+            "Label": "FUNDING",
+            "text": "Stand up to Cancer-Cancer Research UK and Bristol Myers Squibb."
+        }
+    ],
+    "_pm_abstract_raw": "No phase 3 trial has yet shown improved survival for patients with pleural or peritoneal malignant mesothelioma who have progressed following platinum-based chemotherapy. The aim of this study was to assess the efficacy and safety of nivolumab, an anti-PD-1 antibody, in these patients. This was a multicentre, placebo-controlled, double-blind, parallel group, randomised, phase 3 trial done in 24 hospitals in the UK. Adult patients (aged ≥18 years) with an Eastern Cooperative Oncology Group performance status of 0 or 1, with histologically confirmed pleural or peritoneal mesothelioma, who had received previous first-line platinum-based chemotherapy and had radiological evidence of disease progression, were randomly assigned (2:1) to receive nivolumab at a flat dose of 240 mg every 2 weeks over 30 min intravenously or placebo until disease progression or a maximum of 12 months. The randomisation sequence was generated within an interactive web response system (Alea); patients were stratified according to epithelioid versus non-epithelioid histology and were assigned in random block sizes of 3 and 6. Participants and treating clinicians were masked to group allocation. The co-primary endpoints were investigator-assessed progression-free survival and overall survival, analysed according to the treatment policy estimand (an equivalent of the intention-to-treat principle). All patients who were randomly assigned were included in the safety population, reported according to group allocation. This trial is registered with Clinicaltrials.gov, NCT03063450. Between May 10, 2017, and March 30, 2020, 332 patients were recruited, of whom 221 (67%) were randomly assigned to the nivolumab group and 111 (33%) were assigned to the placebo group). Median follow-up was 11·6 months (IQR 7·2-16·8). Median progression-free survival was 3·0 months (95% CI 2·8-4·1) in the nivolumab group versus 1·8 months (1·4-2·6) in the placebo group (adjusted hazard ratio [HR] 0·67 [95% CI 0·53-0·85; p=0·0012). Median overall survival was 10·2 months (95% CI 8·5-12·1) in the nivolumab group versus 6·9 months (5·0-8·0) in the placebo group (adjusted HR 0·69 [95% CI 0·52-0·91]; p=0·0090). The most frequently reported grade 3 or worse treatment-related adverse events were diarrhoea (six [3%] of 221 in the nivolumab group vs two [2%] of 111 in the placebo group) and infusion-related reaction (six [3%] vs none). Serious adverse events occurred in 90 (41%) patients in the nivolumab group and 49 (44%) patients in the placebo group. There were no treatment-related deaths in either group. Nivolumab represents a treatment that might be beneficial to patients with malignant mesothelioma who have progressed on first-line therapy. Stand up to Cancer-Cancer Research UK and Bristol Myers Squibb.",
+    "_pm_id": "34656227",
+    "_pm_title": "Nivolumab versus placebo in patients with relapsed malignant mesothelioma (CONFIRM): a multicentre, double-blind, randomised, phase 3 trial.",
+    "_umls_result": [
+        {
+            "_semantic_type": "Therapeutic or Preventive Procedure",
+            "all_matches": [
+                {
+                    "_term": "placebo",
+                    "concepts": [
+                        "('C0032042', 'Placebo', 'Therapeutic or Preventive Procedure', 'PT', 'PSY')",
+                        "('C0032042', 'Placebo', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'PT', 'CSP')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C0032042', 'Placebo', 'Therapeutic or Preventive Procedure', 'DN', 'NCI_CTRP')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_CDISC-GLOSS')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'PT', 'PDQ')"
+                    ]
+                },
+                {
+                    "_term": "chemotherapy",
+                    "concepts": [
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'LCH_NW')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LPDN', 'LNC')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'ICPC2ICD10ENG')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI_caDSR')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'MDR')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'SP', 'CCSR_ICD10PCS')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'MEDCIN')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'DN', 'NCI_CTRP')",
+                        "('C0392920', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'ET', 'MEDLINEPLUS')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'PDQ')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'ET', 'PSY')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'CN', 'LNC')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_PCDC')",
+                        "('C3665472', 'CHEMOTHERAPY', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_CDISC')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LLT', 'MDR')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'SNOMEDCT_US')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LPN', 'LNC')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'CSP')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'MD', 'CCS')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'ICNP')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'ICPC2P')",
+                        "('C0013216', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'ET', 'MSH')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_GDC')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PTN', 'ICPC2P')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LA', 'LNC')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PN', 'MTH')",
+                        "('C0392920', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'RT', 'NANDA-I')"
+                    ]
+                },
+                {
+                    "_term": "first-line therapy",
+                    "concepts": [
+                        "('C1708063', 'First-Line Therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C1708063', 'first-line therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Patient or Disabled Group",
+            "all_matches": [
+                {
+                    "_term": "patients",
+                    "concepts": [
+                        "('C0030705', 'patients', 'Patient or Disabled Group', 'SY', 'CHV')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'PSY')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'LCH_NW')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PN', 'MTH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'MH', 'MSH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'SY', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Neoplastic Process",
+            "all_matches": [
+                {
+                    "_term": "relapsed malignant mesothelioma",
+                    "concepts": [
+                        "('C0278753', 'Relapsed Malignant Mesothelioma', 'Neoplastic Process', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "malignant mesothelioma",
+                    "concepts": [
+                        "('C0345967', 'Malignant mesothelioma', 'Neoplastic Process', 'PT', 'HPO')",
+                        "('C0345967', 'Malignant mesothelioma', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')",
+                        "('C0345967', 'Malignant Mesothelioma', 'Neoplastic Process', 'PT', 'NCI')",
+                        "('C0345967', 'Malignant mesothelioma', 'Neoplastic Process', 'SY', 'MEDLINEPLUS')",
+                        "('C0345967', 'Malignant Mesothelioma', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C0345967', 'Malignant Mesothelioma', 'Neoplastic Process', 'ET', 'MSH')",
+                        "('C0345967', 'malignant mesothelioma', 'Neoplastic Process', 'PSC', 'PDQ')",
+                        "('C0345967', 'malignant mesothelioma', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0345967', 'malignant mesothelioma', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0345967', 'Malignant mesothelioma', 'Neoplastic Process', 'PN', 'MTH')"
+                    ]
+                },
+                {
+                    "_term": "mesothelioma",
+                    "concepts": [
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'HT', 'ICD10')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'SD', 'CCSR_ICD10CM')",
+                        "('C0345967', 'mesothelioma', 'Neoplastic Process', 'PT', 'MEDCIN')",
+                        "('C0025500', 'mesothelioma', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0025500', 'mesothelioma', 'Neoplastic Process', 'PT', 'ICPC2ICD10ENG')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'PT', 'NCI')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'PT', 'MEDLINEPLUS')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'MH', 'MSH')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'PT', 'ICPC2P')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'PT', 'NCI_CTRP')",
+                        "('C0025500', 'mesothelioma', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'PT', 'NCI_GDC')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'SY', 'SNOMEDCT_VET')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'PTCS', 'OMIM')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'PN', 'MTH')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'HT', 'ICD10CM')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'PT', 'LCH_NW')",
+                        "('C0025500', 'mesothelioma', 'Neoplastic Process', 'PT', 'CSP')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'PT', 'MDR')",
+                        "('C0025500', 'mesothelioma', 'Neoplastic Process', 'PTN', 'ICPC2P')",
+                        "('C0345967', 'Mesothelioma', 'Neoplastic Process', 'SY', 'SNOMEDCT_VET')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'PT', 'NCI_CTEP-SDC')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'ET', 'PDQ')",
+                        "('C0025500', 'Mesothelioma', 'Neoplastic Process', 'HT', 'ICD10AM')"
+                    ]
+                },
+                {
+                    "_term": "peritoneal malignant mesothelioma",
+                    "concepts": [
+                        "('C0346109', 'Peritoneal Malignant Mesothelioma', 'Neoplastic Process', 'PT', 'NCI')",
+                        "('C0346109', 'Peritoneal Malignant Mesothelioma', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C0346109', 'Peritoneal Malignant Mesothelioma', 'Neoplastic Process', 'PT', 'NCI_CELLOSAURUS')"
+                    ]
+                },
+                {
+                    "_term": "oncology",
+                    "concepts": [
+                        "('C0027651', 'Oncology', 'Neoplastic Process', 'ET', 'HPO')"
+                    ]
+                },
+                {
+                    "_term": "peritoneal mesothelioma",
+                    "concepts": [
+                        "('C0346109', 'Peritoneal mesothelioma', 'Neoplastic Process', 'PT', 'HPO')",
+                        "('C1377610', 'Peritoneal Mesothelioma', 'Neoplastic Process', 'PT', 'NCI')",
+                        "('C1377610', 'Peritoneal Mesothelioma', 'Neoplastic Process', 'PN', 'MTH')",
+                        "('C0346109', 'peritoneal mesothelioma', 'Neoplastic Process', 'SY', 'MEDCIN')"
+                    ]
+                },
+                {
+                    "_term": "progression",
+                    "concepts": [
+                        "('C0178874', 'Progression', 'Neoplastic Process', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C0079745', 'Grade 3', 'Neoplastic Process', 'SY', 'NCI_caDSR')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Population Group",
+            "all_matches": [
+                {
+                    "_term": "platinum",
+                    "concepts": [
+                        "('C1553253', 'Platinum', 'Population Group', 'PT', 'NCI_CDC')",
+                        "('C1553253', 'Platinum', 'Population Group', 'PT', 'CDCREC')",
+                        "('C1553253', 'Platinum', 'Population Group', 'PT', 'HL7V3.0')"
+                    ]
+                },
+                {
+                    "_term": "aged",
+                    "concepts": [
+                        "('C0001792', 'aged', 'Population Group', 'PTN', 'ICPC2P')",
+                        "('C0001792', 'Aged', 'Population Group', 'MH', 'MSH')",
+                        "('C1999167', 'aged', 'Population Group', 'SY', 'CHV')",
+                        "('C0001792', 'Aged', 'Population Group', 'PT', 'ICPC2P')"
+                    ]
+                },
+                {
+                    "_term": "participants",
+                    "concepts": [
+                        "('C0679646', 'participants', 'Population Group', 'SY', 'CHV')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Finding",
+            "all_matches": [
+                {
+                    "_term": "controlled",
+                    "concepts": [
+                        "('C2911690', 'Controlled', 'Finding', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "parallel",
+                    "concepts": [
+                        "('C4554418', 'Parallel', 'Finding', 'PN', 'MTH')",
+                        "('C4554418', 'Parallel', 'Finding', 'LA', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "performance status",
+                    "concepts": [
+                        "('C1518965', 'Performance Status', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C1518965', 'Performance status', 'Finding', 'CN', 'LNC')",
+                        "('C1518965', 'Performance status', 'Finding', 'LPDN', 'LNC')",
+                        "('C1518965', 'performance status', 'Finding', 'PT', 'CHV')",
+                        "('C1518965', 'performance status', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C1518965', 'Performance Status', 'Finding', 'PT', 'NCI')",
+                        "('C1518965', 'Performance status', 'Finding', 'LPN', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "confirmed",
+                    "concepts": [
+                        "('C0750484', 'Confirmed', 'Finding', 'AD', 'NCI')",
+                        "('C0750484', 'Confirmed', 'Finding', 'LA', 'LNC')",
+                        "('C0750484', 'confirmed', 'Finding', 'PT', 'CHV')",
+                        "('C0750484', 'Confirmed', 'Finding', 'PT', 'NCI_PCDC')"
+                    ]
+                },
+                {
+                    "_term": "disease progression",
+                    "concepts": [
+                        "('C5239280', 'Disease Progression', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C4552808', 'Disease progression', 'Finding', 'PT', 'NCI_CTCAE_5')"
+                    ]
+                },
+                {
+                    "_term": "follow-up",
+                    "concepts": [
+                        "('C0589120', 'Follow-up', 'Finding', 'SY', 'SNOMEDCT_US')",
+                        "('C0589120', 'Follow-up', 'Finding', 'LA', 'LNC')",
+                        "('C0589120', 'follow-up', 'Finding', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C0450094', 'Grade 3', 'Finding', 'PT', 'SNOMEDCT_US')",
+                        "('C0450094', 'Grade 3', 'Finding', 'LA', 'LNC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "worse",
+                    "concepts": [
+                        "('C1457868', 'Worse', 'Finding', 'LA', 'LNC')",
+                        "('C1457868', 'Worse', 'Finding', 'PT', 'SNOMEDCT_US')",
+                        "('C1457868', 'Worse', 'Finding', 'PT', 'NCI')",
+                        "('C1457868', 'worse', 'Finding', 'PT', 'CHV')",
+                        "('C1457868', 'Worse', 'Finding', 'PN', 'MTH')"
+                    ]
+                },
+                {
+                    "_term": "related",
+                    "concepts": [
+                        "('C0445223', 'Related', 'Finding', 'LA', 'LNC')",
+                        "('C0445223', 'Related', 'Finding', 'PT', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "no treatment",
+                    "concepts": [
+                        "('C0746919', 'No Treatment', 'Finding', 'SY', 'NCI')",
+                        "('C0746919', 'no treatment', 'Finding', 'PT', 'CHV')",
+                        "('C0746919', 'NO TREATMENT', 'Finding', 'PN', 'MTH')",
+                        "('C3275118', 'NO TREATMENT', 'Finding', 'PT', 'NCI_CDISC')",
+                        "('C0746919', 'No Treatment', 'Finding', 'LA', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "deaths",
+                    "concepts": [
+                        "('C4738113', 'Deaths', 'Finding', 'LPN', 'LNC')",
+                        "('C4738113', 'Deaths', 'Finding', 'CN', 'LNC')",
+                        "('C4738113', 'Deaths', 'Finding', 'LPDN', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "stand up",
+                    "concepts": [
+                        "('C0600132', 'stand up', 'Finding', 'SY', 'CHV')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Professional or Occupational Group",
+            "all_matches": [
+                {
+                    "_term": "oncology group",
+                    "concepts": [
+                        "('C1518578', 'Oncology Group', 'Professional or Occupational Group', 'PT', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "clinicians",
+                    "concepts": [
+                        "('C0871685', 'clinicians', 'Professional or Occupational Group', 'PT', 'CHV')",
+                        "('C0871685', 'Clinicians', 'Professional or Occupational Group', 'PT', 'PSY')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Group Attribute",
+            "all_matches": [
+                {
+                    "_term": "group performance",
+                    "concepts": [
+                        "('C0870623', 'Group Performance', 'Group Attribute', 'PT', 'PSY')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Pathologic Function",
+            "all_matches": [
+                {
+                    "_term": "disease progression",
+                    "concepts": [
+                        "('C0242656', 'Disease progression', 'Pathologic Function', 'LLT', 'MDR')",
+                        "('C0242656', 'Disease progression', 'Pathologic Function', 'LA', 'LNC')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'PT', 'NCI_PCDC')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'PT', 'NCI')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'PT', 'NCI_GDC')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'PN', 'MTH')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'SY', 'NCI_caDSR')",
+                        "('C0242656', 'disease progression', 'Pathologic Function', 'ET', 'CSP')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'MH', 'MSH')",
+                        "('C1947901', 'disease progression', 'Pathologic Function', 'SY', 'NCI_NCI-GLOSS')",
+                        "('C0242656', 'Disease progression', 'Pathologic Function', 'PT', 'MDR')",
+                        "('C0242656', 'disease progression', 'Pathologic Function', 'PT', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "progression",
+                    "concepts": [
+                        "('C0242656', 'progression', 'Pathologic Function', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0242656', 'Progression', 'Pathologic Function', 'SY', 'NCI')",
+                        "('C1947901', 'progression', 'Pathologic Function', 'SY', 'NCI_NCI-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "adverse events",
+                    "concepts": [
+                        "('C0877248', 'adverse events', 'Pathologic Function', 'SY', 'CHV')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Disease or Syndrome",
+            "all_matches": [
+                {
+                    "_term": "disease progression",
+                    "concepts": [
+                        "('C1335499', 'Disease Progression', 'Disease or Syndrome', 'SY', 'NCI_CDISC')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C3889290', 'GRADE 3', 'Disease or Syndrome', 'PT', 'NCI_CDISC')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Clinical Attribute",
+            "all_matches": [
+                {
+                    "_term": "dose",
+                    "concepts": [
+                        "('C1114758', 'Dose', 'Clinical Attribute', '#OSN', 'LNC')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Sign or Symptom",
+            "all_matches": [
+                {
+                    "_term": "diarrhoea",
+                    "concepts": [
+                        "('C0011991', 'Diarrhoea', 'Sign or Symptom', 'LLT', 'MDR')",
+                        "('C0011991', 'Diarrhoea', 'Sign or Symptom', 'PT', 'MDR')",
+                        "('C0011991', 'Diarrhoea', 'Sign or Symptom', 'PT', 'ICPC2P')",
+                        "('C0011991', 'Diarrhoea', 'Sign or Symptom', 'PTGB', 'SNOMEDCT_US')",
+                        "('C0011991', 'diarrhoea', 'Sign or Symptom', 'PTN', 'ICPC2P')",
+                        "('C0011991', 'Diarrhoea', 'Sign or Symptom', 'PT', 'ICNP')",
+                        "('C0011991', 'Diarrhoea', 'Sign or Symptom', 'PT', 'ICPC2EENG')",
+                        "('C0011991', 'diarrhoea', 'Sign or Symptom', 'SY', 'CHV')",
+                        "('C0011991', 'Diarrhoea', 'Sign or Symptom', 'SY', 'HPO')"
+                    ]
+                }
+            ]
+        }
+    ],
+    "indications": [
+        {
+            "_id": "964",
+            "ct_disease": [
+                "Malignant Mesothelioma",
+                "Mesothelioma"
+            ],
+            "department": [
+                "肿瘤科"
+            ],
+            "indication_type": [
+                "肿瘤领域",
+                "罕见疾病领域"
+            ],
+            "name": "间皮瘤",
+            "name_en": "mesothelioma",
+            "name_short": "",
+            "name_synonyms": "",
+            "parent_indication": [
+                "133"
+            ],
+            "state": "正常"
+        }
+    ],
+    "therapy_labels": [
+        "二线"
+    ],
+    "therapy_labels_en": [
+        null
+    ],
+    "title_abbr": "CONFIRM"
+}

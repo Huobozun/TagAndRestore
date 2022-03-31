@@ -1,0 +1,551 @@
+{
+    "_id": "6fd30a1a05bd47c3b99cf0df47f27094",
+    "_pm_abstract": [
+        {
+            "Label": "BACKGROUND",
+            "text": "Standard first-line treatment of metastatic triple-negative breast cancer (mTNBC) is chemotherapy. However, outcomes are poor, and new treatment options are needed. In cohort B of the phase II KEYNOTE-086 study, we evaluated pembrolizumab as first-line therapy for patients with PD-L1-positive mTNBC."
+        },
+        {
+            "Label": "PATIENTS AND METHODS",
+            "text": "Eligible patients had centrally confirmed mTNBC, no prior systemic anticancer therapy for metastatic disease, measurable disease at baseline per RECIST v1.1 by central review, no radiographic evidence of central nervous system metastases, and a tumor PD-L1 combined positive score ≥1. Patients received pembrolizumab 200 mg intravenously every 3 weeks for up to 2 years. The primary end point was safety. Secondary end points included objective response rate, disease control rate (percentage of patients with complete or partial response or stable disease for ≥24 weeks), duration of response, progression-free survival and overall survival."
+        },
+        {
+            "Label": "RESULTS",
+            "text": "All 84 patients enrolled were women, and 73 (86.9%) received prior (neo)adjuvant therapy. Fifty-three (63.1%) patients had treatment-related adverse events (AEs), including 8 patients (9.5%) with grade 3 severity; no patients experienced grade 4 AEs or died because of treatment-related AEs. Four patients had a complete response and 14 had a partial response, for an objective response rate of 21.4% (95% CI 13.9-31.4). Of the 13 patients with stable disease, 2 had stable disease lasting ≥24 weeks, for a disease control rate of 23.8% (95% CI 15.9-34.0). At data cut-off, 8 of 18 (44.4%) responses were ongoing, and median duration of response was 10.4 months (range 4.2 to 19.2+). Median progression-free survival was 2.1 months (95% CI 2.0-2.2), and median overall survival was 18.0 months (95% CI 12.9-23.0)."
+        },
+        {
+            "Label": "CONCLUSIONS",
+            "text": "Pembrolizumab monotherapy had a manageable safety profile and showed durable antitumor activity as first-line therapy for patients with PD-L1-positive mTNBC."
+        },
+        {
+            "Label": "CLINICAL TRIAL REGISTRATION",
+            "text": "ClinicalTrials.gov, NCT02447003."
+        }
+    ],
+    "_pm_abstract_raw": "Standard first-line treatment of metastatic triple-negative breast cancer (mTNBC) is chemotherapy. However, outcomes are poor, and new treatment options are needed. In cohort B of the phase II KEYNOTE-086 study, we evaluated pembrolizumab as first-line therapy for patients with PD-L1-positive mTNBC. Eligible patients had centrally confirmed mTNBC, no prior systemic anticancer therapy for metastatic disease, measurable disease at baseline per RECIST v1.1 by central review, no radiographic evidence of central nervous system metastases, and a tumor PD-L1 combined positive score ≥1. Patients received pembrolizumab 200 mg intravenously every 3 weeks for up to 2 years. The primary end point was safety. Secondary end points included objective response rate, disease control rate (percentage of patients with complete or partial response or stable disease for ≥24 weeks), duration of response, progression-free survival and overall survival. All 84 patients enrolled were women, and 73 (86.9%) received prior (neo)adjuvant therapy. Fifty-three (63.1%) patients had treatment-related adverse events (AEs), including 8 patients (9.5%) with grade 3 severity; no patients experienced grade 4 AEs or died because of treatment-related AEs. Four patients had a complete response and 14 had a partial response, for an objective response rate of 21.4% (95% CI 13.9-31.4). Of the 13 patients with stable disease, 2 had stable disease lasting ≥24 weeks, for a disease control rate of 23.8% (95% CI 15.9-34.0). At data cut-off, 8 of 18 (44.4%) responses were ongoing, and median duration of response was 10.4 months (range 4.2 to 19.2+). Median progression-free survival was 2.1 months (95% CI 2.0-2.2), and median overall survival was 18.0 months (95% CI 12.9-23.0). Pembrolizumab monotherapy had a manageable safety profile and showed durable antitumor activity as first-line therapy for patients with PD-L1-positive mTNBC. ClinicalTrials.gov, NCT02447003.",
+    "_pm_id": "30475947",
+    "_pm_title": "Pembrolizumab monotherapy for previously untreated, PD-L1-positive, metastatic triple-negative breast cancer: cohort B of the phase II KEYNOTE-086 study.",
+    "_umls_result": [
+        {
+            "_semantic_type": "Therapeutic or Preventive Procedure",
+            "all_matches": [
+                {
+                    "_term": "monotherapy",
+                    "concepts": [
+                        "('C4763675', 'Monotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "first-line treatment",
+                    "concepts": [
+                        "('C1708063', 'First-Line Treatment', 'Therapeutic or Preventive Procedure', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "chemotherapy",
+                    "concepts": [
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'LCH_NW')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LPDN', 'LNC')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'ICPC2ICD10ENG')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI_caDSR')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'MDR')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'SP', 'CCSR_ICD10PCS')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'MEDCIN')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'DN', 'NCI_CTRP')",
+                        "('C0392920', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'ET', 'MEDLINEPLUS')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'PDQ')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'ET', 'PSY')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'CN', 'LNC')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_PCDC')",
+                        "('C3665472', 'CHEMOTHERAPY', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_CDISC')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LLT', 'MDR')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'SNOMEDCT_US')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LPN', 'LNC')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'CSP')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'MD', 'CCS')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'ICNP')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'ICPC2P')",
+                        "('C0013216', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'ET', 'MSH')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_GDC')",
+                        "('C3665472', 'chemotherapy', 'Therapeutic or Preventive Procedure', 'PTN', 'ICPC2P')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'LA', 'LNC')",
+                        "('C3665472', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'PN', 'MTH')",
+                        "('C0392920', 'Chemotherapy', 'Therapeutic or Preventive Procedure', 'RT', 'NANDA-I')"
+                    ]
+                },
+                {
+                    "_term": "first-line therapy",
+                    "concepts": [
+                        "('C1708063', 'First-Line Therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C1708063', 'first-line therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "systemic",
+                    "concepts": [
+                        "('C5400982', 'Systemic', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_PCDC')"
+                    ]
+                },
+                {
+                    "_term": "anticancer therapy",
+                    "concepts": [
+                        "('C0920425', 'anticancer therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "disease control",
+                    "concepts": [
+                        "('C0920467', 'disease control', 'Therapeutic or Preventive Procedure', 'ET', 'CSP')",
+                        "('C0920467', 'disease control', 'Therapeutic or Preventive Procedure', 'PT', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "adjuvant therapy",
+                    "concepts": [
+                        "('C0677850', 'adjuvant therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0677850', 'adjuvant therapy', 'Therapeutic or Preventive Procedure', 'PT', 'CHV')",
+                        "('C0677850', 'Adjuvant Therapy', 'Therapeutic or Preventive Procedure', 'DN', 'NCI_CTRP')",
+                        "('C0677850', 'Adjuvant therapy', 'Therapeutic or Preventive Procedure', 'LLT', 'MDR')",
+                        "('C0677850', 'adjuvant therapy', 'Therapeutic or Preventive Procedure', 'PT', 'PDQ')",
+                        "('C0677850', 'Adjuvant therapy', 'Therapeutic or Preventive Procedure', 'PT', 'MDR')",
+                        "('C0677850', 'Adjuvant Therapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI_caDSR')",
+                        "('C0677850', 'Adjuvant Therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C0677850', 'adjuvant therapy', 'Therapeutic or Preventive Procedure', 'ET', 'CSP')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Finding",
+            "all_matches": [
+                {
+                    "_term": "untreated",
+                    "concepts": [
+                        "('C0332155', 'untreated', 'Finding', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "triple-negative breast cancer",
+                    "concepts": [
+                        "('C2348819', 'triple-negative breast cancer', 'Finding', 'PT', 'NCI_NCI-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "treatment options",
+                    "concepts": [
+                        "('C0683525', 'treatment options', 'Finding', 'SY', 'CHV')",
+                        "('C0683525', 'Treatment options', 'Finding', 'ID', 'NOC')",
+                        "('C0683525', 'treatment options', 'Finding', 'PN', 'MTH')"
+                    ]
+                },
+                {
+                    "_term": "options",
+                    "concepts": [
+                        "('C0683525', 'options', 'Finding', 'PT', 'MEDCIN')"
+                    ]
+                },
+                {
+                    "_term": "confirmed",
+                    "concepts": [
+                        "('C0750484', 'Confirmed', 'Finding', 'AD', 'NCI')",
+                        "('C0750484', 'Confirmed', 'Finding', 'LA', 'LNC')",
+                        "('C0750484', 'confirmed', 'Finding', 'PT', 'CHV')",
+                        "('C0750484', 'Confirmed', 'Finding', 'PT', 'NCI_PCDC')"
+                    ]
+                },
+                {
+                    "_term": "nervous system",
+                    "concepts": [
+                        "('C0422837', 'NERVOUS SYSTEM', 'Finding', 'PT', 'NCI_CDISC')"
+                    ]
+                },
+                {
+                    "_term": "tumor",
+                    "concepts": [
+                        "('C3273930', 'Tumor', 'Finding', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "pd-l1 combined positive score",
+                    "concepts": [
+                        "('C5444884', 'PD-L1 Combined Positive Score', 'Finding', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "combined positive score",
+                    "concepts": [
+                        "('C5444884', 'Combined Positive Score', 'Finding', 'PT', 'NCI')",
+                        "('C5444884', 'Combined Positive Score', 'Finding', 'PN', 'MTH')",
+                        "('C5444884', 'Combined Positive Score', 'Finding', 'SY', 'NCI_caDSR')"
+                    ]
+                },
+                {
+                    "_term": "partial response",
+                    "concepts": [
+                        "('C1521726', 'partial response', 'Finding', 'PN', 'MTH')",
+                        "('C1521726', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5202622', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C1521726', 'Partial Response', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C1521726', 'Partial Response', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C5202621', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5401418', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C1521726', 'partial response', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C5202892', 'Partial Response', 'Finding', 'SY', 'NCI')",
+                        "('C1521726', 'Partial response', 'Finding', 'LA', 'LNC')",
+                        "('C5202623', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C1521726', 'Partial Response', 'Finding', 'PT', 'NCI_GDC')",
+                        "('C1521726', 'Partial Response', 'Finding', 'SY', 'NCI')",
+                        "('C1521726', 'Partial Response', 'Finding', 'PT', 'NCI_ICDC')",
+                        "('C4723835', 'Partial Response', 'Finding', 'SY', 'NCI')",
+                        "('C5202620', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5202624', 'Partial Response', 'Finding', 'SY', 'NCI')",
+                        "('C1521726', 'Partial response', 'Finding', 'PT', 'NCI_CTDC')",
+                        "('C5202891', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')"
+                    ]
+                },
+                {
+                    "_term": "stable disease",
+                    "concepts": [
+                        "('C0677946', 'Stable Disease', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5203100', 'Stable Disease', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C0677946', 'Stable Disease', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C0677946', 'Stable Disease', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C5203102', 'Stable Disease', 'Finding', 'SY', 'NCI')",
+                        "('C0677946', 'Stable Disease', 'Finding', 'PT', 'NCI')",
+                        "('C0677946', 'Stable disease', 'Finding', 'PT', 'NCI_CTDC')",
+                        "('C4724041', 'Stable Disease', 'Finding', 'SY', 'NCI')",
+                        "('C0677946', 'Stable Disease', 'Finding', 'PT', 'NCI_GDC')",
+                        "('C0677946', 'stable disease', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C5203099', 'Stable Disease', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C0677946', 'Stable Disease', 'Finding', 'PT', 'NCI_ICDC')",
+                        "('C0677946', 'Stable Disease', 'Finding', 'PN', 'MTH')",
+                        "('C3538874', 'Stable Disease', 'Finding', 'SY', 'NCI')",
+                        "('C5203103', 'Stable Disease', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C0677946', 'Stable disease', 'Finding', 'LA', 'LNC')",
+                        "('C5203098', 'Stable Disease', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5203101', 'Stable Disease', 'Finding', 'SY', 'NCI')",
+                        "('C5203130', 'Stable Disease', 'Finding', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "enrolled",
+                    "concepts": [
+                        "('C4684790', 'Enrolled', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C4684790', 'enrolled', 'Finding', 'PT', 'NCI_CDISC-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "related",
+                    "concepts": [
+                        "('C0445223', 'Related', 'Finding', 'LA', 'LNC')",
+                        "('C0445223', 'Related', 'Finding', 'PT', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C0450094', 'Grade 3', 'Finding', 'PT', 'SNOMEDCT_US')",
+                        "('C0450094', 'Grade 3', 'Finding', 'LA', 'LNC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "grade 4",
+                    "concepts": [
+                        "('C1517874', 'Grade 4', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C3537125', 'Grade 4', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C1517874', 'Grade 4', 'Finding', 'PT', 'NCI_GDC')",
+                        "('C3537125', 'Grade 4', 'Finding', 'PT', 'NCI_PCDC')"
+                    ]
+                },
+                {
+                    "_term": "died",
+                    "concepts": [
+                        "('C1546956', 'Died', 'Finding', 'SY', 'SNOMEDCT_US')",
+                        "('C1306577', 'Died', 'Finding', 'LA', 'LNC')",
+                        "('C1546956', 'Died', 'Finding', 'PT', 'HL7V2.5')"
+                    ]
+                },
+                {
+                    "_term": "complete response",
+                    "concepts": [
+                        "('C0677874', 'Complete Response', 'Finding', 'PT', 'NCI_GDC')",
+                        "('C0677874', 'Complete Response', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C5203033', 'Complete Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5203022', 'Complete Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C0677874', 'complete response', 'Finding', 'PT', 'CHV')",
+                        "('C0677874', 'Complete Response', 'Finding', 'PT', 'NCI_ICDC')",
+                        "('C0677874', 'complete response', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C5401353', 'Complete Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C0677874', 'Complete Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5203025', 'Complete Response', 'Finding', 'SY', 'NCI')",
+                        "('C0677874', 'Complete response', 'Finding', 'LA', 'LNC')",
+                        "('C0677874', 'Complete Response', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C5203023', 'Complete Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C0677874', 'Complete response', 'Finding', 'PT', 'NCI_CTDC')",
+                        "('C5203024', 'Complete Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5203035', 'Complete Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C4724446', 'Complete Response', 'Finding', 'SY', 'NCI')",
+                        "('C5203034', 'Complete Response', 'Finding', 'SY', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Neoplastic Process",
+            "all_matches": [
+                {
+                    "_term": "metastatic",
+                    "concepts": [
+                        "('C2939420', 'Metastatic', 'Neoplastic Process', 'SY', 'NCI_GDC')",
+                        "('C2939420', 'Metastatic', 'Neoplastic Process', 'PT', 'NCI_CTDC')"
+                    ]
+                },
+                {
+                    "_term": "triple-negative breast cancer",
+                    "concepts": [
+                        "('C3539878', 'Triple-Negative Breast Cancer', 'Neoplastic Process', 'ET', 'MSH')",
+                        "('C3539878', 'triple-negative breast cancer', 'Neoplastic Process', 'PT', 'PDQ')",
+                        "('C4722518', 'Triple-Negative Breast Cancer', 'Neoplastic Process', 'SY', 'NCI')",
+                        "('C4722518', 'Triple-Negative Breast Cancer', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C3539878', 'Triple-negative breast cancer', 'Neoplastic Process', 'PT', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "breast cancer",
+                    "concepts": [
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C0678222', 'breast cancer', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'PT', 'NCI_FDA')",
+                        "('C0006142', 'breast cancer', 'Neoplastic Process', 'SY', 'MEDCIN')",
+                        "('C0006142', 'Breast cancer', 'Neoplastic Process', 'LA', 'LNC')",
+                        "('C0006142', 'breast cancer', 'Neoplastic Process', 'ET', 'CSP')",
+                        "('C0006142', 'Breast Cancer', 'Neoplastic Process', 'PT', 'MEDLINEPLUS')",
+                        "('C0006142', 'breast cancer', 'Neoplastic Process', 'PSC', 'PDQ')",
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'PT', 'NCI_NICHD')",
+                        "('C0006142', 'Breast Cancer', 'Neoplastic Process', 'PEP', 'MSH')",
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'PT', 'NCI_CTRP')",
+                        "('C3897071', 'Breast Cancer', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C0678222', 'Breast cancer', 'Neoplastic Process', 'SY', 'HPO')",
+                        "('C0006142', 'Breast cancer', 'Neoplastic Process', 'PT', 'MDR')",
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'PT', 'NCI_GDC')",
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'SY', 'NCI')",
+                        "('C0006142', 'breast cancer', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0006142', 'BREAST CANCER', 'Neoplastic Process', 'PT', 'OMIM')",
+                        "('C0678222', 'breast cancer', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0006142', 'Breast cancer', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0006142', 'breast cancer', 'Neoplastic Process', 'PT', 'MEDCIN')",
+                        "('C0006142', 'Breast cancer', 'Neoplastic Process', 'PTCS', 'OMIM')",
+                        "('C0006142', 'Breast cancer', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "metastatic disease",
+                    "concepts": [
+                        "('C2939420', 'metastatic disease', 'Neoplastic Process', 'SY', 'PDQ')",
+                        "('C2939419', 'Metastatic disease', 'Neoplastic Process', 'SY', 'SNOMEDCT_VET')",
+                        "('C2939420', 'Metastatic Disease', 'Neoplastic Process', 'SY', 'NCI')",
+                        "('C0027627', 'metastatic disease', 'Neoplastic Process', 'SY', 'CHV')",
+                        "('C2939420', 'Metastatic disease', 'Neoplastic Process', 'LLT', 'MDR')"
+                    ]
+                },
+                {
+                    "_term": "central nervous system metastases",
+                    "concepts": [
+                        "('C0686377', 'central nervous system metastases', 'Neoplastic Process', 'PSC', 'PDQ')",
+                        "('C0686377', 'Central Nervous System Metastases', 'Neoplastic Process', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "metastases",
+                    "concepts": [
+                        "('C0027627', 'metastases', 'Neoplastic Process', 'PTN', 'ICPC2P')",
+                        "('C2939419', 'Metastases', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')",
+                        "('C0027627', 'Metastases', 'Neoplastic Process', 'PM', 'MSH')",
+                        "('C0027627', 'metastases', 'Neoplastic Process', 'SY', 'CHV')",
+                        "('C0027627', 'Metastases', 'Neoplastic Process', 'HG', 'MDR')",
+                        "('C0027627', 'Metastases', 'Neoplastic Process', 'PT', 'ICPC2P')"
+                    ]
+                },
+                {
+                    "_term": "tumor",
+                    "concepts": [
+                        "('C0027651', 'tumor', 'Neoplastic Process', 'ET', 'CSP')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'SY', 'HPO')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'ET', 'MSH')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'ET', 'MEDLINEPLUS')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'LPDN', 'LNC')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'LS', 'LNC')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'LA', 'LNC')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'SY', 'MEDLINEPLUS')",
+                        "('C0027651', 'tumor', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'RT', 'NANDA-I')",
+                        "('C0027651', 'tumor', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0027651', 'Tumor', 'Neoplastic Process', 'LPN', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "secondary",
+                    "concepts": [
+                        "('C0027627', 'secondary', 'Neoplastic Process', 'PT', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "progression",
+                    "concepts": [
+                        "('C0178874', 'Progression', 'Neoplastic Process', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C0079745', 'Grade 3', 'Neoplastic Process', 'SY', 'NCI_caDSR')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Population Group",
+            "all_matches": [
+                {
+                    "_term": "cohort",
+                    "concepts": [
+                        "('C0599755', 'Cohort', 'Population Group', 'PT', 'NCI')",
+                        "('C0599755', 'cohort', 'Population Group', 'ET', 'CSP')",
+                        "('C0599755', 'Cohort', 'Population Group', 'PN', 'MTH')",
+                        "('C0599755', 'cohort', 'Population Group', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0599755', 'cohort', 'Population Group', 'PT', 'CHV')",
+                        "('C0599755', 'cohort', 'Population Group', 'PT', 'NCI_ICDC')",
+                        "('C0599755', 'cohort', 'Population Group', 'PT', 'NCI_CDISC-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "women",
+                    "concepts": [
+                        "('C0043210', 'Women', 'Population Group', 'PT', 'LCH_NW')",
+                        "('C0043210', 'Women', 'Population Group', 'HT', 'MEDLINEPLUS')",
+                        "('C0043210', 'women', 'Population Group', 'SY', 'CHV')",
+                        "('C0043210', 'Women', 'Population Group', 'MH', 'MSH')",
+                        "('C0043210', 'Women', 'Population Group', 'ET', 'PSY')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Patient or Disabled Group",
+            "all_matches": [
+                {
+                    "_term": "patients",
+                    "concepts": [
+                        "('C0030705', 'patients', 'Patient or Disabled Group', 'SY', 'CHV')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'PSY')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'LCH_NW')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PN', 'MTH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'MH', 'MSH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'SY', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Disease or Syndrome",
+            "all_matches": [
+                {
+                    "_term": "measurable disease",
+                    "concepts": [
+                        "('C1513041', 'Measurable Disease', 'Disease or Syndrome', 'PT', 'NCI')",
+                        "('C1513041', 'measurable disease', 'Disease or Syndrome', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C1513041', 'Measurable Disease', 'Disease or Syndrome', 'SY', 'NCI_caDSR')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C3889290', 'GRADE 3', 'Disease or Syndrome', 'PT', 'NCI_CDISC')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Pathologic Function",
+            "all_matches": [
+                {
+                    "_term": "progression",
+                    "concepts": [
+                        "('C0242656', 'progression', 'Pathologic Function', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0242656', 'Progression', 'Pathologic Function', 'SY', 'NCI')",
+                        "('C1947901', 'progression', 'Pathologic Function', 'SY', 'NCI_NCI-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "adverse events",
+                    "concepts": [
+                        "('C0877248', 'adverse events', 'Pathologic Function', 'SY', 'CHV')"
+                    ]
+                }
+            ]
+        }
+    ],
+    "bio_labels": "",
+    "bio_labels_en": "",
+    "biomarker": [
+        "acfd4f71fb7049c0bc4a82cd06cf9e4e"
+    ],
+    "clinical_stage": null,
+    "disease_labels": [
+        "转移性"
+    ],
+    "disease_labels_en": "",
+    "indications": [
+        {
+            "_id": "144",
+            "ct_disease": [
+                "Triple Negative Breast Neoplasms"
+            ],
+            "department": [
+                "肿瘤科"
+            ],
+            "indication_type": [
+                "肿瘤领域"
+            ],
+            "is_patent": "是",
+            "name": "三阴性乳腺癌",
+            "name_en": "triple negative breast cancer (TNBC)",
+            "name_short": "TNBC",
+            "name_synonyms": [
+                "triple negative metastatic breast cancer",
+                "triple receptor-negative breast cancer",
+                "triple negative breast cancer"
+            ],
+            "parent_indication": [
+                "141"
+            ],
+            "state": "正常"
+        }
+    ],
+    "m_stage": null,
+    "n_stage": null,
+    "pathology": null,
+    "patient_labels": [
+        "未经系统治疗"
+    ],
+    "patient_labels_en": [
+        "no prior systemic anticancer therapy"
+    ],
+    "t_stage": null,
+    "therapy_labels": [
+        "一线"
+    ],
+    "therapy_labels_en": [
+        null
+    ],
+    "title_abbr": "KEYNOTE-086 (cohort B)"
+}

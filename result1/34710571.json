@@ -1,0 +1,295 @@
+{
+    "_id": "2dd928b00e8644e488ffe670e9aa13e8",
+    "_pm_abstract": [
+        {
+            "Label": "BACKGROUND",
+            "text": "Antitumor activity of ipilimumab or BRAF ± MEK inhibitors (BRAFi ± MEKi) following pembrolizumab administration in melanoma is poorly characterized."
+        },
+        {
+            "Label": "PATIENTS AND METHODS",
+            "text": "In the phase III KEYNOTE-006 study, patients with unresectable stage III/IV melanoma received pembrolizumab (10 mg/kg) once every 2 or 3 weeks (Q3W) or ipilimumab (3 mg/kg) Q3W. The current post hoc analysis evaluates outcomes with ipilimumab or BRAFi ± MEKi as first subsequent systemic therapy after pembrolizumab administration and includes patients who completed or discontinued pembrolizumab after one or more dose. Pembrolizumab arms were pooled."
+        },
+        {
+            "Label": "RESULTS",
+            "text": "At data cut-off (4 December 2017), median follow-up was 46.9 months. Of 555 pembrolizumab-treated patients, first subsequent therapy was ipilimumab for 103 (18.6%) and BRAFi ± MEKi for 59 (10.6%) [33 received BRAFi + MEKi, 26 BRAFi alone; 37 (62.7%) were BRAFi ± MEKi naïve]. In the subsequent ipilimumab group, ORR with previous pembrolizumab was 17.5% [1 complete response (CR); 17 partial response (PR)]; 79.6% had discontinued pembrolizumab due to progressive disease (PD); median overall survival (OS) was 21.5 months. ORR with subsequent ipilimumab was 15.5%; 11/16 responses (8 CRs; 3 PRs) were ongoing. ORR with subsequent ipilimumab was 9.7% for patients with PD as best response to pembrolizumab. Median OS from ipilimumab initiation was 9.8 months. In the subsequent BRAFi ± MEKi group, ORR with previous pembrolizumab was 13.5% (8 PR); 76.3% had discontinued pembrolizumab due to PD; median OS was 17.9 months. ORR with subsequent BRAFi ± MEKi was 30.5%, 7/18 responses (4 CR, 3 PR) were ongoing. Median OS from BRAFi ± MEKi initiation was 12.9 months. ORR for BRAFi ± MEKi-naïve patients who received subsequent BRAFi ± MEKi was 43.2%; 6/16 were ongoing (3 CR, 3 PR)."
+        },
+        {
+            "Label": "CONCLUSIONS",
+            "text": "Ipilimumab and BRAFi ± MEKi have antitumor activity as first subsequent therapy after pembrolizumab in patients with advanced melanoma."
+        }
+    ],
+    "_pm_abstract_raw": "Antitumor activity of ipilimumab or BRAF ± MEK inhibitors (BRAFi ± MEKi) following pembrolizumab administration in melanoma is poorly characterized. In the phase III KEYNOTE-006 study, patients with unresectable stage III/IV melanoma received pembrolizumab (10 mg/kg) once every 2 or 3 weeks (Q3W) or ipilimumab (3 mg/kg) Q3W. The current post hoc analysis evaluates outcomes with ipilimumab or BRAFi ± MEKi as first subsequent systemic therapy after pembrolizumab administration and includes patients who completed or discontinued pembrolizumab after one or more dose. Pembrolizumab arms were pooled. At data cut-off (4 December 2017), median follow-up was 46.9 months. Of 555 pembrolizumab-treated patients, first subsequent therapy was ipilimumab for 103 (18.6%) and BRAFi ± MEKi for 59 (10.6%) [33 received BRAFi + MEKi, 26 BRAFi alone; 37 (62.7%) were BRAFi ± MEKi naïve]. In the subsequent ipilimumab group, ORR with previous pembrolizumab was 17.5% [1 complete response (CR); 17 partial response (PR)]; 79.6% had discontinued pembrolizumab due to progressive disease (PD); median overall survival (OS) was 21.5 months. ORR with subsequent ipilimumab was 15.5%; 11/16 responses (8 CRs; 3 PRs) were ongoing. ORR with subsequent ipilimumab was 9.7% for patients with PD as best response to pembrolizumab. Median OS from ipilimumab initiation was 9.8 months. In the subsequent BRAFi ± MEKi group, ORR with previous pembrolizumab was 13.5% (8 PR); 76.3% had discontinued pembrolizumab due to PD; median OS was 17.9 months. ORR with subsequent BRAFi ± MEKi was 30.5%, 7/18 responses (4 CR, 3 PR) were ongoing. Median OS from BRAFi ± MEKi initiation was 12.9 months. ORR for BRAFi ± MEKi-naïve patients who received subsequent BRAFi ± MEKi was 43.2%; 6/16 were ongoing (3 CR, 3 PR). Ipilimumab and BRAFi ± MEKi have antitumor activity as first subsequent therapy after pembrolizumab in patients with advanced melanoma.",
+    "_pm_id": "34710571",
+    "_pm_title": "Antitumor activity of ipilimumab or BRAF ± MEK inhibition after pembrolizumab treatment in patients with advanced melanoma: analysis from KEYNOTE-006.",
+    "_umls_result": [
+        {
+            "_semantic_type": "Patient or Disabled Group",
+            "all_matches": [
+                {
+                    "_term": "patients",
+                    "concepts": [
+                        "('C0030705', 'patients', 'Patient or Disabled Group', 'SY', 'CHV')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'PSY')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'LCH_NW')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PN', 'MTH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'MH', 'MSH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'SY', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Neoplastic Process",
+            "all_matches": [
+                {
+                    "_term": "advanced melanoma",
+                    "concepts": [
+                        "('C4727838', 'Advanced Melanoma', 'Neoplastic Process', 'PT', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "melanoma",
+                    "concepts": [
+                        "('C0025202', 'melanoma', 'Neoplastic Process', 'PSC', 'PDQ')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'SY', 'NCI_caDSR')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'NCI_CTEP-SDC')",
+                        "('C0025202', 'melanoma', 'Neoplastic Process', 'PT', 'CSP')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C1302746', 'Melanoma', 'Neoplastic Process', 'SY', 'SNOMEDCT_VET')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'NCI')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'MH', 'MSH')",
+                        "('C0025202', 'melanoma', 'Neoplastic Process', 'PTN', 'ICPC2P')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'MEDLINEPLUS')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'NCI_NICHD')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'NCI_CELLOSAURUS')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'ICPC2P')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'NCI_CTRP')",
+                        "('C0025202', 'melanoma', 'Neoplastic Process', 'PN', 'MTH')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'NCI_GDC')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PTCS', 'OMIM')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'HPO')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')",
+                        "('C0025202', 'melanoma', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0025202', 'melanoma', 'Neoplastic Process', 'PT', 'ICPC2ICD10ENG')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'LA', 'LNC')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'LCH_NW')",
+                        "('C0025202', 'melanoma', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "stage iii",
+                    "concepts": [
+                        "('C4551545', 'Stage III', 'Neoplastic Process', 'PT', 'NCI_PCDC')",
+                        "('C3829185', 'Stage III', 'Neoplastic Process', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "arms",
+                    "concepts": [
+                        "('C0206655', 'ARMS', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "progressive disease",
+                    "concepts": [
+                        "('C0677932', 'progressive disease', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Finding",
+            "all_matches": [
+                {
+                    "_term": "poorly",
+                    "concepts": [
+                        "('C4761380', 'Poorly', 'Finding', 'SY', 'NCI_caDSR')"
+                    ]
+                },
+                {
+                    "_term": "discontinued",
+                    "concepts": [
+                        "('C1444662', 'DISCONTINUED', 'Finding', 'PT', 'NCI_CDISC')",
+                        "('C1444662', 'Discontinued', 'Finding', 'PT', 'SNOMEDCT_US')",
+                        "('C1444662', 'Discontinued', 'Finding', 'AD', 'NCI')",
+                        "('C1444662', 'Discontinued', 'Finding', 'PN', 'MTH')"
+                    ]
+                },
+                {
+                    "_term": "follow-up",
+                    "concepts": [
+                        "('C0589120', 'Follow-up', 'Finding', 'SY', 'SNOMEDCT_US')",
+                        "('C0589120', 'Follow-up', 'Finding', 'LA', 'LNC')",
+                        "('C0589120', 'follow-up', 'Finding', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "complete response",
+                    "concepts": [
+                        "('C0677874', 'Complete Response', 'Finding', 'PT', 'NCI_GDC')",
+                        "('C0677874', 'Complete Response', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C5203033', 'Complete Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5203022', 'Complete Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C0677874', 'complete response', 'Finding', 'PT', 'CHV')",
+                        "('C0677874', 'Complete Response', 'Finding', 'PT', 'NCI_ICDC')",
+                        "('C0677874', 'complete response', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C5401353', 'Complete Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C0677874', 'Complete Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5203025', 'Complete Response', 'Finding', 'SY', 'NCI')",
+                        "('C0677874', 'Complete response', 'Finding', 'LA', 'LNC')",
+                        "('C0677874', 'Complete Response', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C5203023', 'Complete Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C0677874', 'Complete response', 'Finding', 'PT', 'NCI_CTDC')",
+                        "('C5203024', 'Complete Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5203035', 'Complete Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C4724446', 'Complete Response', 'Finding', 'SY', 'NCI')",
+                        "('C5203034', 'Complete Response', 'Finding', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "partial response",
+                    "concepts": [
+                        "('C1521726', 'partial response', 'Finding', 'PN', 'MTH')",
+                        "('C1521726', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5202622', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C1521726', 'Partial Response', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C1521726', 'Partial Response', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C5202621', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5401418', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C1521726', 'partial response', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C5202892', 'Partial Response', 'Finding', 'SY', 'NCI')",
+                        "('C1521726', 'Partial response', 'Finding', 'LA', 'LNC')",
+                        "('C5202623', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C1521726', 'Partial Response', 'Finding', 'PT', 'NCI_GDC')",
+                        "('C1521726', 'Partial Response', 'Finding', 'SY', 'NCI')",
+                        "('C1521726', 'Partial Response', 'Finding', 'PT', 'NCI_ICDC')",
+                        "('C4723835', 'Partial Response', 'Finding', 'SY', 'NCI')",
+                        "('C5202620', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5202624', 'Partial Response', 'Finding', 'SY', 'NCI')",
+                        "('C1521726', 'Partial response', 'Finding', 'PT', 'NCI_CTDC')",
+                        "('C5202891', 'Partial Response', 'Finding', 'SY', 'NCI_caDSR')"
+                    ]
+                },
+                {
+                    "_term": "progressive disease",
+                    "concepts": [
+                        "('C5202925', 'Progressive Disease', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5202920', 'Progressive Disease', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5202924', 'Progressive Disease', 'Finding', 'SY', 'NCI')",
+                        "('C5202921', 'Progressive Disease', 'Finding', 'SY', 'NCI')",
+                        "('C5202991', 'Progressive Disease', 'Finding', 'SY', 'NCI')",
+                        "('C4723839', 'Progressive Disease', 'Finding', 'SY', 'NCI')",
+                        "('C5202923', 'Progressive Disease', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5202926', 'Progressive Disease', 'Finding', 'SY', 'NCI_caDSR')"
+                    ]
+                },
+                {
+                    "_term": "best response",
+                    "concepts": [
+                        "('C2986560', 'Best Response', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C2986560', 'best response', 'Finding', 'SY', 'NCI_ICDC')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Clinical Attribute",
+            "all_matches": [
+                {
+                    "_term": "unresectable",
+                    "concepts": [
+                        "('C1519810', 'Unresectable', 'Clinical Attribute', 'SY', 'NCI_NICHD')",
+                        "('C1519810', 'unresectable', 'Clinical Attribute', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C1519810', 'Unresectable', 'Clinical Attribute', 'PT', 'NCI')",
+                        "('C1519810', 'unresectable', 'Clinical Attribute', 'PT', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "dose",
+                    "concepts": [
+                        "('C1114758', 'Dose', 'Clinical Attribute', '#OSN', 'LNC')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Therapeutic or Preventive Procedure",
+            "all_matches": [
+                {
+                    "_term": "systemic",
+                    "concepts": [
+                        "('C5400982', 'Systemic', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_PCDC')"
+                    ]
+                },
+                {
+                    "_term": "systemic therapy",
+                    "concepts": [
+                        "('C1515119', 'Systemic Therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C1515119', 'systemic therapy', 'Therapeutic or Preventive Procedure', 'PT', 'CHV')",
+                        "('C1515119', 'systemic therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C1515119', 'Systemic Therapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI_caDSR')",
+                        "('C1515119', 'Systemic Therapy', 'Therapeutic or Preventive Procedure', 'DN', 'NCI_CTRP')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Disease or Syndrome",
+            "all_matches": [
+                {
+                    "_term": "progressive disease",
+                    "concepts": [
+                        "('C1335499', 'Progressive Disease', 'Disease or Syndrome', 'PT', 'NCI_GDC')",
+                        "('C1335499', 'Progressive Disease', 'Disease or Syndrome', 'PT', 'NCI_ICDC')",
+                        "('C3539781', 'Progressive Disease', 'Disease or Syndrome', 'SY', 'NCI')",
+                        "('C1335499', 'Progressive disease', 'Disease or Syndrome', 'PT', 'NCI_CTDC')",
+                        "('C1335499', 'Progressive Disease', 'Disease or Syndrome', 'PN', 'MTH')",
+                        "('C1335499', 'Progressive Disease', 'Disease or Syndrome', 'SY', 'NCI_caDSR')",
+                        "('C1335499', 'PROGRESSIVE DISEASE', 'Disease or Syndrome', 'PT', 'NCI_CDISC')",
+                        "('C1335499', 'Progressive Disease', 'Disease or Syndrome', 'SY', 'NCI_CDISC')",
+                        "('C1335499', 'Progressive disease', 'Disease or Syndrome', 'LA', 'LNC')",
+                        "('C1335499', 'Progressive Disease', 'Disease or Syndrome', 'PT', 'NCI_PCDC')",
+                        "('C1335499', 'Progressive Disease', 'Disease or Syndrome', 'PT', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "crs",
+                    "concepts": [
+                        "('C0010278', 'CRS', 'Disease or Syndrome', 'ETAL', 'OMIM')"
+                    ]
+                }
+            ]
+        }
+    ],
+    "indications": [
+        {
+            "_id": "149",
+            "ct_disease": [
+                "Melanoma",
+                "Melanoma, Familial",
+                "Acral Lentiginous Melanoma"
+            ],
+            "department": [
+                "肿瘤科"
+            ],
+            "indication_type": [
+                "肿瘤领域",
+                "罕见疾病领域"
+            ],
+            "is_patent": "是",
+            "name": "黑素瘤",
+            "name_en": "melanoma (MEL)",
+            "name_short": "MEL",
+            "name_synonyms": [
+                "黑色素瘤",
+                "malignant melanoma",
+                "melanoma"
+            ],
+            "parent_indication": [
+                "148"
+            ],
+            "state": "正常"
+        }
+    ]
+}

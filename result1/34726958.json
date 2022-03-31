@@ -1,0 +1,239 @@
+{
+    "_id": "4a5980c529af425e86569a3dc5cd59a0",
+    "_pm_abstract": [
+        {
+            "Label": "PURPOSE",
+            "text": "To investigate the efficacy of gefitinib as an adjuvant therapy for non-small-cell lung cancer patients with EGFR mutation."
+        },
+        {
+            "Label": "PATIENTS AND METHODS",
+            "text": "IMPACT (WJOG6410L; University Hospital Medical Information Network Clinical Trials Registry: UMIN000006252), a randomized, open-label, phase III study, included patients with completely resected pathologic stage II-III non-small-cell lung cancer harboring EGFR mutations (exon 19 deletion or L858R) during September 2011 to December 2015. Patients were randomly assigned to receive gefitinib (250 mg once daily) for 24 months or cisplatin (80 mg/m2 on day 1) plus vinorelbine (25 mg/m2 on days 1 and 8; cis/vin) once every 3 weeks for four cycles. The primary end point was disease-free survival (DFS)."
+        },
+        {
+            "Label": "RESULTS",
+            "text": "Overall, 234 patients were randomly assigned. Among 232 eligible patients (116 each; excluding two who withdrew consent), the median DFS was 35.9 and 25.1 months in the gefitinib and cis/vin groups, respectively. However, Kaplan-Meier curves crossed around 4 years after surgery with no statistically significant difference (stratified log-rank P = .63; hazard ratio by stratified Cox proportional hazards model = 0.92; 95% CI, 0.67 to 1.28). Overall survival (OS) was also not different (stratified log-rank P = .89; hazard ratio = 1.03; 95% CI, 0.65 to 1.65), with the 5-year OS rates being 78.0% and 74.6% in the gefitinib and cis/vin groups, respectively. Treatment-related deaths occurred in 0 and three patients in the gefitinib and cis/vin groups, respectively."
+        },
+        {
+            "Label": "CONCLUSION",
+            "text": "Although adjuvant gefitinib appeared to prevent early relapse, it did not prolong DFS or OS. However, similar DFS and OS may justify adjuvant gefitinib in the selected patient subsets, especially those deemed ineligible for platinum-doublet adjuvant therapy; however, this was not a noninferiority trial."
+        }
+    ],
+    "_pm_abstract_raw": "To investigate the efficacy of gefitinib as an adjuvant therapy for non-small-cell lung cancer patients with EGFR mutation. IMPACT (WJOG6410L; University Hospital Medical Information Network Clinical Trials Registry: UMIN000006252), a randomized, open-label, phase III study, included patients with completely resected pathologic stage II-III non-small-cell lung cancer harboring EGFR mutations (exon 19 deletion or L858R) during September 2011 to December 2015. Patients were randomly assigned to receive gefitinib (250 mg once daily) for 24 months or cisplatin (80 mg/m2 on day 1) plus vinorelbine (25 mg/m2 on days 1 and 8; cis/vin) once every 3 weeks for four cycles. The primary end point was disease-free survival (DFS). Overall, 234 patients were randomly assigned. Among 232 eligible patients (116 each; excluding two who withdrew consent), the median DFS was 35.9 and 25.1 months in the gefitinib and cis/vin groups, respectively. However, Kaplan-Meier curves crossed around 4 years after surgery with no statistically significant difference (stratified log-rank P = .63; hazard ratio by stratified Cox proportional hazards model = 0.92; 95% CI, 0.67 to 1.28). Overall survival (OS) was also not different (stratified log-rank P = .89; hazard ratio = 1.03; 95% CI, 0.65 to 1.65), with the 5-year OS rates being 78.0% and 74.6% in the gefitinib and cis/vin groups, respectively. Treatment-related deaths occurred in 0 and three patients in the gefitinib and cis/vin groups, respectively. Although adjuvant gefitinib appeared to prevent early relapse, it did not prolong DFS or OS. However, similar DFS and OS may justify adjuvant gefitinib in the selected patient subsets, especially those deemed ineligible for platinum-doublet adjuvant therapy; however, this was not a noninferiority trial.",
+    "_pm_id": "34726958",
+    "_pm_title": "Randomized Phase III Study of Gefitinib Versus Cisplatin Plus Vinorelbine for Patients With Resected Stage II-IIIA Non-Small-Cell Lung Cancer With EGFR Mutation (IMPACT).",
+    "_umls_result": [
+        {
+            "_semantic_type": "Finding",
+            "all_matches": [
+                {
+                    "_term": "randomized",
+                    "concepts": [
+                        "('C3815594', 'RANDOMIZED', 'Finding', 'PT', 'NCI_CDISC')"
+                    ]
+                },
+                {
+                    "_term": "after surgery",
+                    "concepts": [
+                        "('C0241311', 'After Surgery', 'Finding', 'PT', 'MEDLINEPLUS')"
+                    ]
+                },
+                {
+                    "_term": "related",
+                    "concepts": [
+                        "('C0445223', 'Related', 'Finding', 'LA', 'LNC')",
+                        "('C0445223', 'Related', 'Finding', 'PT', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "deaths",
+                    "concepts": [
+                        "('C4738113', 'Deaths', 'Finding', 'LPN', 'LNC')",
+                        "('C4738113', 'Deaths', 'Finding', 'CN', 'LNC')",
+                        "('C4738113', 'Deaths', 'Finding', 'LPDN', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "early relapse",
+                    "concepts": [
+                        "('C4055086', 'Early Relapse', 'Finding', 'PT', 'NCI')",
+                        "('C4055086', 'Early Relapse', 'Finding', 'PT', 'NCI_NICHD')"
+                    ]
+                },
+                {
+                    "_term": "relapse",
+                    "concepts": [
+                        "('C5203072', 'Relapse', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5203070', 'Relapse', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5203069', 'Relapse', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5238859', 'Relapse', 'Finding', 'PT', 'NCI_ACC-AHA')",
+                        "('C5203071', 'Relapse', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C5203068', 'Relapse', 'Finding', 'SY', 'NCI_caDSR')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Patient or Disabled Group",
+            "all_matches": [
+                {
+                    "_term": "patients",
+                    "concepts": [
+                        "('C0030705', 'patients', 'Patient or Disabled Group', 'SY', 'CHV')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'PSY')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'LCH_NW')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PN', 'MTH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'MH', 'MSH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'SY', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Therapeutic or Preventive Procedure",
+            "all_matches": [
+                {
+                    "_term": "resected",
+                    "concepts": [
+                        "('C0015252', 'resected', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "adjuvant therapy",
+                    "concepts": [
+                        "('C0677850', 'adjuvant therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0677850', 'adjuvant therapy', 'Therapeutic or Preventive Procedure', 'PT', 'CHV')",
+                        "('C0677850', 'Adjuvant Therapy', 'Therapeutic or Preventive Procedure', 'DN', 'NCI_CTRP')",
+                        "('C0677850', 'Adjuvant therapy', 'Therapeutic or Preventive Procedure', 'LLT', 'MDR')",
+                        "('C0677850', 'adjuvant therapy', 'Therapeutic or Preventive Procedure', 'PT', 'PDQ')",
+                        "('C0677850', 'Adjuvant therapy', 'Therapeutic or Preventive Procedure', 'PT', 'MDR')",
+                        "('C0677850', 'Adjuvant Therapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI_caDSR')",
+                        "('C0677850', 'Adjuvant Therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C0677850', 'adjuvant therapy', 'Therapeutic or Preventive Procedure', 'ET', 'CSP')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Neoplastic Process",
+            "all_matches": [
+                {
+                    "_term": "stage ii",
+                    "concepts": [
+                        "('C4551544', 'Stage II', 'Neoplastic Process', 'PT', 'NCI_PCDC')"
+                    ]
+                },
+                {
+                    "_term": "lung cancer",
+                    "concepts": [
+                        "('C0684249', 'Lung Cancer', 'Neoplastic Process', 'PT', 'NCI_GDC')",
+                        "('C1306460', 'Lung cancer', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')",
+                        "('C0242379', 'lung cancer', 'Neoplastic Process', 'PT', 'PDQ')",
+                        "('C0242379', 'Lung Cancer', 'Neoplastic Process', 'PEP', 'MSH')",
+                        "('C0242379', 'lung cancer', 'Neoplastic Process', 'ET', 'CSP')",
+                        "('C0242379', 'lung cancer', 'Neoplastic Process', 'SY', 'MEDCIN')",
+                        "('C0684249', 'Lung Cancer', 'Neoplastic Process', 'SY', 'NCI')",
+                        "('C0242379', 'Lung cancer', 'Neoplastic Process', 'LA', 'LNC')",
+                        "('C0242379', 'Lung Cancer', 'Neoplastic Process', 'PT', 'MEDLINEPLUS')",
+                        "('C0684249', 'lung cancer', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0242379', 'lung cancer', 'Neoplastic Process', 'PT', 'MEDCIN')",
+                        "('C0242379', 'lung cancer', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0684249', 'Lung Cancer', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C0684249', 'Lung Cancer', 'Neoplastic Process', 'PT', 'NCI_CTRP')",
+                        "('C0242379', 'Lung cancer', 'Neoplastic Process', 'ET', 'HPO')",
+                        "('C0684249', 'LUNG CANCER', 'Neoplastic Process', 'PT', 'OMIM')",
+                        "('C0242379', 'Lung cancer', 'Neoplastic Process', 'LLT', 'MDR')"
+                    ]
+                },
+                {
+                    "_term": "cis",
+                    "concepts": [
+                        "('C0007099', 'CIS', 'Neoplastic Process', 'SY', 'NCI_CDISC')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Clinical Attribute",
+            "all_matches": [
+                {
+                    "_term": "pathologic stage",
+                    "concepts": [
+                        "('C1320480', 'pathologic stage', 'Clinical Attribute', 'PT', 'CHV')",
+                        "('C1320480', 'Pathologic stage', 'Clinical Attribute', 'PT', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "consent",
+                    "concepts": [
+                        "('C2923685', 'Consent', 'Clinical Attribute', 'OSN', 'LNC')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Population Group",
+            "all_matches": [
+                {
+                    "_term": "groups",
+                    "concepts": [
+                        "('C0687744', 'groups', 'Population Group', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "platinum",
+                    "concepts": [
+                        "('C1553253', 'Platinum', 'Population Group', 'PT', 'NCI_CDC')",
+                        "('C1553253', 'Platinum', 'Population Group', 'PT', 'CDCREC')",
+                        "('C1553253', 'Platinum', 'Population Group', 'PT', 'HL7V3.0')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Disease or Syndrome",
+            "all_matches": [
+                {
+                    "_term": "relapse",
+                    "concepts": [
+                        "('C0277556', 'Relapse', 'Disease or Syndrome', 'SY', 'NCI')",
+                        "('C0277556', 'Relapse', 'Disease or Syndrome', 'PT', 'NCI_PCDC')",
+                        "('C0277556', 'Relapse', 'Disease or Syndrome', 'PT', 'NCI_ACC-AHA')",
+                        "('C0277556', 'relapse', 'Disease or Syndrome', 'PT', 'NCI_NCI-GLOSS')"
+                    ]
+                }
+            ]
+        }
+    ],
+    "indications": [
+        {
+            "_id": "135",
+            "ct_disease": [
+                "Carcinoma, Non-Small-Cell Lung"
+            ],
+            "department": [
+                "肿瘤科"
+            ],
+            "indication_type": [
+                "肿瘤领域"
+            ],
+            "is_patent": "是",
+            "name": "非小细胞肺癌",
+            "name_en": "non-small cell lung cancer (NSCLC)",
+            "name_short": "NSCLC",
+            "name_synonyms": [
+                "non-small-cell lung cancer",
+                "non-small-cell lung carcinoma",
+                "non-small cell bronchogenic carcinoma",
+                "非小细胞支气管癌",
+                "非小细胞性肺癌",
+                "bronchioloalveolar carcinoma",
+                "non small cells lung cancer",
+                "non-small cell lung cancer"
+            ],
+            "parent_indication": [
+                "134"
+            ],
+            "state": "正常"
+        }
+    ]
+}

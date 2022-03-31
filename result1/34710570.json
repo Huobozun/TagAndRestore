@@ -1,0 +1,363 @@
+{
+    "_id": "33103f6bbd914935b2b98b1243ececce",
+    "_pm_abstract": [
+        {
+            "Label": "BACKGROUND",
+            "text": "Modulating the DNA damage response and repair (DDR) pathways is a promising strategy for boosting cancer immunotherapy. Ceralasertib (AZD6738) is an oral inhibitor of the serine/threonine protein kinase ataxia telangiectasia and Rad3-related protein, which is crucial for DDR."
+        },
+        {
+            "Label": "PATIENTS AND METHODS",
+            "text": "This phase II trial evaluated ceralasertib plus durvalumab for the treatment of patients with metastatic melanoma who had failed anti-programmed cell death protein 1 therapy."
+        },
+        {
+            "Label": "RESULTS",
+            "text": "Among the 30 patients, we observed an overall response rate of 31.0% and a disease control rate of 63.3%. Responses were evident across patients with acral, mucosal, and cutaneous melanoma. The median duration of response was 8.8 months (range, 3.8-11.7 months). The median progression-free survival was 7.1 months (95% confidence interval, 3.6-10.6 months), and the median overall survival was 14.2 months (95% confidence interval, 9.3-19.1 months). Common adverse events were largely hematologic and manageable with dose interruptions and reductions. Exploratory biomarker analysis suggested that tumors with an immune-enriched microenvironment or alterations in the DDR pathway were more likely to respond to the study treatment."
+        },
+        {
+            "Label": "CONCLUSION",
+            "text": "We conclude that ceralasertib in combination with durvalumab has promising antitumor activity among patients with metastatic melanoma who have failed anti-programmed cell death protein 1 therapy, and constitute a population with unmet needs."
+        }
+    ],
+    "_pm_abstract_raw": "Modulating the DNA damage response and repair (DDR) pathways is a promising strategy for boosting cancer immunotherapy. Ceralasertib (AZD6738) is an oral inhibitor of the serine/threonine protein kinase ataxia telangiectasia and Rad3-related protein, which is crucial for DDR. This phase II trial evaluated ceralasertib plus durvalumab for the treatment of patients with metastatic melanoma who had failed anti-programmed cell death protein 1 therapy. Among the 30 patients, we observed an overall response rate of 31.0% and a disease control rate of 63.3%. Responses were evident across patients with acral, mucosal, and cutaneous melanoma. The median duration of response was 8.8 months (range, 3.8-11.7 months). The median progression-free survival was 7.1 months (95% confidence interval, 3.6-10.6 months), and the median overall survival was 14.2 months (95% confidence interval, 9.3-19.1 months). Common adverse events were largely hematologic and manageable with dose interruptions and reductions. Exploratory biomarker analysis suggested that tumors with an immune-enriched microenvironment or alterations in the DDR pathway were more likely to respond to the study treatment. We conclude that ceralasertib in combination with durvalumab has promising antitumor activity among patients with metastatic melanoma who have failed anti-programmed cell death protein 1 therapy, and constitute a population with unmet needs.",
+    "_pm_id": "34710570",
+    "_pm_title": "Phase II study of ceralasertib (AZD6738) in combination with durvalumab in patients with advanced/metastatic melanoma who have failed prior anti-PD-1 therapy.",
+    "_umls_result": [
+        {
+            "_semantic_type": "Patient or Disabled Group",
+            "all_matches": [
+                {
+                    "_term": "patients",
+                    "concepts": [
+                        "('C0030705', 'patients', 'Patient or Disabled Group', 'SY', 'CHV')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'PSY')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'LCH_NW')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PN', 'MTH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'MH', 'MSH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'SY', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Neoplastic Process",
+            "all_matches": [
+                {
+                    "_term": "metastatic",
+                    "concepts": [
+                        "('C2939420', 'Metastatic', 'Neoplastic Process', 'SY', 'NCI_GDC')",
+                        "('C2939420', 'Metastatic', 'Neoplastic Process', 'PT', 'NCI_CTDC')"
+                    ]
+                },
+                {
+                    "_term": "metastatic melanoma",
+                    "concepts": [
+                        "('C0278883', 'metastatic melanoma', 'Neoplastic Process', 'SY', 'PDQ')",
+                        "('C0278883', 'Metastatic melanoma', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0278883', 'Metastatic Melanoma', 'Neoplastic Process', 'PT', 'NCI')",
+                        "('C0278883', 'Metastatic Melanoma', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C0278883', 'Metastatic melanoma', 'Neoplastic Process', 'PN', 'MTH')",
+                        "('C0278883', 'metastatic melanoma', 'Neoplastic Process', 'PT', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "melanoma",
+                    "concepts": [
+                        "('C0025202', 'melanoma', 'Neoplastic Process', 'PSC', 'PDQ')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'SY', 'NCI_caDSR')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'NCI_CTEP-SDC')",
+                        "('C0025202', 'melanoma', 'Neoplastic Process', 'PT', 'CSP')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C1302746', 'Melanoma', 'Neoplastic Process', 'SY', 'SNOMEDCT_VET')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'NCI')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'MH', 'MSH')",
+                        "('C0025202', 'melanoma', 'Neoplastic Process', 'PTN', 'ICPC2P')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'MEDLINEPLUS')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'NCI_NICHD')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'NCI_CELLOSAURUS')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'ICPC2P')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'NCI_CTRP')",
+                        "('C0025202', 'melanoma', 'Neoplastic Process', 'PN', 'MTH')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'NCI_GDC')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PTCS', 'OMIM')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'HPO')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')",
+                        "('C0025202', 'melanoma', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0025202', 'melanoma', 'Neoplastic Process', 'PT', 'ICPC2ICD10ENG')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'LA', 'LNC')",
+                        "('C0025202', 'Melanoma', 'Neoplastic Process', 'PT', 'LCH_NW')",
+                        "('C0025202', 'melanoma', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "cutaneous melanoma",
+                    "concepts": [
+                        "('C0151779', 'Cutaneous melanoma', 'Neoplastic Process', 'PT', 'HPO')",
+                        "('C0151779', 'Cutaneous Melanoma', 'Neoplastic Process', 'SY', 'NCI_caDSR')",
+                        "('C0025202', 'cutaneous melanoma', 'Neoplastic Process', 'SY', 'CHV')",
+                        "('C0151779', 'Cutaneous Melanoma', 'Neoplastic Process', 'PN', 'MTH')",
+                        "('C0151779', 'Cutaneous Melanoma', 'Neoplastic Process', 'PT', 'NCI_CELLOSAURUS')",
+                        "('C0151779', 'Cutaneous melanoma', 'Neoplastic Process', 'PTCS', 'OMIM')",
+                        "('C0151779', 'cutaneous melanoma', 'Neoplastic Process', 'SY', 'PDQ')",
+                        "('C0151779', 'Cutaneous Melanoma', 'Neoplastic Process', 'PT', 'NCI_CTRP')",
+                        "('C0151779', 'Cutaneous Melanoma', 'Neoplastic Process', 'PT', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "progression",
+                    "concepts": [
+                        "('C0178874', 'Progression', 'Neoplastic Process', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "tumors",
+                    "concepts": [
+                        "('C0027651', 'Tumors', 'Neoplastic Process', 'ID', 'NOC')",
+                        "('C0027651', 'Tumors', 'Neoplastic Process', 'ET', 'PSY')",
+                        "('C0027651', 'tumors', 'Neoplastic Process', 'SY', 'CHV')",
+                        "('C0027651', 'Tumors', 'Neoplastic Process', 'ET', 'MSH')",
+                        "('C0027651', 'Tumors', 'Neoplastic Process', 'PT', 'LCH_NW')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Therapeutic or Preventive Procedure",
+            "all_matches": [
+                {
+                    "_term": "repair",
+                    "concepts": [
+                        "('C0374711', 'Repair', 'Therapeutic or Preventive Procedure', 'PT', 'ICPC2P')",
+                        "('C0374711', 'repair', 'Therapeutic or Preventive Procedure', 'PTN', 'ICPC2P')",
+                        "('C0374711', 'repair', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C0374711', 'Repair', 'Therapeutic or Preventive Procedure', 'SY', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "cancer immunotherapy",
+                    "concepts": [
+                        "('C0278348', 'Cancer Immunotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'MEDLINEPLUS')",
+                        "('C0278348', 'Cancer immunotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'SNOMEDCT_US')",
+                        "('C0278348', 'cancer immunotherapy', 'Therapeutic or Preventive Procedure', 'ET', 'CSP')",
+                        "('C0278348', 'cancer immunotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'CHV')",
+                        "('C0278348', 'Cancer Immunotherapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "disease control",
+                    "concepts": [
+                        "('C0920467', 'disease control', 'Therapeutic or Preventive Procedure', 'ET', 'CSP')",
+                        "('C0920467', 'disease control', 'Therapeutic or Preventive Procedure', 'PT', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "reductions",
+                    "concepts": [
+                        "('C4551656', 'reductions', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Finding",
+            "all_matches": [
+                {
+                    "_term": "oral",
+                    "concepts": [
+                        "('C4521986', 'Oral', 'Finding', 'PT', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "ataxia",
+                    "concepts": [
+                        "('C4554639', 'Ataxia', 'Finding', 'PT', 'NCI_GDC')",
+                        "('C4554639', 'Ataxia', 'Finding', 'PT', 'NCI_CTCAE_5')"
+                    ]
+                },
+                {
+                    "_term": "telangiectasia",
+                    "concepts": [
+                        "('C0039446', 'Telangiectasia', 'Finding', 'PT', 'MDR')",
+                        "('C0039446', 'Telangiectasia', 'Finding', 'PT', 'NCI_CTCAE')",
+                        "('C4554141', 'Telangiectasia', 'Finding', 'PT', 'NCI_CTCAE_5')",
+                        "('C0039446', 'telangiectasia', 'Finding', 'SY', 'CHV')",
+                        "('C0039446', 'TELANGIECTASIA', 'Finding', 'PT', 'MTH')",
+                        "('C0039446', 'Telangiectasia', 'Finding', 'PTCS', 'OMIM')",
+                        "('C0039446', 'telangiectasia', 'Finding', 'PT', 'MEDCIN')",
+                        "('C0039446', 'telangiectasia', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0039446', 'Telangiectasia', 'Finding', 'PT', 'LCH_NW')",
+                        "('C0039446', 'Telangiectasia', 'Finding', 'SY', 'SNOMEDCT_US')",
+                        "('C0039446', 'Telangiectasia', 'Finding', 'PT', 'NCI')",
+                        "('C0039446', 'telangiectasia', 'Finding', 'PT', 'ICPC2ICD10ENG')",
+                        "('C4554141', 'Telangiectasia', 'Finding', 'PT', 'NCI_GDC')",
+                        "('C0039446', 'Telangiectasia', 'Finding', 'ET', 'MSH')",
+                        "('C0039446', 'Telangiectasia', 'Finding', 'PT', 'HPO')",
+                        "('C0039446', 'Telangiectasia', 'Finding', 'LLT', 'MDR')",
+                        "('C0039446', 'telangiectasia', 'Finding', 'PT', 'CSP')",
+                        "('C1963248', 'Telangiectasia', 'Finding', 'PT', 'NCI_CTCAE_3')"
+                    ]
+                },
+                {
+                    "_term": "rad",
+                    "concepts": [
+                        "('C0232296', 'RAD', 'Finding', 'SY', 'HPO')"
+                    ]
+                },
+                {
+                    "_term": "related",
+                    "concepts": [
+                        "('C0445223', 'Related', 'Finding', 'LA', 'LNC')",
+                        "('C0445223', 'Related', 'Finding', 'PT', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "overall response",
+                    "concepts": [
+                        "('C3272903', 'Overall Response', 'Finding', 'PT', 'NCI_CDISC')",
+                        "('C3272903', 'Overall Response', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C3272903', 'Overall Response', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C3272903', 'Overall Response', 'Finding', 'PT', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "unmet needs",
+                    "concepts": [
+                        "('C4061640', 'Unmet needs', 'Finding', 'RT', 'NANDA-I')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Sign or Symptom",
+            "all_matches": [
+                {
+                    "_term": "ataxia",
+                    "concepts": [
+                        "('C0004134', 'Ataxia', 'Sign or Symptom', 'PTCS', 'OMIM')",
+                        "('C0004134', 'Ataxia', 'Sign or Symptom', 'PN', 'MTH')",
+                        "('C0004134', 'Ataxia', 'Sign or Symptom', 'PT', 'LCH_NW')",
+                        "('C0004134', 'ataxia', 'Sign or Symptom', 'SY', 'MEDCIN')",
+                        "('C0004134', 'Ataxia', 'Sign or Symptom', 'PT', 'NCI_CTCAE')",
+                        "('C0004134', 'Ataxia', 'Sign or Symptom', 'LA', 'LNC')",
+                        "('C0004134', 'ataxia', 'Sign or Symptom', 'PT', 'CSP')",
+                        "('C0004134', 'Ataxia', 'Sign or Symptom', 'PT', 'MDR')",
+                        "('C0004134', 'Ataxia', 'Sign or Symptom', 'LLT', 'MDR')",
+                        "('C0004134', 'ataxia', 'Sign or Symptom', 'PTN', 'ICPC2P')",
+                        "('C0004134', 'Ataxia', 'Sign or Symptom', 'PT', 'SNOMEDCT_US')",
+                        "('C0004134', 'Ataxia', 'Sign or Symptom', 'PT', 'NCI')",
+                        "('C0004134', 'ataxia', 'Sign or Symptom', 'PT', 'ICPC2ICD10ENG')",
+                        "('C0004134', 'ataxia', 'Sign or Symptom', 'PT', 'CHV')",
+                        "('C0004134', 'Ataxia', 'Sign or Symptom', 'MH', 'MSH')",
+                        "('C0004134', 'Ataxia', 'Sign or Symptom', 'ET', 'MEDLINEPLUS')",
+                        "('C0004134', 'Ataxia', 'Sign or Symptom', 'PT', 'NCI_NICHD')",
+                        "('C0004134', 'Ataxia', 'Sign or Symptom', 'PT', 'ICPC2P')",
+                        "('C0004134', 'Ataxia', 'Sign or Symptom', 'PT', 'PSY')",
+                        "('C0004134', 'ataxia', 'Sign or Symptom', 'PT', 'MEDCIN')",
+                        "('C0004134', 'ataxia', 'Sign or Symptom', 'PT', 'NCI_NCI-GLOSS')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Disease or Syndrome",
+            "all_matches": [
+                {
+                    "_term": "ataxia",
+                    "concepts": [
+                        "('C0007758', 'Ataxia', 'Disease or Syndrome', 'PT', 'HPO')"
+                    ]
+                },
+                {
+                    "_term": "ataxia telangiectasia",
+                    "concepts": [
+                        "('C0004135', 'Ataxia telangiectasia', 'Disease or Syndrome', 'PT', 'MDR')",
+                        "('C0004135', 'Ataxia Telangiectasia', 'Disease or Syndrome', 'MH', 'MSH')",
+                        "('C0004135', 'ataxia telangiectasia', 'Disease or Syndrome', 'PT', 'CSP')",
+                        "('C0004135', 'Ataxia Telangiectasia', 'Disease or Syndrome', 'PT', 'MEDLINEPLUS')",
+                        "('C0004135', 'Ataxia Telangiectasia', 'Disease or Syndrome', 'SY', 'NCI')",
+                        "('C0004135', 'ataxia telangiectasia', 'Disease or Syndrome', 'SY', 'CHV')",
+                        "('C0004135', 'Ataxia Telangiectasia', 'Disease or Syndrome', 'PN', 'MTH')",
+                        "('C0004135', 'Ataxia telangiectasia', 'Disease or Syndrome', 'LLT', 'MDR')",
+                        "('C0004135', 'Ataxia telangiectasia', 'Disease or Syndrome', 'PT', 'LCH_NW')",
+                        "('C0004135', 'Ataxia telangiectasia', 'Disease or Syndrome', 'SY', 'SNOMEDCT_US')",
+                        "('C0004135', 'ataxia telangiectasia', 'Disease or Syndrome', 'PT', 'MEDCIN')",
+                        "('C0004135', 'Ataxia Telangiectasia', 'Disease or Syndrome', 'PT', 'NCI_CCPS')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Pathologic Function",
+            "all_matches": [
+                {
+                    "_term": "progression",
+                    "concepts": [
+                        "('C0242656', 'progression', 'Pathologic Function', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0242656', 'Progression', 'Pathologic Function', 'SY', 'NCI')",
+                        "('C1947901', 'progression', 'Pathologic Function', 'SY', 'NCI_NCI-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "adverse events",
+                    "concepts": [
+                        "('C0877248', 'adverse events', 'Pathologic Function', 'SY', 'CHV')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Clinical Attribute",
+            "all_matches": [
+                {
+                    "_term": "dose",
+                    "concepts": [
+                        "('C1114758', 'Dose', 'Clinical Attribute', '#OSN', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "biomarker",
+                    "concepts": [
+                        "('C0005516', 'Biomarker', 'Clinical Attribute', 'PT', 'NCI_BRIDG_5_3')",
+                        "('C0005516', 'Biomarker', 'Clinical Attribute', 'SY', 'NCI_caDSR')",
+                        "('C0005516', 'Biomarker', 'Clinical Attribute', 'ET', 'MSH')",
+                        "('C0005516', 'biomarker', 'Clinical Attribute', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0005516', 'biomarker', 'Clinical Attribute', 'PT', 'CHV')",
+                        "('C0005516', 'biomarker', 'Clinical Attribute', 'PT', 'NCI_CDISC-GLOSS')",
+                        "('C0005516', 'Biomarker', 'Clinical Attribute', 'PT', 'NCI')",
+                        "('C0005516', 'biomarker', 'Clinical Attribute', 'PT', 'CSP')"
+                    ]
+                }
+            ]
+        }
+    ],
+    "indications": [
+        {
+            "_id": "149",
+            "ct_disease": [
+                "Melanoma",
+                "Melanoma, Familial",
+                "Acral Lentiginous Melanoma"
+            ],
+            "department": [
+                "肿瘤科"
+            ],
+            "indication_type": [
+                "肿瘤领域",
+                "罕见疾病领域"
+            ],
+            "is_patent": "是",
+            "name": "黑素瘤",
+            "name_en": "melanoma (MEL)",
+            "name_short": "MEL",
+            "name_synonyms": [
+                "黑色素瘤",
+                "malignant melanoma",
+                "melanoma"
+            ],
+            "parent_indication": [
+                "148"
+            ],
+            "state": "正常"
+        }
+    ]
+}

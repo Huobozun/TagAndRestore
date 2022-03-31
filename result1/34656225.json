@@ -1,0 +1,358 @@
+{
+    "_id": "585bc09b0b004bcf999185d72a591005",
+    "_pm_abstract": [
+        {
+            "Label": "BACKGROUND",
+            "text": "Cyclin-dependent kinase 4/6 inhibitors (CDKIs) are oral targeted agents approved for use in combination with endocrine therapy as first-line or second-line treatment of patients with hormone receptor-positive, HER2-negative, advanced or metastatic breast cancer. We previously reported the pooled analyses of progression-free survival in patients in specific clinicopathological subgroups, all of whom received consistent benefit from the addition of a CDKI to hormonal therapy. Here, we report the pooled overall survival results in patients treated with a CDKI and fulvestrant."
+        },
+        {
+            "Label": "METHODS",
+            "text": "In this exploratory analysis, we pooled individual patient data from three phase 3 randomised trials of CDKI or placebo in combination with fulvestrant in patients with breast cancer submitted to the US Food and Drug Administration and approved before Aug 1, 2020, in support of marketing applications. All analysed patients were aged at least 18 years, had an Eastern Cooperative Oncology Group performance status of 0-1, had hormone receptor-positive, HER2-negative advanced or metastatic breast cancer, and received at least one dose of CDKI or placebo in combination with fulvestrant. The median overall survival was estimated using Kaplan-Meier methods, and hazard ratios (HRs) with corresponding 95% CIs were estimated using Cox regression models. Patients were analysed collectively, by number of previous lines of systemic endocrine therapy in any disease setting (first-line or endocrine naive vs second-line and later), and in various clinicopathological subgroups of interest. The estimated median overall survival was not reported by group when the pooled population included patients treated across lines of therapy because of potential patient heterogeneity. All results presented are considered exploratory and hypothesis generating."
+        },
+        {
+            "Label": "FINDINGS",
+            "text": "Across the three pooled trials, 1960 patients were randomly assigned between Oct 7, 2013, and June 10, 2016 (12 patients were not treated and 1296 [66%] patients were randomly assigned to CDKI and 652 [33%] to placebo). In all treated patients (n=1948), the estimated HR for overall survival was 0·77 (95% CI 0·68-0·88), with a median follow-up of 43·7 months (IQR 37·8-47·7) and deaths in 935 (48%) of the 1948 patients. The difference in estimated median overall survival was 7·1 months, favouring CDKIs. In patients who received CDKIs or placebo in combination with fulvestrant as first-line systemic endocrine therapy (two trials; n=396), the estimated HR for overall survival was 0·74 (95% CI 0·52-1·07), with a median follow-up of 39·4 months (IQR 37·0-42·2). 123 (31%) of these patients died. The difference in estimated median overall survival could not be calculated because median overall survival was not estimable (95% CI 50·9-not estimable) in the CDKI group and was 45·7 months (95% CI 41·7-not estimable) in the placebo group. In patients who received CDKIs or placebo in combination with fulvestrant as second-line or later systemic endocrine therapy (three trials; n=1552), the estimated HR for overall survival was 0·77 (95% CI 0·67-0·89), with a median follow-up of 45·1 months (95% CI 39·2-48·5). 812 (52%) of these patients died. The difference in estimated median overall survival was 7·0 months, favouring CDKIs."
+        },
+        {
+            "Label": "INTERPRETATION",
+            "text": "The addition of CDKIs to fulvestrant resulted in a consistent overall survival benefit in all pooled patients and within most clinicopathological subgroups of interest. These findings support the existing standard of care of CDKIs plus fulvestrant for the treatment of patients with hormone receptor-positive, HER2-negative, advanced breast cancer."
+        },
+        {
+            "Label": "FUNDING",
+            "text": "None."
+        }
+    ],
+    "_pm_abstract_raw": "Cyclin-dependent kinase 4/6 inhibitors (CDKIs) are oral targeted agents approved for use in combination with endocrine therapy as first-line or second-line treatment of patients with hormone receptor-positive, HER2-negative, advanced or metastatic breast cancer. We previously reported the pooled analyses of progression-free survival in patients in specific clinicopathological subgroups, all of whom received consistent benefit from the addition of a CDKI to hormonal therapy. Here, we report the pooled overall survival results in patients treated with a CDKI and fulvestrant. In this exploratory analysis, we pooled individual patient data from three phase 3 randomised trials of CDKI or placebo in combination with fulvestrant in patients with breast cancer submitted to the US Food and Drug Administration and approved before Aug 1, 2020, in support of marketing applications. All analysed patients were aged at least 18 years, had an Eastern Cooperative Oncology Group performance status of 0-1, had hormone receptor-positive, HER2-negative advanced or metastatic breast cancer, and received at least one dose of CDKI or placebo in combination with fulvestrant. The median overall survival was estimated using Kaplan-Meier methods, and hazard ratios (HRs) with corresponding 95% CIs were estimated using Cox regression models. Patients were analysed collectively, by number of previous lines of systemic endocrine therapy in any disease setting (first-line or endocrine naive vs second-line and later), and in various clinicopathological subgroups of interest. The estimated median overall survival was not reported by group when the pooled population included patients treated across lines of therapy because of potential patient heterogeneity. All results presented are considered exploratory and hypothesis generating. Across the three pooled trials, 1960 patients were randomly assigned between Oct 7, 2013, and June 10, 2016 (12 patients were not treated and 1296 [66%] patients were randomly assigned to CDKI and 652 [33%] to placebo). In all treated patients (n=1948), the estimated HR for overall survival was 0·77 (95% CI 0·68-0·88), with a median follow-up of 43·7 months (IQR 37·8-47·7) and deaths in 935 (48%) of the 1948 patients. The difference in estimated median overall survival was 7·1 months, favouring CDKIs. In patients who received CDKIs or placebo in combination with fulvestrant as first-line systemic endocrine therapy (two trials; n=396), the estimated HR for overall survival was 0·74 (95% CI 0·52-1·07), with a median follow-up of 39·4 months (IQR 37·0-42·2). 123 (31%) of these patients died. The difference in estimated median overall survival could not be calculated because median overall survival was not estimable (95% CI 50·9-not estimable) in the CDKI group and was 45·7 months (95% CI 41·7-not estimable) in the placebo group. In patients who received CDKIs or placebo in combination with fulvestrant as second-line or later systemic endocrine therapy (three trials; n=1552), the estimated HR for overall survival was 0·77 (95% CI 0·67-0·89), with a median follow-up of 45·1 months (95% CI 39·2-48·5). 812 (52%) of these patients died. The difference in estimated median overall survival was 7·0 months, favouring CDKIs. The addition of CDKIs to fulvestrant resulted in a consistent overall survival benefit in all pooled patients and within most clinicopathological subgroups of interest. These findings support the existing standard of care of CDKIs plus fulvestrant for the treatment of patients with hormone receptor-positive, HER2-negative, advanced breast cancer. None.",
+    "_pm_id": "34656225",
+    "_pm_title": "Overall survival in patients with hormone receptor-positive, HER2-negative, advanced or metastatic breast cancer treated with a cyclin-dependent kinase 4/6 inhibitor plus fulvestrant: a US Food and Drug Administration pooled analysis.",
+    "_umls_result": [
+        {
+            "_semantic_type": "Patient or Disabled Group",
+            "all_matches": [
+                {
+                    "_term": "patients",
+                    "concepts": [
+                        "('C0030705', 'patients', 'Patient or Disabled Group', 'SY', 'CHV')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'PSY')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'LCH_NW')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PN', 'MTH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'MH', 'MSH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'SY', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Neoplastic Process",
+            "all_matches": [
+                {
+                    "_term": "metastatic",
+                    "concepts": [
+                        "('C2939420', 'Metastatic', 'Neoplastic Process', 'SY', 'NCI_GDC')",
+                        "('C2939420', 'Metastatic', 'Neoplastic Process', 'PT', 'NCI_CTDC')"
+                    ]
+                },
+                {
+                    "_term": "metastatic breast cancer",
+                    "concepts": [
+                        "('C0278488', 'metastatic breast cancer', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0278488', 'Metastatic breast cancer', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0278488', 'metastatic breast cancer', 'Neoplastic Process', 'SY', 'PDQ')"
+                    ]
+                },
+                {
+                    "_term": "breast cancer",
+                    "concepts": [
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C0678222', 'breast cancer', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'PT', 'NCI_FDA')",
+                        "('C0006142', 'breast cancer', 'Neoplastic Process', 'SY', 'MEDCIN')",
+                        "('C0006142', 'Breast cancer', 'Neoplastic Process', 'LA', 'LNC')",
+                        "('C0006142', 'breast cancer', 'Neoplastic Process', 'ET', 'CSP')",
+                        "('C0006142', 'Breast Cancer', 'Neoplastic Process', 'PT', 'MEDLINEPLUS')",
+                        "('C0006142', 'breast cancer', 'Neoplastic Process', 'PSC', 'PDQ')",
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'PT', 'NCI_NICHD')",
+                        "('C0006142', 'Breast Cancer', 'Neoplastic Process', 'PEP', 'MSH')",
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'PT', 'NCI_CTRP')",
+                        "('C3897071', 'Breast Cancer', 'Neoplastic Process', 'DN', 'NCI_CTRP')",
+                        "('C0678222', 'Breast cancer', 'Neoplastic Process', 'SY', 'HPO')",
+                        "('C0006142', 'Breast cancer', 'Neoplastic Process', 'PT', 'MDR')",
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'PT', 'NCI_GDC')",
+                        "('C0678222', 'Breast Cancer', 'Neoplastic Process', 'SY', 'NCI')",
+                        "('C0006142', 'breast cancer', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0006142', 'BREAST CANCER', 'Neoplastic Process', 'PT', 'OMIM')",
+                        "('C0678222', 'breast cancer', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0006142', 'Breast cancer', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0006142', 'breast cancer', 'Neoplastic Process', 'PT', 'MEDCIN')",
+                        "('C0006142', 'Breast cancer', 'Neoplastic Process', 'PTCS', 'OMIM')",
+                        "('C0006142', 'Breast cancer', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "progression",
+                    "concepts": [
+                        "('C0178874', 'Progression', 'Neoplastic Process', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "oncology",
+                    "concepts": [
+                        "('C0027651', 'Oncology', 'Neoplastic Process', 'ET', 'HPO')"
+                    ]
+                },
+                {
+                    "_term": "cis",
+                    "concepts": [
+                        "('C0007099', 'CIS', 'Neoplastic Process', 'SY', 'NCI_CDISC')"
+                    ]
+                },
+                {
+                    "_term": "advanced breast cancer",
+                    "concepts": [
+                        "('C3495917', 'Advanced breast cancer', 'Neoplastic Process', 'LLT', 'MDR')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Therapeutic or Preventive Procedure",
+            "all_matches": [
+                {
+                    "_term": "treated with",
+                    "concepts": [
+                        "('C0332293', 'Treated with', 'Therapeutic or Preventive Procedure', 'PN', 'MTH')",
+                        "('C0332293', 'Treated with', 'Therapeutic or Preventive Procedure', 'PT', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "drug administration",
+                    "concepts": [
+                        "('C3469597', 'drug administration', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "endocrine therapy",
+                    "concepts": [
+                        "('C0279025', 'endocrine therapy', 'Therapeutic or Preventive Procedure', 'PT', 'PDQ')",
+                        "('C0279025', 'Endocrine therapy', 'Therapeutic or Preventive Procedure', 'SY', 'SNOMEDCT_US')",
+                        "('C0279025', 'endocrine therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0279025', 'Endocrine Therapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI_caDSR')"
+                    ]
+                },
+                {
+                    "_term": "hormonal therapy",
+                    "concepts": [
+                        "('C0279025', 'Hormonal therapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI_caDSR')",
+                        "('C0279025', 'Hormonal Therapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI')",
+                        "('C0279025', 'hormonal therapy', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C0279025', 'hormonal therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "placebo",
+                    "concepts": [
+                        "('C0032042', 'Placebo', 'Therapeutic or Preventive Procedure', 'PT', 'PSY')",
+                        "('C0032042', 'Placebo', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'PT', 'CSP')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')",
+                        "('C0032042', 'Placebo', 'Therapeutic or Preventive Procedure', 'DN', 'NCI_CTRP')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_CDISC-GLOSS')",
+                        "('C0032042', 'placebo', 'Therapeutic or Preventive Procedure', 'PT', 'PDQ')"
+                    ]
+                },
+                {
+                    "_term": "applications",
+                    "concepts": [
+                        "('C0185125', 'applications', 'Therapeutic or Preventive Procedure', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "systemic",
+                    "concepts": [
+                        "('C5400982', 'Systemic', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_PCDC')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Finding",
+            "all_matches": [
+                {
+                    "_term": "oral",
+                    "concepts": [
+                        "('C4521986', 'Oral', 'Finding', 'PT', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "endocrine",
+                    "concepts": [
+                        "('C1559198', 'ENDOCRINE', 'Finding', 'PT', 'NCI_CTCAE_3')",
+                        "('C0559306', 'Endocrine', 'Finding', 'PT', 'NCI_ACC-AHA')"
+                    ]
+                },
+                {
+                    "_term": "performance status",
+                    "concepts": [
+                        "('C1518965', 'Performance Status', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C1518965', 'Performance status', 'Finding', 'CN', 'LNC')",
+                        "('C1518965', 'Performance status', 'Finding', 'LPDN', 'LNC')",
+                        "('C1518965', 'performance status', 'Finding', 'PT', 'CHV')",
+                        "('C1518965', 'performance status', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C1518965', 'Performance Status', 'Finding', 'PT', 'NCI')",
+                        "('C1518965', 'Performance status', 'Finding', 'LPN', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "regression",
+                    "concepts": [
+                        "('C1718423', 'regression', 'Finding', 'PT', 'NCI_NCI-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "follow-up",
+                    "concepts": [
+                        "('C0589120', 'Follow-up', 'Finding', 'SY', 'SNOMEDCT_US')",
+                        "('C0589120', 'Follow-up', 'Finding', 'LA', 'LNC')",
+                        "('C0589120', 'follow-up', 'Finding', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "deaths",
+                    "concepts": [
+                        "('C4738113', 'Deaths', 'Finding', 'LPN', 'LNC')",
+                        "('C4738113', 'Deaths', 'Finding', 'CN', 'LNC')",
+                        "('C4738113', 'Deaths', 'Finding', 'LPDN', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "died",
+                    "concepts": [
+                        "('C1546956', 'Died', 'Finding', 'SY', 'SNOMEDCT_US')",
+                        "('C1306577', 'Died', 'Finding', 'LA', 'LNC')",
+                        "('C1546956', 'Died', 'Finding', 'PT', 'HL7V2.5')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Pathologic Function",
+            "all_matches": [
+                {
+                    "_term": "progression",
+                    "concepts": [
+                        "('C0242656', 'progression', 'Pathologic Function', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0242656', 'Progression', 'Pathologic Function', 'SY', 'NCI')",
+                        "('C1947901', 'progression', 'Pathologic Function', 'SY', 'NCI_NCI-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "regression",
+                    "concepts": [
+                        "('C0684320', 'Regression', 'Pathologic Function', 'PT', 'NCI')",
+                        "('C0684320', 'regression', 'Pathologic Function', 'PT', 'CHV')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Population Group",
+            "all_matches": [
+                {
+                    "_term": "aged",
+                    "concepts": [
+                        "('C0001792', 'aged', 'Population Group', 'PTN', 'ICPC2P')",
+                        "('C0001792', 'Aged', 'Population Group', 'MH', 'MSH')",
+                        "('C1999167', 'aged', 'Population Group', 'SY', 'CHV')",
+                        "('C0001792', 'Aged', 'Population Group', 'PT', 'ICPC2P')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Professional or Occupational Group",
+            "all_matches": [
+                {
+                    "_term": "oncology group",
+                    "concepts": [
+                        "('C1518578', 'Oncology Group', 'Professional or Occupational Group', 'PT', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Group Attribute",
+            "all_matches": [
+                {
+                    "_term": "group performance",
+                    "concepts": [
+                        "('C0870623', 'Group Performance', 'Group Attribute', 'PT', 'PSY')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Clinical Attribute",
+            "all_matches": [
+                {
+                    "_term": "dose",
+                    "concepts": [
+                        "('C1114758', 'Dose', 'Clinical Attribute', '#OSN', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "findings",
+                    "concepts": [
+                        "('C2926606', 'Findings', 'Clinical Attribute', 'OSN', 'LNC')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Disease or Syndrome",
+            "all_matches": [
+                {
+                    "_term": "regression",
+                    "concepts": [
+                        "('C1836830', 'Regression', 'Disease or Syndrome', 'PTCS', 'OMIM')",
+                        "('C1836830', 'Regression', 'Disease or Syndrome', 'PT', 'NCI_NICHD')"
+                    ]
+                }
+            ]
+        }
+    ],
+    "indications": [
+        {
+            "_id": "141",
+            "ct_disease": [
+                "Breast Neoplasms",
+                "Breast Neoplasms, Male",
+                "Breast Cancer, Male",
+                "Breast Carcinoma In Situ",
+                "Carcinoma, Ductal, Breast",
+                "Breast Cancer Female"
+            ],
+            "department": [
+                "肿瘤科"
+            ],
+            "indication_type": [
+                "肿瘤领域"
+            ],
+            "name": "乳腺癌",
+            "name_en": "breast cancer",
+            "name_short": "",
+            "name_synonyms": [
+                "breast tumor",
+                "neoplasia of the breast",
+                "neoplasm of breast",
+                "tumours of the breast",
+                "neoplasm of the breast",
+                "breast neoplasm"
+            ],
+            "parent_indication": [
+                "133"
+            ],
+            "state": "正常"
+        }
+    ]
+}

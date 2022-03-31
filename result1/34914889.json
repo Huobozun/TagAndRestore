@@ -1,0 +1,490 @@
+{
+    "_id": "66848706059841fb826669e12f711514",
+    "_pm_abstract": [
+        {
+            "Label": "BACKGROUND",
+            "text": "Single-agent nivolumab showed durable responses, manageable safety, and promising survival in patients with advanced hepatocellular carcinoma in the phase 1-2 CheckMate 040 study. We aimed to investigate nivolumab monotherapy compared with sorafenib monotherapy in the first-line setting for patients with advanced hepatocellular carcinoma."
+        },
+        {
+            "Label": "METHODS",
+            "text": "In this randomised, open-label, phase 3 trial done at medical centres across 22 countries and territories in Asia, Australasia, Europe, and North America, patients at least 18 years old with histologically confirmed advanced hepatocellular carcinoma not eligible for, or whose disease had progressed after, surgery or locoregional treatment; with no previous systemic therapy for hepatocellular carcinoma, with Child-Pugh class A and Eastern Cooperative Oncology Group performance status score of 0 or 1, and regardless of viral hepatitis status were randomly assigned (1:1) via an interactive voice response system to receive nivolumab (240 mg intravenously every 2 weeks) or sorafenib (400 mg orally twice daily) until disease progression or unacceptable toxicity. The primary endpoint was overall survival assessed in the intention-to-treat population. Safety was assessed in all patients who received at least one dose of study drug. This completed trial is registered with ClinicalTrials.gov, NCT02576509."
+        },
+        {
+            "Label": "FINDINGS",
+            "text": "Between Jan 11, 2016, and May 24, 2017, 743 patients were randomly assigned to treatment (nivolumab, n=371; sorafenib, n=372). At the primary analysis, the median follow-up for overall survival was 15·2 months (IQR 5·7-28·0) for the nivolumab group and 13·4 months (5·7-25·9) in the sorafenib group. Median overall survival was 16·4 months (95% CI 13·9-18·4) with nivolumab and 14·7 months (11·9-17·2) with sorafenib (hazard ratio 0·85 [95% CI 0·72-1·02]; p=0·075; minimum follow-up 22·8 months); the protocol-defined significance level of p=0·0419 was not reached. The most common grade 3 or worse treatment-related adverse events were palmar-plantar erythrodysaesthesia (1 [<1%] of 367 patients in the nivolumab group vs 52 [14%] of patients in the sorafenib group), aspartate aminotransferase increase (22 [6%] vs 13 [4%]), and hypertension (0 vs 26 [7%]). Serious treatment-related adverse events were reported in 43 (12%) patients receiving nivolumab and 39 (11%) patients receiving sorafenib. Four deaths in the nivolumab group and one death in the sorafenib group were assessed as treatment related."
+        },
+        {
+            "Label": "INTERPRETATION",
+            "text": "First-line nivolumab treatment did not significantly improve overall survival compared with sorafenib, but clinical activity and a favourable safety profile were observed in patients with advanced hepatocellular carcinoma. Thus, nivolumab might be considered a therapeutic option for patients in whom tyrosine kinase inhibitors and antiangiogenic drugs are contraindicated or have substantial risks."
+        },
+        {
+            "Label": "FUNDING",
+            "text": "Bristol Myers Squibb in collaboration with Ono Pharmaceutical."
+        }
+    ],
+    "_pm_abstract_raw": "Single-agent nivolumab showed durable responses, manageable safety, and promising survival in patients with advanced hepatocellular carcinoma in the phase 1-2 CheckMate 040 study. We aimed to investigate nivolumab monotherapy compared with sorafenib monotherapy in the first-line setting for patients with advanced hepatocellular carcinoma. In this randomised, open-label, phase 3 trial done at medical centres across 22 countries and territories in Asia, Australasia, Europe, and North America, patients at least 18 years old with histologically confirmed advanced hepatocellular carcinoma not eligible for, or whose disease had progressed after, surgery or locoregional treatment; with no previous systemic therapy for hepatocellular carcinoma, with Child-Pugh class A and Eastern Cooperative Oncology Group performance status score of 0 or 1, and regardless of viral hepatitis status were randomly assigned (1:1) via an interactive voice response system to receive nivolumab (240 mg intravenously every 2 weeks) or sorafenib (400 mg orally twice daily) until disease progression or unacceptable toxicity. The primary endpoint was overall survival assessed in the intention-to-treat population. Safety was assessed in all patients who received at least one dose of study drug. This completed trial is registered with ClinicalTrials.gov, NCT02576509. Between Jan 11, 2016, and May 24, 2017, 743 patients were randomly assigned to treatment (nivolumab, n=371; sorafenib, n=372). At the primary analysis, the median follow-up for overall survival was 15·2 months (IQR 5·7-28·0) for the nivolumab group and 13·4 months (5·7-25·9) in the sorafenib group. Median overall survival was 16·4 months (95% CI 13·9-18·4) with nivolumab and 14·7 months (11·9-17·2) with sorafenib (hazard ratio 0·85 [95% CI 0·72-1·02]; p=0·075; minimum follow-up 22·8 months); the protocol-defined significance level of p=0·0419 was not reached. The most common grade 3 or worse treatment-related adverse events were palmar-plantar erythrodysaesthesia (1 [<1%] of 367 patients in the nivolumab group vs 52 [14%] of patients in the sorafenib group), aspartate aminotransferase increase (22 [6%] vs 13 [4%]), and hypertension (0 vs 26 [7%]). Serious treatment-related adverse events were reported in 43 (12%) patients receiving nivolumab and 39 (11%) patients receiving sorafenib. Four deaths in the nivolumab group and one death in the sorafenib group were assessed as treatment related. First-line nivolumab treatment did not significantly improve overall survival compared with sorafenib, but clinical activity and a favourable safety profile were observed in patients with advanced hepatocellular carcinoma. Thus, nivolumab might be considered a therapeutic option for patients in whom tyrosine kinase inhibitors and antiangiogenic drugs are contraindicated or have substantial risks. Bristol Myers Squibb in collaboration with Ono Pharmaceutical.",
+    "_pm_id": "34914889",
+    "_pm_title": "Nivolumab versus sorafenib in advanced hepatocellular carcinoma (CheckMate 459): a randomised, multicentre, open-label, phase 3 trial.",
+    "_umls_result": [
+        {
+            "_semantic_type": "Neoplastic Process",
+            "all_matches": [
+                {
+                    "_term": "advanced hepatocellular carcinoma",
+                    "concepts": [
+                        "('C5238472', 'Advanced Hepatocellular Carcinoma', 'Neoplastic Process', 'PT', 'NCI')",
+                        "('C5238472', 'Advanced Hepatocellular Carcinoma', 'Neoplastic Process', 'DN', 'NCI_CTRP')"
+                    ]
+                },
+                {
+                    "_term": "hepatocellular carcinoma",
+                    "concepts": [
+                        "('C2239176', 'Hepatocellular Carcinoma', 'Neoplastic Process', 'PT', 'NCI')",
+                        "('C2239176', 'Hepatocellular Carcinoma', 'Neoplastic Process', 'ET', 'MSH')",
+                        "('C2239176', 'Hepatocellular Carcinoma', 'Neoplastic Process', 'ET', 'MEDLINEPLUS')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'PT', 'NCI_CTEP-SDC')",
+                        "('C2239176', 'Hepatocellular Carcinoma', 'Neoplastic Process', 'PT', 'NCI_CELLOSAURUS')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'ET', 'ICD10CM')",
+                        "('C2239176', 'Hepatocellular Carcinoma', 'Neoplastic Process', 'PT', 'NCI_CTRP')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'PT', 'SNOMEDCT_US')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C2239176', 'hepatocellular carcinoma', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'PTCS', 'OMIM')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'ET', 'MTHICD9')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'PT', 'HPO')",
+                        "('C2239176', 'hepatocellular carcinoma', 'Neoplastic Process', 'SY', 'CHV')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'SY', 'MEDLINEPLUS')",
+                        "('C2239176', 'HEPATOCELLULAR CARCINOMA', 'Neoplastic Process', 'PT', 'OMIM')",
+                        "('C2239176', 'Hepatocellular Carcinoma', 'Neoplastic Process', 'SY', 'NCI_caDSR')",
+                        "('C2239176', 'hepatocellular carcinoma', 'Neoplastic Process', 'PT', 'CSP')",
+                        "('C2239176', 'Hepatocellular carcinoma', 'Neoplastic Process', 'PT', 'MDR')"
+                    ]
+                },
+                {
+                    "_term": "carcinoma",
+                    "concepts": [
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'SY', 'NCI_caDSR')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'PT', 'HPO')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'SY', 'SNOMEDCT_US')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'PT', 'NCI')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'MH', 'MSH')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'PT', 'SNOMEDCT_US')",
+                        "('C0007097', 'carcinoma', 'Neoplastic Process', 'PT', 'MEDCIN')",
+                        "('C0007097', 'carcinoma', 'Neoplastic Process', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'SY', 'MEDLINEPLUS')",
+                        "('C0007097', 'carcinoma', 'Neoplastic Process', 'PT', 'CHV')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'ET', 'MEDLINEPLUS')",
+                        "('C0007097', 'carcinoma', 'Neoplastic Process', 'PT', 'CSP')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'LLT', 'MDR')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'PT', 'NCI_CTRP')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'PN', 'MTH')",
+                        "('C0007097', 'Carcinoma', 'Neoplastic Process', 'LA', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "oncology",
+                    "concepts": [
+                        "('C0027651', 'Oncology', 'Neoplastic Process', 'ET', 'HPO')"
+                    ]
+                },
+                {
+                    "_term": "progression",
+                    "concepts": [
+                        "('C0178874', 'Progression', 'Neoplastic Process', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C0079745', 'Grade 3', 'Neoplastic Process', 'SY', 'NCI_caDSR')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Patient or Disabled Group",
+            "all_matches": [
+                {
+                    "_term": "patients",
+                    "concepts": [
+                        "('C0030705', 'patients', 'Patient or Disabled Group', 'SY', 'CHV')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'PSY')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PT', 'LCH_NW')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'PN', 'MTH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'MH', 'MSH')",
+                        "('C0030705', 'Patients', 'Patient or Disabled Group', 'SY', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Therapeutic or Preventive Procedure",
+            "all_matches": [
+                {
+                    "_term": "monotherapy",
+                    "concepts": [
+                        "('C4763675', 'Monotherapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI')"
+                    ]
+                },
+                {
+                    "_term": "systemic",
+                    "concepts": [
+                        "('C5400982', 'Systemic', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_PCDC')"
+                    ]
+                },
+                {
+                    "_term": "systemic therapy",
+                    "concepts": [
+                        "('C1515119', 'Systemic Therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI')",
+                        "('C1515119', 'systemic therapy', 'Therapeutic or Preventive Procedure', 'PT', 'CHV')",
+                        "('C1515119', 'systemic therapy', 'Therapeutic or Preventive Procedure', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C1515119', 'Systemic Therapy', 'Therapeutic or Preventive Procedure', 'SY', 'NCI_caDSR')",
+                        "('C1515119', 'Systemic Therapy', 'Therapeutic or Preventive Procedure', 'DN', 'NCI_CTRP')"
+                    ]
+                },
+                {
+                    "_term": "therapeutic",
+                    "concepts": [
+                        "('C0087111', 'Therapeutic', 'Therapeutic or Preventive Procedure', 'PM', 'MSH')"
+                    ]
+                },
+                {
+                    "_term": "drugs",
+                    "concepts": [
+                        "('C3687832', 'Drugs', 'Therapeutic or Preventive Procedure', 'MTH_HT', 'HCPCS')",
+                        "('C3687832', 'DRUGS', 'Therapeutic or Preventive Procedure', 'HT', 'CDT')"
+                    ]
+                },
+                {
+                    "_term": "pharmaceutical",
+                    "concepts": [
+                        "('C1135440', 'pharmaceutical', 'Therapeutic or Preventive Procedure', 'PT', 'CHV')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Finding",
+            "all_matches": [
+                {
+                    "_term": "confirmed",
+                    "concepts": [
+                        "('C0750484', 'Confirmed', 'Finding', 'AD', 'NCI')",
+                        "('C0750484', 'Confirmed', 'Finding', 'LA', 'LNC')",
+                        "('C0750484', 'confirmed', 'Finding', 'PT', 'CHV')",
+                        "('C0750484', 'Confirmed', 'Finding', 'PT', 'NCI_PCDC')"
+                    ]
+                },
+                {
+                    "_term": "not eligible",
+                    "concepts": [
+                        "('C1555471', 'Not Eligible', 'Finding', 'PN', 'MTH')",
+                        "('C1555471', 'Not eligible', 'Finding', 'LA', 'LNC')",
+                        "('C1555471', 'not eligible', 'Finding', 'PT', 'HL7V3.0')"
+                    ]
+                },
+                {
+                    "_term": "performance status",
+                    "concepts": [
+                        "('C1518965', 'Performance Status', 'Finding', 'SY', 'NCI_caDSR')",
+                        "('C1518965', 'Performance status', 'Finding', 'CN', 'LNC')",
+                        "('C1518965', 'Performance status', 'Finding', 'LPDN', 'LNC')",
+                        "('C1518965', 'performance status', 'Finding', 'PT', 'CHV')",
+                        "('C1518965', 'performance status', 'Finding', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C1518965', 'Performance Status', 'Finding', 'PT', 'NCI')",
+                        "('C1518965', 'Performance status', 'Finding', 'LPN', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "disease progression",
+                    "concepts": [
+                        "('C5239280', 'Disease Progression', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C4552808', 'Disease progression', 'Finding', 'PT', 'NCI_CTCAE_5')"
+                    ]
+                },
+                {
+                    "_term": "follow-up",
+                    "concepts": [
+                        "('C0589120', 'Follow-up', 'Finding', 'SY', 'SNOMEDCT_US')",
+                        "('C0589120', 'Follow-up', 'Finding', 'LA', 'LNC')",
+                        "('C0589120', 'follow-up', 'Finding', 'SY', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "protocol",
+                    "concepts": [
+                        "('C3715209', 'Protocol', 'Finding', 'LA', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "defined",
+                    "concepts": [
+                        "('C3539106', 'Defined', 'Finding', 'PT', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C0450094', 'Grade 3', 'Finding', 'PT', 'SNOMEDCT_US')",
+                        "('C0450094', 'Grade 3', 'Finding', 'LA', 'LNC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'SY', 'NCI_CDISC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'PT', 'NCI_PCDC')",
+                        "('C1519275', 'Grade 3', 'Finding', 'PT', 'NCI_GDC')"
+                    ]
+                },
+                {
+                    "_term": "worse",
+                    "concepts": [
+                        "('C1457868', 'Worse', 'Finding', 'LA', 'LNC')",
+                        "('C1457868', 'Worse', 'Finding', 'PT', 'SNOMEDCT_US')",
+                        "('C1457868', 'Worse', 'Finding', 'PT', 'NCI')",
+                        "('C1457868', 'worse', 'Finding', 'PT', 'CHV')",
+                        "('C1457868', 'Worse', 'Finding', 'PN', 'MTH')"
+                    ]
+                },
+                {
+                    "_term": "related",
+                    "concepts": [
+                        "('C0445223', 'Related', 'Finding', 'LA', 'LNC')",
+                        "('C0445223', 'Related', 'Finding', 'PT', 'SNOMEDCT_US')"
+                    ]
+                },
+                {
+                    "_term": "aspartate aminotransferase increase",
+                    "concepts": [
+                        "('C0151904', 'Aspartate aminotransferase increase', 'Finding', 'LLT', 'MDR')"
+                    ]
+                },
+                {
+                    "_term": "hypertension",
+                    "concepts": [
+                        "('C1963138', 'Hypertension', 'Finding', 'PT', 'NCI_GDC')",
+                        "('C1963138', 'Hypertension', 'Finding', 'PT', 'NCI_CTCAE_3')",
+                        "('C1963138', 'Hypertension', 'Finding', 'PT', 'NCI_CTCAE_5')",
+                        "('C0455405', 'Hypertension', 'Finding', 'PT', 'NCI_ACC-AHA')"
+                    ]
+                },
+                {
+                    "_term": "deaths",
+                    "concepts": [
+                        "('C4738113', 'Deaths', 'Finding', 'LPN', 'LNC')",
+                        "('C4738113', 'Deaths', 'Finding', 'CN', 'LNC')",
+                        "('C4738113', 'Deaths', 'Finding', 'LPDN', 'LNC')"
+                    ]
+                },
+                {
+                    "_term": "contraindicated",
+                    "concepts": [
+                        "('C1444657', 'Contraindicated', 'Finding', 'LA', 'LNC')",
+                        "('C1444657', 'Contraindicated', 'Finding', 'PT', 'NCI')",
+                        "('C1444657', 'Contraindicated', 'Finding', 'PT', 'SNOMEDCT_US')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Professional or Occupational Group",
+            "all_matches": [
+                {
+                    "_term": "oncology group",
+                    "concepts": [
+                        "('C1518578', 'Oncology Group', 'Professional or Occupational Group', 'PT', 'NCI')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Group Attribute",
+            "all_matches": [
+                {
+                    "_term": "group performance",
+                    "concepts": [
+                        "('C0870623', 'Group Performance', 'Group Attribute', 'PT', 'PSY')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Disease or Syndrome",
+            "all_matches": [
+                {
+                    "_term": "hepatitis",
+                    "concepts": [
+                        "('C0019158', 'hepatitis', 'Disease or Syndrome', 'PT', 'CHV')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'PT', 'MDR')",
+                        "('C0019158', 'hepatitis', 'Disease or Syndrome', 'PT', 'ICPC2ICD10ENG')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'SD', 'CCS')",
+                        "('C0019158', 'hepatitis', 'Disease or Syndrome', 'PT', 'MEDCIN')",
+                        "('C0019159', 'hepatitis', 'Disease or Syndrome', 'SY', 'CHV')",
+                        "('C0019158', 'hepatitis', 'Disease or Syndrome', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'SD', 'CCSR_ICD10CM')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'PT', 'NCI_FDA')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'PT', 'NCI')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'MH', 'MSH')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'PT', 'MEDLINEPLUS')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'LLT', 'MDR')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'PT', 'NCI_NICHD')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'MD', 'CCS')",
+                        "('C0019158', 'hepatitis', 'Disease or Syndrome', 'PT', 'CSP')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'PT', 'ICPC2P')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'PTCS', 'OMIM')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'PT', 'PSY')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'PT', 'NCI_GDC')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'PT', 'HPO')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'SY', 'SNOMEDCT_US')",
+                        "('C0019158', 'hepatitis', 'Disease or Syndrome', 'PTN', 'ICPC2P')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'LA', 'LNC')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'PN', 'MTH')",
+                        "('C0019158', 'Hepatitis', 'Disease or Syndrome', 'PT', 'LCH_NW')"
+                    ]
+                },
+                {
+                    "_term": "disease progression",
+                    "concepts": [
+                        "('C1335499', 'Disease Progression', 'Disease or Syndrome', 'SY', 'NCI_CDISC')"
+                    ]
+                },
+                {
+                    "_term": "grade 3",
+                    "concepts": [
+                        "('C3889290', 'GRADE 3', 'Disease or Syndrome', 'PT', 'NCI_CDISC')"
+                    ]
+                },
+                {
+                    "_term": "hypertension",
+                    "concepts": [
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'RT', 'NANDA-I')",
+                        "('C0020538', 'hypertension', 'Disease or Syndrome', 'PT', 'ICPC2ICD10ENG')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'LPDN', 'LNC')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'PT', 'MTH')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'PT', 'NCI')",
+                        "('C0020538', 'hypertension', 'Disease or Syndrome', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0020538', 'hypertension', 'Disease or Syndrome', 'PT', 'PDQ')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'DN', 'NCI_CTRP')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'MH', 'MSH')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'ET', 'MEDLINEPLUS')",
+                        "('C0020538', 'hypertension', 'Disease or Syndrome', 'SY', 'CHV')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'PT', 'NCI_NICHD')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'PT', 'ICPC2P')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'LPN', 'LNC')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'PT', 'PSY')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'LLT', 'MDR')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'CN', 'LNC')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'PT', 'NCI_GDC')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'SY', 'SNOMEDCT_US')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'PT', 'HPO')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'MD', 'CCS')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'SY', 'MEDLINEPLUS')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'ET', 'MTHICD9')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'PTCS', 'OMIM')",
+                        "('C0020538', 'hypertension', 'Disease or Syndrome', 'PT', 'CSP')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'ID', 'NOC')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'LA', 'LNC')",
+                        "('C0020538', 'hypertension', 'Disease or Syndrome', 'PTN', 'ICPC2P')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'PT', 'LCH_NW')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'PT', 'MDR')",
+                        "('C0020538', 'Hypertension', 'Disease or Syndrome', 'PT', 'NCI_CTCAE')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Pathologic Function",
+            "all_matches": [
+                {
+                    "_term": "disease progression",
+                    "concepts": [
+                        "('C0242656', 'Disease progression', 'Pathologic Function', 'LLT', 'MDR')",
+                        "('C0242656', 'Disease progression', 'Pathologic Function', 'LA', 'LNC')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'PT', 'NCI_PCDC')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'PT', 'NCI')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'PT', 'NCI_GDC')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'PN', 'MTH')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'SY', 'NCI_caDSR')",
+                        "('C0242656', 'disease progression', 'Pathologic Function', 'ET', 'CSP')",
+                        "('C0242656', 'Disease Progression', 'Pathologic Function', 'MH', 'MSH')",
+                        "('C1947901', 'disease progression', 'Pathologic Function', 'SY', 'NCI_NCI-GLOSS')",
+                        "('C0242656', 'Disease progression', 'Pathologic Function', 'PT', 'MDR')",
+                        "('C0242656', 'disease progression', 'Pathologic Function', 'PT', 'CHV')"
+                    ]
+                },
+                {
+                    "_term": "progression",
+                    "concepts": [
+                        "('C0242656', 'progression', 'Pathologic Function', 'PT', 'NCI_NCI-GLOSS')",
+                        "('C0242656', 'Progression', 'Pathologic Function', 'SY', 'NCI')",
+                        "('C1947901', 'progression', 'Pathologic Function', 'SY', 'NCI_NCI-GLOSS')"
+                    ]
+                },
+                {
+                    "_term": "adverse events",
+                    "concepts": [
+                        "('C0877248', 'adverse events', 'Pathologic Function', 'SY', 'CHV')"
+                    ]
+                }
+            ]
+        },
+        {
+            "_semantic_type": "Clinical Attribute",
+            "all_matches": [
+                {
+                    "_term": "dose",
+                    "concepts": [
+                        "('C1114758', 'Dose', 'Clinical Attribute', '#OSN', 'LNC')"
+                    ]
+                }
+            ]
+        }
+    ],
+    "bio_labels": "",
+    "bio_labels_en": "",
+    "biomarker": null,
+    "clinical_stage": null,
+    "disease_labels": "",
+    "disease_labels_en": "",
+    "indications": [
+        {
+            "_id": "138",
+            "ct_disease": [
+                "Carcinoma, Hepatocellular",
+                "Primary Liver Cancer",
+                "Advanced Adult Hepatocellular Carcinoma"
+            ],
+            "department": [
+                "肿瘤科"
+            ],
+            "indication_type": [
+                "肿瘤领域",
+                "罕见疾病领域"
+            ],
+            "is_patent": "是",
+            "name": "肝细胞癌",
+            "name_en": "hepatocellular carcinoma (HCC)",
+            "name_short": "HCC",
+            "name_synonyms": [
+                "hepatocellular cancer",
+                "primary carcinoma of liver",
+                "liver cell carcinoma",
+                "hepatocellular carcinoma"
+            ],
+            "parent_indication": [
+                "137"
+            ],
+            "state": "正常"
+        }
+    ],
+    "m_stage": null,
+    "n_stage": null,
+    "pathology": null,
+    "patient_labels": "",
+    "patient_labels_en": "",
+    "t_stage": null,
+    "therapy_labels": [
+        "一线"
+    ],
+    "therapy_labels_en": [
+        null
+    ],
+    "title_abbr": "CheckMate 459"
+}
